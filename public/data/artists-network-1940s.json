@@ -1,0 +1,34 @@
+{
+  "nodes": [
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "value": 2,
+      "decade": "1940s",
+      "name": "197450cd-0124-4164-b723-3c22dd16494d",
+      "genre": [
+        "vocal jazz",
+        "jazz",
+        "swing"
+      ],
+      "group": "vocal jazz"
+    },
+    {
+      "id": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 2,
+      "decade": "1940s",
+      "name": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "genre": [
+        "vocal jazz",
+        "jazz"
+      ],
+      "group": "vocal jazz"
+    }
+  ],
+  "links": [
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 2
+    }
+  ]
+}

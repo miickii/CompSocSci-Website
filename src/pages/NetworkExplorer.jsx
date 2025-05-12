@@ -14,7 +14,7 @@ const decades = [
 
 function NetworkExplorer() {
   const [selectedDecade, setSelectedDecade] = useState('2020s');
-  const [networkType, setNetworkType] = useState('writers'); // 'writers' or 'artists'
+  const [networkType, setNetworkType] = useState('writer'); // 'writers' or 'artists'
   const [searchQuery, setSearchQuery] = useState('');
   const [showFilters, setShowFilters] = useState(false);
 

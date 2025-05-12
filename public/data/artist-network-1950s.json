@@ -1,0 +1,414 @@
+{
+  "nodes": [
+    {
+      "id": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "value": 18,
+      "decade": "1950s",
+      "name": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "197450cd-0124-4164-b723-3c22dd16494d",
+      "value": 55,
+      "decade": "1950s",
+      "name": "197450cd-0124-4164-b723-3c22dd16494d",
+      "genre": [
+        "vocal jazz",
+        "jazz",
+        "swing"
+      ],
+      "group": "vocal jazz"
+    },
+    {
+      "id": "291dcfb8-b31c-496a-905b-9955509d75b6",
+      "value": 3,
+      "decade": "1950s",
+      "name": "291dcfb8-b31c-496a-905b-9955509d75b6",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "48896dee-a985-424d-9849-84802f7e79c9",
+      "value": 21,
+      "decade": "1950s",
+      "name": "48896dee-a985-424d-9849-84802f7e79c9",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "value": 13,
+      "decade": "1950s",
+      "name": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "value": 22,
+      "decade": "1950s",
+      "name": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "genre": [
+        "vocal jazz",
+        "jazz"
+      ],
+      "group": "vocal jazz"
+    },
+    {
+      "id": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+      "value": 8,
+      "decade": "1950s",
+      "name": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 11,
+      "decade": "1950s",
+      "name": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "value": 9,
+      "decade": "1950s",
+      "name": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "genre": [
+        "jazz"
+      ],
+      "group": "jazz"
+    },
+    {
+      "id": "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+      "value": 4,
+      "decade": "1950s",
+      "name": "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 22,
+      "decade": "1950s",
+      "name": "Andy Williams",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 12,
+      "decade": "1950s",
+      "name": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "2c330f54-9245-488b-b678-dc8a236d06b3",
+      "value": 2,
+      "decade": "1950s",
+      "name": "2c330f54-9245-488b-b678-dc8a236d06b3",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 7,
+      "decade": "1950s",
+      "name": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 8,
+      "decade": "1950s",
+      "name": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "genre": [],
+      "group": "unknown"
+    },
+    {
+      "id": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 15,
+      "decade": "1950s",
+      "name": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "genre": [
+        "vocal jazz",
+        "jazz"
+      ],
+      "group": "vocal jazz"
+    },
+    {
+      "id": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "value": 4,
+      "decade": "1950s",
+      "name": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "genre": [],
+      "group": "unknown"
+    }
+  ],
+  "links": [
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "197450cd-0124-4164-b723-3c22dd16494d",
+      "value": 5
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "value": 4
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 3
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 2
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "value": 2
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 1
+    },
+    {
+      "source": "06538137-47eb-4dd6-bb78-5c8afa1a1885",
+      "target": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "value": 1
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+      "value": 6
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+      "value": 2
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 5
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "value": 7
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "value": 4
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "48896dee-a985-424d-9849-84802f7e79c9",
+      "value": 9
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 3
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 3
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "value": 2
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 2
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 5
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 1
+    },
+    {
+      "source": "197450cd-0124-4164-b723-3c22dd16494d",
+      "target": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "value": 1
+    },
+    {
+      "source": "291dcfb8-b31c-496a-905b-9955509d75b6",
+      "target": "48896dee-a985-424d-9849-84802f7e79c9",
+      "value": 1
+    },
+    {
+      "source": "291dcfb8-b31c-496a-905b-9955509d75b6",
+      "target": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "5fcd7daf-25e1-47fd-9ba1-830b42708f84",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "2c330f54-9245-488b-b678-dc8a236d06b3",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 2
+    },
+    {
+      "source": "48896dee-a985-424d-9849-84802f7e79c9",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 1
+    },
+    {
+      "source": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "target": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "value": 3
+    },
+    {
+      "source": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 2
+    },
+    {
+      "source": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "target": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 1
+    },
+    {
+      "source": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "target": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "value": 1
+    },
+    {
+      "source": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+      "target": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 2
+    },
+    {
+      "source": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "target": "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+      "value": 1
+    },
+    {
+      "source": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 2
+    },
+    {
+      "source": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 3
+    },
+    {
+      "source": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "target": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "value": 1
+    },
+    {
+      "source": "8be0594f-8c13-46bb-ab06-f93ffba5c776",
+      "target": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "value": 1
+    },
+    {
+      "source": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "target": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "value": 1
+    },
+    {
+      "source": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 1
+    },
+    {
+      "source": "05ec70a5-3858-4346-a649-fda0a297b8c1",
+      "target": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 1
+    },
+    {
+      "source": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "target": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 1
+    },
+    {
+      "source": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 1
+    },
+    {
+      "source": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "target": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 1
+    },
+    {
+      "source": "40e69149-45a7-4dab-8128-c5a4d9654eeb",
+      "target": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "value": 1
+    },
+    {
+      "source": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "target": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 1
+    },
+    {
+      "source": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "target": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "value": 2
+    },
+    {
+      "source": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 2
+    },
+    {
+      "source": "57cb4257-9855-4a42-b1be-bfba1d9b520d",
+      "target": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "value": 2
+    },
+    {
+      "source": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "target": "b84dfb67-c437-4ccc-b512-1073fd4612eb",
+      "value": 1
+    },
+    {
+      "source": "0182474b-8a1d-46d0-9d0f-e6df353335ea",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 2
+    },
+    {
+      "source": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "target": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "value": 1
+    }
+  ]
+}
