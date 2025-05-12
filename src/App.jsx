@@ -3,6 +3,8 @@ import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import NetworkExplorer from './pages/NetworkExplorer';
+import NotebookViewer from './pages/NotebookViewer';
+import DatasetsPage from './pages/DatasetsPage';
 import About from './pages/About';
 import './App.css';
 
@@ -15,6 +17,8 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/explorer" element={<NetworkExplorer />} />
+            <Route path="/notebook" element={<NotebookViewer />} />
+            <Route path="/datasets" element={<DatasetsPage />} />
             <Route path="/about" element={<About />} />
           </Routes>
         </main>

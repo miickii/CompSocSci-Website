@@ -1,4 +1,5 @@
-import { useState } from 'react';
+// src/components/NetworkExplorer.jsx
+import { useState, useEffect, useMemo } from 'react';
 import { ChevronLeft, ChevronRight, Users, Mic, Search, Filter } from 'lucide-react';
 import NetworkVisualization from '../components/NetworkVisualization';
 
@@ -12,24 +13,73 @@ const decades = [
   { id: '2020s', label: '2020s', years: '2020-2029' },
 ];
 
-function NetworkExplorer() {
+export default function NetworkExplorer() {
+  // UI state
   const [selectedDecade, setSelectedDecade] = useState('2020s');
-  const [networkType, setNetworkType] = useState('writer'); // 'writers' or 'artists'
-  const [searchQuery, setSearchQuery] = useState('');
-  const [showFilters, setShowFilters] = useState(false);
+  const [networkType, setNetworkType]       = useState('writers');
+  const [searchQuery, setSearchQuery]       = useState('');
+  const [showFilters, setShowFilters]       = useState(false);
 
-  const currentDecadeIndex = decades.findIndex(d => d.id === selectedDecade);
+  // Data state
+  const [graphData, setGraphData] = useState({ nodes: [], links: [] });
+  const [loading, setLoading]     = useState(false);
+  const [error, setError]         = useState(null);
 
-  const navigateDecade = (direction) => {
-    const newIndex = currentDecadeIndex + direction;
-    if (newIndex >= 0 && newIndex < decades.length) {
-      setSelectedDecade(decades[newIndex].id);
+  // Community filter state
+  const [selectedComms, setSelectedComms] = useState([]);
+
+  // 1️⃣ Fetch graph JSON once on decade/type change
+  useEffect(() => {
+    let cancelled = false;
+    async function load() {
+      setLoading(true);
+      setError(null);
+      try {
+        const type = networkType.replace(/s$/, ''); // drop trailing "s"
+        const url  = `${import.meta.env.BASE_URL}data/${type}-network-${selectedDecade}.json`;
+        const res  = await fetch(url);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        if (!cancelled) {
+          setGraphData({ nodes: data.nodes, links: data.links });
+        }
+      } catch (err) {
+        if (!cancelled) {
+          console.error(err);
+          setError(err.message);
+          setGraphData({ nodes: [], links: [] });
+        }
+      } finally {
+        if (!cancelled) setLoading(false);
+      }
+    }
+    load();
+    return () => { cancelled = true; };
+  }, [selectedDecade, networkType]);
+
+  // 2️⃣ Derive list of all communities present in the data
+  const allComms = useMemo(() => {
+    const comms = new Set(graphData.nodes.map(n => n.community ?? 0));
+    return Array.from(comms).sort((a, b) => a - b);
+  }, [graphData]);
+
+  // 3️⃣ Reset community filters whenever we load new data
+  useEffect(() => {
+    setSelectedComms([]);
+  }, [graphData]);
+
+  // Decade navigation helpers
+  const currentIndex = decades.findIndex(d => d.id === selectedDecade);
+  const navigateDecade = dir => {
+    const idx = currentIndex + dir;
+    if (idx >= 0 && idx < decades.length) {
+      setSelectedDecade(decades[idx].id);
     }
   };
 
   return (
     <div className="space-y-6">
-      {/* Controls Section */}
+      {/* Controls */}
       <div className="bg-gray-800 bg-opacity-50 p-6 rounded-lg backdrop-blur-sm">
         <div className="flex flex-wrap items-center justify-between gap-4">
           {/* Network Type Toggle */}
@@ -37,8 +87,8 @@ function NetworkExplorer() {
             <button
               onClick={() => setNetworkType('writers')}
               className={`flex items-center space-x-2 px-4 py-2 rounded-md transition ${
-                networkType === 'writers' 
-                  ? 'bg-grammy-gold text-black' 
+                networkType === 'writers'
+                  ? 'bg-grammy-gold text-black'
                   : 'text-gray-300 hover:text-white'
               }`}
             >
@@ -48,8 +98,8 @@ function NetworkExplorer() {
             <button
               onClick={() => setNetworkType('artists')}
               className={`flex items-center space-x-2 px-4 py-2 rounded-md transition ${
-                networkType === 'artists' 
-                  ? 'bg-grammy-gold text-black' 
+                networkType === 'artists'
+                  ? 'bg-grammy-gold text-black'
                   : 'text-gray-300 hover:text-white'
               }`}
             >
@@ -62,25 +112,25 @@ function NetworkExplorer() {
           <div className="flex items-center space-x-4">
             <button
               onClick={() => navigateDecade(-1)}
-              disabled={currentDecadeIndex === 0}
-              className="p-2 rounded-full bg-gray-700 hover:bg-gray-600 disabled:opacity-50 disabled:hover:bg-gray-700"
+              disabled={currentIndex === 0}
+              className="p-2 rounded-full bg-gray-700 hover:bg-gray-600 disabled:opacity-50"
             >
               <ChevronLeft className="w-5 h-5" />
             </button>
             <div className="text-center min-w-[100px]">
-              <div className="text-xl font-bold">{decades[currentDecadeIndex].label}</div>
-              <div className="text-sm text-gray-400">{decades[currentDecadeIndex].years}</div>
+              <div className="text-xl font-bold">{decades[currentIndex].label}</div>
+              <div className="text-sm text-gray-400">{decades[currentIndex].years}</div>
             </div>
             <button
               onClick={() => navigateDecade(1)}
-              disabled={currentDecadeIndex === decades.length - 1}
-              className="p-2 rounded-full bg-gray-700 hover:bg-gray-600 disabled:opacity-50 disabled:hover:bg-gray-700"
+              disabled={currentIndex === decades.length - 1}
+              className="p-2 rounded-full bg-gray-700 hover:bg-gray-600 disabled:opacity-50"
             >
               <ChevronRight className="w-5 h-5" />
             </button>
           </div>
 
-          {/* Search and Filters */}
+          {/* Search & Filter Toggle */}
           <div className="flex items-center space-x-2">
             <div className="relative">
               <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4" />
@@ -88,7 +138,7 @@ function NetworkExplorer() {
                 type="text"
                 placeholder="Search nodes..."
                 value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
+                onChange={e => setSearchQuery(e.target.value)}
                 className="pl-10 pr-4 py-2 bg-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-grammy-gold"
               />
             </div>
@@ -103,34 +153,42 @@ function NetworkExplorer() {
 
         {/* Extended Filters */}
         {showFilters && (
-          <div className="mt-4 pt-4 border-t border-gray-700">
-            <div className="flex flex-wrap gap-4">
-              <label className="flex items-center space-x-2">
-                <input type="checkbox" className="rounded text-grammy-gold" />
-                <span>Show only Grammy winners</span>
-              </label>
-              <label className="flex items-center space-x-2">
-                <input type="checkbox" className="rounded text-grammy-gold" />
-                <span>Highlight new connections</span>
-              </label>
-              <select className="px-3 py-1 bg-gray-700 rounded-md text-white">
-                <option>All Categories</option>
-                <option>Album of the Year</option>
-                <option>Record of the Year</option>
-                <option>Song of the Year</option>
-                <option>Best New Artist</option>
-              </select>
+          <div className="mt-4 pt-4 border-t border-gray-700 space-y-4">
+            {/* Community Filter */}
+            <div>
+              <p className="text-sm font-medium text-gray-300">Communities:</p>
+              <div className="flex flex-wrap gap-2 mt-2">
+                {allComms.map(comm => (
+                  <label key={comm} className="flex items-center space-x-1">
+                    <input
+                      type="checkbox"
+                      className="rounded text-grammy-gold"
+                      checked={selectedComms.includes(comm)}
+                      onChange={() =>
+                        setSelectedComms(prev =>
+                          prev.includes(comm)
+                            ? prev.filter(c => c !== comm)
+                            : [...prev, comm]
+                        )
+                      }
+                    />
+                    <span className="text-gray-300">#{comm}</span>
+                  </label>
+                ))}
+              </div>
             </div>
           </div>
         )}
       </div>
 
-      {/* Network Visualization */}
+      {/* Visualization */}
       <div className="bg-gray-800 bg-opacity-50 rounded-lg backdrop-blur-sm overflow-hidden">
-        <NetworkVisualization 
-          decade={selectedDecade}
-          networkType={networkType}
+        <NetworkVisualization
+          graphData={graphData}
+          loading={loading}
+          error={error}
           searchQuery={searchQuery}
+          selectedComms={selectedComms}
         />
       </div>
 
@@ -174,5 +232,3 @@ function NetworkExplorer() {
     </div>
   );
 }
-
-export default NetworkExplorer;

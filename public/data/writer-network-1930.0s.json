@@ -2,49 +2,58 @@
   "nodes": [
     {
       "id": "bcfe746c-e9c7-4e3e-9924-d3b67a8f2e6b",
-      "value": 2,
-      "decade": "1930s",
       "name": "Leonard Whitcup",
-      "group": "writer"
+      "value": 6,
+      "decade": "1930.0s",
+      "genre": [],
+      "group": "unknown"
     },
     {
       "id": "d4f7c89c-6cb9-4f6d-aeee-acbb17f312f3",
-      "value": 2,
-      "decade": "1930s",
       "name": "Ira Schuster",
-      "group": "writer"
+      "value": 6,
+      "decade": "1930.0s",
+      "genre": [],
+      "group": "unknown"
     },
     {
       "id": "fd1975dc-a340-4a1c-8b49-32252c2ff96c",
-      "value": 2,
-      "decade": "1930s",
       "name": "fd1975dc-a340-4a1c-8b49-32252c2ff96c",
-      "group": "writer"
+      "value": 6,
+      "decade": "1930.0s",
+      "genre": [],
+      "group": "unknown"
     }
   ],
   "links": [
     {
       "source": "bcfe746c-e9c7-4e3e-9924-d3b67a8f2e6b",
       "target": "d4f7c89c-6cb9-4f6d-aeee-acbb17f312f3",
-      "value": 1,
-      "songList": [
-        "Singin' in the Saddle"
+      "value": 3,
+      "songs": [
+        "Singin' in the Saddle",
+        "Singin’ in the Saddle",
+        "Singin’ In the Saddle"
       ]
     },
     {
       "source": "bcfe746c-e9c7-4e3e-9924-d3b67a8f2e6b",
       "target": "fd1975dc-a340-4a1c-8b49-32252c2ff96c",
-      "value": 1,
-      "songList": [
-        "Singin' in the Saddle"
+      "value": 3,
+      "songs": [
+        "Singin' in the Saddle",
+        "Singin’ in the Saddle",
+        "Singin’ In the Saddle"
       ]
     },
     {
       "source": "d4f7c89c-6cb9-4f6d-aeee-acbb17f312f3",
       "target": "fd1975dc-a340-4a1c-8b49-32252c2ff96c",
-      "value": 1,
-      "songList": [
-        "Singin' in the Saddle"
+      "value": 3,
+      "songs": [
+        "Singin' in the Saddle",
+        "Singin’ in the Saddle",
+        "Singin’ In the Saddle"
       ]
     }
   ]

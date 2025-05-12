@@ -1,137 +1,155 @@
-import { useEffect, useRef, useState, useCallback } from 'react';
-import ForceGraph2D from 'react-force-graph-2d'; // Correct 2D package import :contentReference[oaicite:5]{index=5}
-import useResizeObserver from '@react-hook/resize-observer'; // Hook for responsive sizing :contentReference[oaicite:6]{index=6}
+// src/components/NetworkVisualization.jsx
+import { useRef, useState, useCallback } from 'react';
+import ForceGraph2D from 'react-force-graph-2d';
 
-function NetworkVisualization({ decade, networkType, searchQuery }) {
-  const containerRef = useRef(null);
+export default function NetworkVisualization({
+  graphData,
+  loading,
+  error,
+  searchQuery,
+  selectedComms
+}) {
   const fgRef = useRef();
-  const [dimensions, setDimensions] = useState({ width: 0, height: 0 });
-  const [graphData, setGraphData] = useState({ nodes: [], links: [] });
   const [selectedNode, setSelectedNode] = useState(null);
-  const [isLoading, setIsLoading] = useState(true);
+  const [hoverNode, setHoverNode]       = useState(null);
 
-  // Responsive resizing using ResizeObserver :contentReference[oaicite:7]{index=7}
-  useEffect(() => {
-    if (!containerRef.current) return;
-    setDimensions({
-      width: containerRef.current.clientWidth,
-      height: containerRef.current.clientHeight
-    });
-  }, [containerRef.current]);
-
-  useResizeObserver(containerRef, entry => {
-    setDimensions({
-      width: entry.contentRect.width,
-      height: entry.contentRect.height
-    });
+  // 1) Filter by search + community
+  const filteredNodes = graphData.nodes.filter(n => {
+    const keepSearch = !searchQuery
+      || n.name.toLowerCase().includes(searchQuery.toLowerCase());
+    const keepComm = selectedComms.length === 0
+      || selectedComms.includes(n.community);
+    return keepSearch && keepComm;
   });
-
-  // Load data for selected decade/type (lazy-loaded JSON) :contentReference[oaicite:8]{index=8}
-  useEffect(() => {
-    let cancelled = false;
-    async function loadData() {
-      setIsLoading(true);
-      try {
-        const res = await fetch(`/data/${networkType}-network-${decade}.json`);
-        const data = await res.json();
-        if (!cancelled) setGraphData(data);
-      } catch (err) {
-        console.error('Error loading network data:', err);
-      } finally {
-        if (!cancelled) setIsLoading(false);
-      }
-    }
-    loadData();
-    return () => { cancelled = true; };
-  }, [decade, networkType]);
-
-  // Filter nodes and links based on searchQuery :contentReference[oaicite:9]{index=9}
-  const filteredNodes = graphData.nodes.filter(node =>
-    node.name.toLowerCase().includes(searchQuery.toLowerCase())
+  const nodeIds = new Set(filteredNodes.map(n => n.id));
+  const filteredLinks = graphData.links.filter(l =>
+    nodeIds.has(l.source) && nodeIds.has(l.target)
   );
-  const filteredNodeIds = new Set(filteredNodes.map(n => n.id));
-  const filteredLinks = graphData.links.filter(
-    link =>
-      filteredNodeIds.has(link.source) &&
-      filteredNodeIds.has(link.target)
-  );
-  const filteredGraphData = { nodes: filteredNodes, links: filteredLinks };
+  const data = { nodes: filteredNodes, links: filteredLinks };
 
-  // Memoized node drawing callback :contentReference[oaicite:10]{index=10}
-  const nodeCanvasObject = useCallback((node, ctx, globalScale) => {
-    const label = node.name;
-    const fontSize = 12 / globalScale;
-    ctx.font = `${fontSize}px Sans-Serif`;
-    const textWidth = ctx.measureText(label).width;
-    const bkgd = [textWidth, fontSize].map(n => n + fontSize * 0.2);
-
-    ctx.fillStyle = 'rgba(0,0,0,0.7)';
-    ctx.fillRect(
-      node.x - bkgd[0] / 2,
-      node.y - bkgd[1] / 2,
-      ...bkgd
-    );
-
-    ctx.textAlign = 'center';
-    ctx.textBaseline = 'middle';
-    ctx.fillStyle = node === selectedNode ? '#D6AF36' : '#FFF';
-    ctx.fillText(label, node.x, node.y);
-
-    ctx.beginPath();
-    ctx.arc(node.x, node.y, node.value / 2, 0, 2 * Math.PI, false);
-    ctx.fillStyle = `hsl(${node.group * 60},70%,50%)`;
-    ctx.fill();
-  }, [selectedNode]);
-
-  // Memoized node click handler :contentReference[oaicite:11]{index=11}
-  const handleNodeClick = useCallback(node => {
-    setSelectedNode(node);
-    fgRef.current.centerAt(node.x, node.y, 1000);
-    fgRef.current.zoom(8, 2000);
+  // 2) Color by community
+  const getCommColor = useCallback(comm => {
+    const hue = (comm * 137) % 360;
+    return `hsl(${hue},70%,50%)`;
   }, []);
 
-  if (isLoading) {
+  // 3) Node drawing callback
+  const drawNode = useCallback((node, ctx, globalScale) => {
+    const { x, y, value, community } = node;
+    const isSel = node === selectedNode;
+    const isHov = node === hoverNode;
+    const baseR = Math.sqrt(value) || 5;
+    const r = baseR * (isSel || isHov ? 1.4 : 1);
+
+    // draw circle
+    ctx.beginPath();
+    ctx.arc(x, y, r, 0, 2 * Math.PI);
+    ctx.fillStyle = getCommColor(community);
+    ctx.fill();
+    ctx.lineWidth   = (isSel ? 3 : isHov ? 2 : 1) / globalScale;
+    ctx.strokeStyle = isSel ? '#D6AF36' : '#000';
+    ctx.stroke();
+
+    // draw label if zoomed or hovered/selected
+    if (globalScale > 1.2 || isSel || isHov) {
+      const label = node.name;
+      const fontSize = ((isSel || isHov ? 14 : 12) / globalScale) + 'px Sans-Serif';
+      ctx.font = `${isSel ? 'bold ' : ''}${fontSize}`;
+      const textW = ctx.measureText(label).width;
+      const pad = 4 / globalScale;
+      const bW = textW + 2 * pad;
+      const bH = (parseFloat(fontSize) + 2 * pad);
+
+      ctx.fillStyle = isSel ? 'rgba(214,175,54,0.9)' : 'rgba(0,0,0,0.7)';
+      ctx.fillRect(x - bW / 2, y + r + pad, bW, bH);
+
+      ctx.textAlign    = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillStyle    = isSel ? '#000' : '#fff';
+      ctx.fillText(label, x, y + r + pad + bH / 2);
+    }
+  }, [selectedNode, hoverNode, getCommColor]);
+
+  // 4) Pointer-area paint callback (must use the signature (node, color, ctx))
+  const paintPointerArea = useCallback((node, color, ctx) => {
+    const r = Math.sqrt(node.value) || 5;
+    ctx.fillStyle = color;
+    ctx.beginPath();
+    ctx.arc(node.x, node.y, r, 0, 2 * Math.PI);
+    ctx.fill();
+  }, []);
+
+  // 5) Link coloring
+  const linkColor = useCallback(link => {
+    if (selectedNode) {
+      const connected =
+        link.source === selectedNode.id || link.target === selectedNode.id;
+      return connected
+        ? 'rgba(214,175,54,0.8)'
+        : 'rgba(200,200,200,0.1)';
+    }
+    return 'rgba(200,200,200,0.3)';
+  }, [selectedNode]);
+
+  // 6) Event handlers
+  const onNodeClick = useCallback(node => {
+    setSelectedNode(prev => (prev === node ? null : node));
+    if (node && fgRef.current) {
+      fgRef.current.centerAt(node.x, node.y, 1000);
+      fgRef.current.zoomToFit(400, 100);
+    }
+  }, []);
+
+  const onBackgroundClick = useCallback(() => {
+    setSelectedNode(null);
+  }, []);
+
+  // 7) Loading / error / empty states
+  if (loading) {
     return (
-      <div
-        ref={containerRef}
-        className="flex items-center justify-center h-96"
-      >
-        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-grammy-gold"></div>
+      <div className="flex items-center justify-center h-96">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-grammy-gold" />
+      </div>
+    );
+  }
+  if (error) {
+    return (
+      <div className="flex items-center justify-center h-96 text-red-500">
+        {error}
+      </div>
+    );
+  }
+  if (!data.nodes.length) {
+    return (
+      <div className="flex items-center justify-center h-96 text-gray-400">
+        No matching nodes.
       </div>
     );
   }
 
+  // 8) Render the ForceGraph2D
   return (
-    <div ref={containerRef} className="relative w-full h-full">
-      <ForceGraph2D
-        ref={fgRef}
-        graphData={filteredGraphData}
-        nodeCanvasObject={nodeCanvasObject}
-        nodePointerAreaPaint={nodeCanvasObject}
-        linkColor={() => 'rgba(255,255,255,0.2)'}
-        backgroundColor="transparent"
-        width={dimensions.width}
-        height={dimensions.height}
-        onNodeClick={handleNodeClick}
-        warmupTicks={100}
-        cooldownTicks={0}
-      />
-
-      {selectedNode && (
-        <div className="absolute top-4 right-4 bg-gray-800 p-4 rounded-lg max-w-sm">
-          <h4 className="font-semibold text-grammy-gold">
-            {selectedNode.name}
-          </h4>
-          <p className="text-sm text-gray-300 mt-1">
-            Connections: {selectedNode.value}
-          </p>
-          <p className="text-sm text-gray-300">
-            Group: {selectedNode.group}
-          </p>
-        </div>
-      )}
-    </div>
+    <ForceGraph2D
+      ref={fgRef}
+      graphData={data}
+      nodeCanvasObject={drawNode}
+      nodePointerAreaPaint={paintPointerArea}
+      linkColor={linkColor}
+      linkWidth={link =>
+        selectedNode && (
+          link.source === selectedNode.id ||
+          link.target === selectedNode.id
+        )
+          ? 2
+          : 1
+      }
+      backgroundColor="transparent"
+      width={window.innerWidth - 100}
+      height={600}
+      onNodeClick={onNodeClick}
+      onNodeHover={setHoverNode}
+      onBackgroundClick={onBackgroundClick}
+      cooldownTicks={100}
+    />
   );
 }
-
-export default NetworkVisualization;
