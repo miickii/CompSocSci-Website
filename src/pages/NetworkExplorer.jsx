@@ -36,7 +36,7 @@ export default function NetworkExplorer() {
       setError(null);
       try {
         const type = networkType.replace(/s$/, ''); // drop trailing "s"
-        const url  = `${import.meta.env.BASE_URL}data/${type}-network-${selectedDecade}.json`;
+        const url  = `${import.meta.env.BASE_URL}data/${networkType}-network-${selectedDecade}.json`;
         const res  = await fetch(url);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();

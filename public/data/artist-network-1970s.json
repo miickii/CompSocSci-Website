@@ -4,271 +4,316 @@
       "id": "45677914-89de-4267-aeae-8c1661b2c859",
       "name": "Tanya Tucker",
       "group": "1970s",
-      "value": 19
+      "value": 19,
+      "community": 4
     },
     {
       "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
       "name": "Bruce Springsteen",
       "group": "1970s",
-      "value": 34
+      "value": 34,
+      "community": 1
     },
     {
       "id": "0f4681f3-1d4d-4463-8a68-eaa60d6d6865",
       "name": "Helen Reddy",
       "group": "1970s",
-      "value": 43
+      "value": 43,
+      "community": 2
     },
     {
       "id": "10ccb5d8-f9d5-4954-9441-3419b522a214",
-      "name": "Olivia Newton‐John",
+      "name": "Olivia Newton\u2010John",
       "group": "1970s",
-      "value": 43
+      "value": 43,
+      "community": 4
     },
     {
       "id": "d3986756-f1dd-4635-9510-2d116c0deddd",
       "name": "Phoebe Snow",
       "group": "1970s",
-      "value": 23
+      "value": 23,
+      "community": 3
     },
     {
       "id": "435ccd03-20f6-42aa-97e3-275b82dc2f6f",
       "name": "The Knack",
       "group": "1970s",
-      "value": 2
+      "value": 2,
+      "community": 4
     },
     {
       "id": "fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
       "name": "Don McLean",
       "group": "1970s",
-      "value": 9
+      "value": 9,
+      "community": 4
     },
     {
       "id": "ae27f1d1-b8c4-4b2f-88a0-094c3333ed24",
       "name": "Captain & Tennille",
       "group": "1970s",
-      "value": 15
+      "value": 15,
+      "community": 5
     },
     {
       "id": "c4df30f5-5487-4806-9189-b69c9f27532c",
       "name": "Carly Simon",
       "group": "1970s",
-      "value": 13
+      "value": 13,
+      "community": 4
     },
     {
       "id": "df9ed132-5b6a-4e7d-a468-033cffc21947",
       "name": "Shaun Cassidy",
       "group": "1970s",
-      "value": 22
+      "value": 22,
+      "community": 1
     },
     {
       "id": "ed333e8b-d18a-49fc-b361-4ec9731dfdba",
       "name": "Bette Midler",
       "group": "1970s",
-      "value": 48
+      "value": 48,
+      "community": 1
     },
     {
       "id": "600c5212-a8e6-458e-bd3f-78b6fbfe329a",
       "name": "Kim Carnes",
       "group": "1970s",
-      "value": 14
+      "value": 14,
+      "community": 5
     },
     {
       "id": "7bb60591-46f3-4147-b692-1814a87e832e",
       "name": "Barry Manilow",
       "group": "1970s",
-      "value": 21
+      "value": 21,
+      "community": 5
     },
     {
       "id": "cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81",
       "name": "Kris Kristofferson",
       "group": "1970s",
-      "value": 7
+      "value": 7,
+      "community": 4
     },
     {
       "id": "cefd9d3d-9506-461c-972f-89b4cbade9da",
       "name": "Crystal Gayle",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 4
     },
     {
       "id": "eb45032c-80da-469c-be20-1d09f08ef37f",
       "name": "Natalie Cole",
       "group": "1970s",
-      "value": 22
+      "value": 22,
+      "community": 2
     },
     {
       "id": "db3ed2cd-ede2-472e-ae20-b4aeae16e5f8",
       "name": "Maureen McGovern",
       "group": "1970s",
-      "value": 28
+      "value": 28,
+      "community": 5
     },
     {
       "id": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
       "name": "Michael Jackson",
       "group": "1970s",
-      "value": 17
+      "value": 17,
+      "community": 3
     },
     {
       "id": "c0b6ccb6-fb87-4594-98fb-370120d2b6e8",
       "name": "The Amazing Rhythm Aces",
       "group": "1970s",
-      "value": 4
+      "value": 4,
+      "community": 0
     },
     {
       "id": "e11c5e9a-8b3a-44c2-9a71-b7a00b5fb8d5",
       "name": "Graham Central Station",
       "group": "1970s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
       "name": "Stephen Bishop",
       "group": "1970s",
-      "value": 3
+      "value": 3,
+      "community": 5
     },
     {
       "id": "b904d624-9e05-4398-8f4f-88fbcf022f79",
       "name": "Barry White",
       "group": "1970s",
-      "value": 3
+      "value": 3,
+      "community": 4
     },
     {
       "id": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
       "name": "Peter Gabriel",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 1
     },
     {
       "id": "3376b487-95b4-42e6-b7f4-71cffffcad97",
       "name": "The Partridge Family",
       "group": "1970s",
-      "value": 9
+      "value": 9,
+      "community": 1
     },
     {
       "id": "487672a5-469e-432d-aff7-f8f647e2dfdd",
       "name": "Johnny Bristol",
       "group": "1970s",
-      "value": 2
+      "value": 2,
+      "community": 2
     },
     {
       "id": "31e28f7f-8b87-4003-99eb-e15b058e96d9",
       "name": "Debby Boone",
       "group": "1970s",
-      "value": 28
+      "value": 28,
+      "community": 3
     },
     {
       "id": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
       "name": "Aerosmith",
       "group": "1970s",
-      "value": 18
+      "value": 18,
+      "community": 2
     },
     {
       "id": "535afeda-2538-435d-9dd1-5e10be586774",
       "name": "Earth, Wind & Fire",
       "group": "1970s",
-      "value": 16
+      "value": 16,
+      "community": 2
     },
     {
       "id": "cfb830a4-66ca-4d81-a099-033883b39ad8",
       "name": "The Brothers Johnson",
       "group": "1970s",
-      "value": 16
+      "value": 16,
+      "community": 2
     },
     {
       "id": "aef6e491-3121-4048-b035-4704a9ce0716",
       "name": "Loggins & Messina",
       "group": "1970s",
-      "value": 5
+      "value": 5,
+      "community": 5
     },
     {
       "id": "5d8f1ebd-6b28-420a-ab15-75b9bc12f7d6",
       "name": "Marie Osmond",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 5
     },
     {
       "id": "64b94289-9474-4d43-8c93-918ccc1920d1",
       "name": "Billy Joel",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 1
     },
     {
       "id": "7adaabfb-acfb-47bc-8c7c-59471c2f0db8",
       "name": "The Human League",
       "group": "1970s",
-      "value": 12
+      "value": 12,
+      "community": 1
     },
     {
       "id": "0053dbd9-bfbc-4e38-9f08-66a27d914c38",
       "name": "Bad Company",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 4
     },
     {
       "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
       "name": "The Doobie Brothers",
       "group": "1970s",
-      "value": 14
+      "value": 14,
+      "community": 3
     },
     {
       "id": "f46bd570-5768-462e-b84c-c7c993bbf47e",
       "name": "Eagles",
       "group": "1970s",
-      "value": 7
+      "value": 7,
+      "community": 4
     },
     {
       "id": "0f0da09c-3940-4cb5-879f-4cea28907810",
       "name": "Bonnie Raitt",
       "group": "1970s",
-      "value": 15
+      "value": 15,
+      "community": 5
     },
     {
       "id": "da5ff827-174b-48d1-9a39-9fa290bb2925",
       "name": "Wild Cherry",
       "group": "1970s",
-      "value": 13
+      "value": 13,
+      "community": 3
     },
     {
       "id": "46bdb0fa-6db1-44ea-b7b1-57de05b2cba1",
       "name": "The Brecker Brothers",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "c60e178f-36f1-4169-9c03-84addbdbf104",
       "name": "Grover Washington, Jr.",
       "group": "1970s",
-      "value": 2
+      "value": 2,
+      "community": 5
     },
     {
       "id": "96b1d906-0fda-406d-beb6-19c6758998df",
       "name": "Robert Palmer",
       "group": "1970s",
-      "value": 3
+      "value": 3,
+      "community": 5
     },
     {
       "id": "2dd30f18-241e-44b3-8bb3-950380f22dfa",
       "name": "Starland Vocal Band",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 0
     },
     {
       "id": "f1d174fc-6bd9-41fe-b4c8-972ab578fb5c",
       "name": "Andy Gibb",
       "group": "1970s",
-      "value": 2
+      "value": 2,
+      "community": 5
     },
     {
       "id": "e86492c1-0376-4df0-8042-8ba058c83960",
       "name": "John Prine",
       "group": "1970s",
-      "value": 6
+      "value": 6,
+      "community": 1
     },
     {
       "id": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
       "name": "Bill Withers",
       "group": "1970s",
-      "value": 1
+      "value": 1,
+      "community": 3
     }
   ],
   "links": [

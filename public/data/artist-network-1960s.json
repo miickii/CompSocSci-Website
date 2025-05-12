@@ -4,355 +4,414 @@
       "id": "56cd15a1-0d74-438b-8244-c96ffe1cae03",
       "name": "Barbra Streisand",
       "group": "1960s",
-      "value": 246
+      "value": 246,
+      "community": 3
     },
     {
       "id": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
       "name": "The Beatles",
       "group": "1960s",
-      "value": 83
+      "value": 83,
+      "community": 0
     },
     {
       "id": "c8abe225-1f22-4c1e-a644-4d86c33d43f7",
       "name": "Allan Sherman",
       "group": "1960s",
-      "value": 27
+      "value": 27,
+      "community": 2
     },
     {
       "id": "e7495426-6e14-4429-b647-dbe700ad57d4",
       "name": "Joanie Sommers",
       "group": "1960s",
-      "value": 143
+      "value": 143,
+      "community": 3
     },
     {
       "id": "3c004c98-aab6-4b63-a2df-e07c98e73b0a",
-      "name": "José Feliciano",
+      "name": "Jos\u00e9 Feliciano",
       "group": "1960s",
-      "value": 55
+      "value": 55,
+      "community": 3
     },
     {
       "id": "bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810",
       "name": "Bee Gees",
       "group": "1960s",
-      "value": 5
+      "value": 5,
+      "community": 3
     },
     {
       "id": "0d6e57aa-f495-460e-a27a-0d6677070914",
-      "name": "Ann‐Margret",
+      "name": "Ann\u2010Margret",
       "group": "1960s",
-      "value": 62
+      "value": 62,
+      "community": 3
     },
     {
       "id": "fc9ec2b3-b44a-4dad-8bc3-ff3738ee02ae",
-      "name": "Herman’s Hermits",
+      "name": "Herman\u2019s Hermits",
       "group": "1960s",
-      "value": 61
+      "value": 61,
+      "community": 1
     },
     {
       "id": "467f69b6-8d6d-4d2c-bfad-e89adf2806ff",
       "name": "George Benson",
       "group": "1960s",
-      "value": 35
+      "value": 35,
+      "community": 1
     },
     {
       "id": "c09d06fc-9867-4516-b382-d37c83f52ab3",
       "name": "The Lettermen",
       "group": "1960s",
-      "value": 39
+      "value": 39,
+      "community": 1
     },
     {
       "id": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
       "name": "Lynn Anderson",
       "group": "1960s",
-      "value": 29
+      "value": 29,
+      "community": 1
     },
     {
       "id": "4f1949ab-fefd-4bf3-9317-814084c29cc0",
       "name": "The 5th Dimension",
       "group": "1960s",
-      "value": 17
+      "value": 17,
+      "community": 3
     },
     {
       "id": "57c6f649-6cde-48a7-8114-2a200247601a",
       "name": "Tom Jones",
       "group": "1960s",
-      "value": 118
+      "value": 118,
+      "community": 0
     },
     {
       "id": "6784ee31-6d79-4a37-9e1f-01d6ef31940e",
       "name": "Dionne Warwick",
       "group": "1960s",
-      "value": 145
+      "value": 145,
+      "community": 3
     },
     {
       "id": "a5106366-6368-4a02-a580-73a3c02abb2f",
       "name": "Bobbie Gentry",
       "group": "1960s",
-      "value": 5
+      "value": 5,
+      "community": 1
     },
     {
       "id": "05517043-ff78-4988-9c22-88c68588ebb9",
       "name": "Paul Simon",
       "group": "1960s",
-      "value": 4
+      "value": 4,
+      "community": 2
     },
     {
       "id": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
       "name": "Simon & Garfunkel",
       "group": "1960s",
-      "value": 24
+      "value": 24,
+      "community": 2
     },
     {
       "id": "a42d3fd5-55de-4206-86c3-4fbb5404018f",
       "name": "Neil Diamond",
       "group": "1960s",
-      "value": 28
+      "value": 28,
+      "community": 2
     },
     {
       "id": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
       "name": "Bobby Goldsboro",
       "group": "1960s",
-      "value": 148
+      "value": 148,
+      "community": 1
     },
     {
       "id": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
       "name": "Dolly Parton",
       "group": "1960s",
-      "value": 22
+      "value": 22,
+      "community": 1
     },
     {
       "id": "52086001-fe0e-42ee-884e-49a0881bf8c8",
       "name": "Trini Lopez",
       "group": "1960s",
-      "value": 46
+      "value": 46,
+      "community": 2
     },
     {
       "id": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
       "name": "Stevie Wonder",
       "group": "1960s",
-      "value": 105
+      "value": 105,
+      "community": 3
     },
     {
       "id": "06e7ad00-7257-4f5e-837f-81eeda8e0685",
       "name": "Vikki Carr",
       "group": "1960s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "3aaceb91-c95d-4c5e-9539-086c5cef2b8d",
       "name": "Harpers Bizarre",
       "group": "1960s",
-      "value": 5
+      "value": 5,
+      "community": 3
     },
     {
       "id": "3f64d38c-1ad4-4fb0-941e-7f4b51d4c9e6",
       "name": "The Four Seasons",
       "group": "1960s",
-      "value": 113
+      "value": 113,
+      "community": 1
     },
     {
       "id": "668fd73c-bf54-4310-a139-305517f05311",
       "name": "Willie Nelson",
       "group": "1960s",
-      "value": 34
+      "value": 34,
+      "community": 0
     },
     {
       "id": "cff63c14-b081-4686-9357-eea84d5348fc",
       "name": "Anne Murray",
       "group": "1960s",
-      "value": 13
+      "value": 13,
+      "community": 2
     },
     {
       "id": "3d6e4b6d-2700-458c-9722-9021965a8164",
       "name": "Sonny & Cher",
       "group": "1960s",
-      "value": 32
+      "value": 32,
+      "community": 3
     },
     {
       "id": "06f9c474-0547-40fc-be3d-1ae6ce38abd7",
       "name": "Judy Collins",
       "group": "1960s",
-      "value": 50
+      "value": 50,
+      "community": 2
     },
     {
       "id": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
       "name": "Cream",
       "group": "1960s",
-      "value": 24
+      "value": 24,
+      "community": 2
     },
     {
       "id": "79251d77-dd72-46d3-a324-61c27760ce25",
       "name": "Jeannie C. Riley",
       "group": "1960s",
-      "value": 10
+      "value": 10,
+      "community": 1
     },
     {
       "id": "8d08cabf-03a3-4f38-a815-8197a0984f19",
       "name": "Astrud Gilberto",
       "group": "1960s",
-      "value": 46
+      "value": 46,
+      "community": 0
     },
     {
       "id": "7a7f4e56-894c-4316-975c-43a20ea14c7e",
       "name": "John Gary",
       "group": "1960s",
-      "value": 44
+      "value": 44,
+      "community": 2
     },
     {
       "id": "970fb29f-e288-403e-a388-d2a7889bfa47",
       "name": "Warren Zevon",
       "group": "1960s",
-      "value": 1
+      "value": 1,
+      "community": 1
     },
     {
       "id": "bc4ca610-333b-424b-8c3c-c724e6327b62",
       "name": "Peter Nero",
       "group": "1960s",
-      "value": 51
+      "value": 51,
+      "community": 0
     },
     {
       "id": "a4852e21-7f09-470b-b5ae-9740d939d183",
       "name": "The Eagles",
       "group": "1960s",
-      "value": 49
+      "value": 49,
+      "community": 2
     },
     {
       "id": "b411483b-e9cc-4b4f-9661-0452333c615a",
       "name": "The New Christy Minstrels",
       "group": "1960s",
-      "value": 29
+      "value": 29,
+      "community": 2
     },
     {
       "id": "2819834e-4e08-47b0-a2c4-b7672318e8f0",
       "name": "The Byrds",
       "group": "1960s",
-      "value": 50
+      "value": 50,
+      "community": 2
     },
     {
       "id": "1709e9f2-c77f-4779-b67d-44905fbc35c0",
       "name": "The Swingle Singers",
       "group": "1960s",
-      "value": 32
+      "value": 32,
+      "community": 2
     },
     {
       "id": "db76f244-049f-440e-be53-cc5f3c0cdfb6",
       "name": "Herb Alpert",
       "group": "1960s",
-      "value": 24
+      "value": 24,
+      "community": 1
     },
     {
       "id": "76c9a186-75bd-436a-85c0-823e3efddb7f",
       "name": "Janis Joplin",
       "group": "1960s",
-      "value": 22
+      "value": 22,
+      "community": 3
     },
     {
       "id": "822e180a-061a-4da0-a1f3-35e8bdf5f240",
       "name": "David Essex",
       "group": "1960s",
-      "value": 28
+      "value": 28,
+      "community": 0
     },
     {
       "id": "3d621c94-2356-4532-ad52-79e0ef73e20c",
       "name": "Peter, Paul and Mary",
       "group": "1960s",
-      "value": 14
+      "value": 14,
+      "community": 2
     },
     {
       "id": "59b0f5da-cd35-4ec7-a4a8-74d7aa7948b7",
       "name": "The Brothers Four",
       "group": "1960s",
-      "value": 56
+      "value": 56,
+      "community": 2
     },
     {
       "id": "6a365948-c640-4edf-ba9a-0bdf2c8f17ee",
       "name": "Robert Goulet",
       "group": "1960s",
-      "value": 18
+      "value": 18,
+      "community": 0
     },
     {
       "id": "618b6900-0618-4f1e-b835-bccb17f84294",
       "name": "Eric Clapton",
       "group": "1960s",
-      "value": 2
+      "value": 2,
+      "community": 2
     },
     {
       "id": "678d88b2-87b0-403b-b63d-5da7465aecc3",
       "name": "Led Zeppelin",
       "group": "1960s",
-      "value": 3
+      "value": 3,
+      "community": 2
     },
     {
       "id": "f81d592c-993f-4693-b53a-57db5a6257b9",
       "name": "Blood, Sweat & Tears",
       "group": "1960s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "bc5c2918-4aba-4ef6-a245-100563a4487f",
       "name": "Miriam Makeba",
       "group": "1960s",
-      "value": 7
+      "value": 7,
+      "community": 3
     },
     {
       "id": "5298bbcb-7330-49bf-a780-2d757f10a20a",
       "name": "Roberta Flack",
       "group": "1960s",
-      "value": 22
+      "value": 22,
+      "community": 2
     },
     {
       "id": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
       "name": "Jefferson Airplane",
       "group": "1960s",
-      "value": 3
+      "value": 3,
+      "community": 1
     },
     {
       "id": "4b6d948c-372d-44e0-ba09-a649cc0e5c76",
       "name": "Eumir Deodato",
       "group": "1960s",
-      "value": 7
+      "value": 7,
+      "community": 3
     },
     {
       "id": "77e92ee5-1a51-472e-b03e-3366663cf793",
       "name": "Gary Puckett & the Union Gap",
       "group": "1960s",
-      "value": 3
+      "value": 3,
+      "community": 3
     },
     {
       "id": "3f5be744-e867-42fb-8913-5fd69e4099b5",
       "name": "Chicago",
       "group": "1960s",
-      "value": 1
+      "value": 1,
+      "community": 0
     },
     {
       "id": "107d0c22-d051-4d98-8206-4e14de02132a",
       "name": "James Taylor",
       "group": "1960s",
-      "value": 19
+      "value": 19,
+      "community": 2
     },
     {
       "id": "9d97b077-b28d-4ba8-a3d9-c71926e3b2b6",
       "name": "Gordon Lightfoot",
       "group": "1960s",
-      "value": 1
+      "value": 1,
+      "community": 2
     },
     {
       "id": "ba550d0e-adac-4864-b88b-407cab5e76af",
       "name": "Paul McCartney",
       "group": "1960s",
-      "value": 9
+      "value": 9,
+      "community": 0
     },
     {
       "id": "422fc30a-5343-4aad-b094-50b6d16b1484",
       "name": "Tony Orlando",
       "group": "1960s",
-      "value": 16
+      "value": 16,
+      "community": 1
     },
     {
       "id": "2f53411b-ec29-4979-aa46-62786a2bb377",
       "name": "Aaron Neville",
       "group": "1960s",
-      "value": 3
+      "value": 3,
+      "community": 1
     }
   ],
   "links": [

@@ -83,31 +83,6 @@ function About() {
           </div>
         </div>
       </section>
-
-      <section>
-        <h2 className="text-2xl font-bold mb-6">Technical Details</h2>
-        <div className="bg-gray-800 p-6 rounded-lg">
-          <div className="flex items-center space-x-3 mb-4">
-            <Code className="w-6 h-6 text-grammy-gold" />
-            <h3 className="text-lg font-semibold">Technologies Used</h3>
-          </div>
-          <ul className="space-y-2 text-gray-300">
-            <li>• <strong>Frontend:</strong> React with TypeScript, Tailwind CSS</li>
-            <li>• <strong>Visualization:</strong> react-force-graph, D3.js</li>
-            <li>• <strong>Data Processing:</strong> Python with NetworkX</li>
-            <li>• <strong>Deployment:</strong> GitHub Pages</li>
-          </ul>
-        </div>
-      </section>
-
-      <section className="text-center">
-        <h2 className="text-2xl font-bold mb-4">Future Work</h2>
-        <p className="text-gray-300 max-w-2xl mx-auto">
-          Future iterations of this project could include expanded Grammy categories, 
-          real-time analysis of current collaborations, and deeper investigation into 
-          the impact of these networks on chart success and cultural influence.
-        </p>
-      </section>
     </div>
   );
 }

@@ -4,373 +4,435 @@
       "id": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
       "name": "Post Malone",
       "group": "2010s",
-      "value": 59
+      "value": 59,
+      "community": 0
     },
     {
       "id": "b7d92248-97e3-4450-8057-6fe06738f735",
       "name": "Shawn Mendes",
       "group": "2010s",
-      "value": 54
+      "value": 54,
+      "community": 1
     },
     {
       "id": "db8fad3a-e131-47a1-8782-c2ee93708cdd",
       "name": "Bebe Rexha",
       "group": "2010s",
-      "value": 70
+      "value": 70,
+      "community": 3
     },
     {
       "id": "28737730-ec70-4da5-89c5-77ac13c5c34d",
       "name": "Khalid",
       "group": "2010s",
-      "value": 90
+      "value": 90,
+      "community": 1
     },
     {
       "id": "e56aee57-d90e-40cf-a70d-beb70f6f3c69",
       "name": "KAYTRANADA",
       "group": "2010s",
-      "value": 9
+      "value": 9,
+      "community": 0
     },
     {
       "id": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
       "name": "Dua Lipa",
       "group": "2010s",
-      "value": 91
+      "value": 91,
+      "community": 3
     },
     {
       "id": "97e69730-3791-423b-9770-287261588854",
       "name": "Alessia Cara",
       "group": "2010s",
-      "value": 34
+      "value": 34,
+      "community": 3
     },
     {
       "id": "96855c21-b832-4366-ba12-0d2330c36a86",
       "name": "Phoebe Bridgers",
       "group": "2010s",
-      "value": 4
+      "value": 4,
+      "community": 4
     },
     {
       "id": "e520459c-dff4-491d-a6e4-c97be35e0044",
       "name": "Frank Ocean",
       "group": "2010s",
-      "value": 37
+      "value": 37,
+      "community": 0
     },
     {
       "id": "7808accb-6395-4b25-858c-678bbb73896b",
       "name": "Bastille",
       "group": "2010s",
-      "value": 32
+      "value": 32,
+      "community": 5
     },
     {
       "id": "dde26295-8cd4-474c-8740-3edb801b2776",
       "name": "Maggie Rogers",
       "group": "2010s",
-      "value": 11
+      "value": 11,
+      "community": 5
     },
     {
       "id": "3a052c99-8c18-484a-8beb-9873b4fb3106",
       "name": "Iggy Azalea",
       "group": "2010s",
-      "value": 37
+      "value": 37,
+      "community": 4
     },
     {
       "id": "4757df70-6c3e-46b8-99c0-a68644595c9a",
       "name": "Julia Michaels",
       "group": "2010s",
-      "value": 44
+      "value": 44,
+      "community": 1
     },
     {
       "id": "8fb5370b-9568-4b61-9da5-2aa12c9928db",
       "name": "Lizzo",
       "group": "2010s",
-      "value": 45
+      "value": 45,
+      "community": 1
     },
     {
       "id": "d606b860-cc03-4959-a3fd-3a24bccf2560",
       "name": "Anitta",
       "group": "2010s",
-      "value": 16
+      "value": 16,
+      "community": 1
     },
     {
       "id": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
       "name": "Sabrina Carpenter",
       "group": "2010s",
-      "value": 58
+      "value": 58,
+      "community": 1
     },
     {
       "id": "72d424d0-c349-4164-ae3e-8e5274f97b98",
       "name": "Saweetie",
       "group": "2010s",
-      "value": 8
+      "value": 8,
+      "community": 0
     },
     {
       "id": "b4691384-50c3-4afd-9988-51d3ec5db65d",
       "name": "Hozier",
       "group": "2010s",
-      "value": 21
+      "value": 21,
+      "community": 4
     },
     {
       "id": "bc089d56-5551-482f-babd-36365f9d9f0f",
       "name": "Coco Jones",
       "group": "2010s",
-      "value": 1
+      "value": 1,
+      "community": 4
     },
     {
       "id": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
       "name": "Zedd",
       "group": "2010s",
-      "value": 48
+      "value": 48,
+      "community": 1
     },
     {
       "id": "0b30341b-b59d-4979-8130-b66c0e475321",
       "name": "Lil Nas X",
       "group": "2010s",
-      "value": 13
+      "value": 13,
+      "community": 0
     },
     {
       "id": "526aab94-697f-44a9-b630-41d1c0505953",
       "name": "Lewis Capaldi",
       "group": "2010s",
-      "value": 20
+      "value": 20,
+      "community": 3
     },
     {
       "id": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
-      "name": "ROSALÍA",
+      "name": "ROSAL\u00cdA",
       "group": "2010s",
-      "value": 17
+      "value": 17,
+      "community": 0
     },
     {
       "id": "5721c227-4caf-48b1-bbfc-1a4ed3276963",
       "name": "Roddy Ricch",
       "group": "2010s",
-      "value": 15
+      "value": 15,
+      "community": 0
     },
     {
       "id": "89d42b97-8042-4c14-a596-a2ccaef5fc4c",
       "name": "Ella Mai",
       "group": "2010s",
-      "value": 12
+      "value": 12,
+      "community": 0
     },
     {
       "id": "8837b875-3689-4646-b3fd-d8b53815c7a8",
       "name": "Lil Uzi Vert",
       "group": "2010s",
-      "value": 19
+      "value": 19,
+      "community": 0
     },
     {
       "id": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
       "name": "Lorde",
       "group": "2010s",
-      "value": 17
+      "value": 17,
+      "community": 5
     },
     {
       "id": "a049a513-f794-4b8d-8c3a-f106cfd22841",
       "name": "Nate Ruess",
       "group": "2010s",
-      "value": 13
+      "value": 13,
+      "community": 5
     },
     {
       "id": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
       "name": "Doja Cat",
       "group": "2010s",
-      "value": 11
+      "value": 11,
+      "community": 0
     },
     {
       "id": "151cd917-1ee2-4702-859f-90899ad897f8",
       "name": "FINNEAS",
       "group": "2010s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
       "name": "Billie Eilish",
       "group": "2010s",
-      "value": 9
+      "value": 9,
+      "community": 3
     },
     {
       "id": "20395131-fbde-43ce-b141-b700cfdae99c",
       "name": "Glass Animals",
       "group": "2010s",
-      "value": 9
+      "value": 9,
+      "community": 0
     },
     {
       "id": "55111838-f001-494a-a1b5-9d818db85810",
       "name": "Courtney Barnett",
       "group": "2010s",
-      "value": 11
+      "value": 11,
+      "community": 0
     },
     {
       "id": "b53b9322-7d65-4b17-ae4c-9190d347fcea",
       "name": "Margo Price",
       "group": "2010s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "7eb1ce54-a355-41f9-8d68-e018b096d427",
       "name": "Harry Styles",
       "group": "2010s",
-      "value": 21
+      "value": 21,
+      "community": 1
     },
     {
       "id": "aef06569-098f-4218-a577-b413944d9493",
       "name": "HAIM",
       "group": "2010s",
-      "value": 17
+      "value": 17,
+      "community": 5
     },
     {
       "id": "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
       "name": "Chance the Rapper",
       "group": "2010s",
-      "value": 21
+      "value": 21,
+      "community": 0
     },
     {
       "id": "779d1126-e48c-43f2-8b51-005f3b116d7e",
       "name": "Kelsea Ballerini",
       "group": "2010s",
-      "value": 21
+      "value": 21,
+      "community": 1
     },
     {
       "id": "272989c8-5535-492d-a25c-9f58803e027f",
       "name": "SZA",
       "group": "2010s",
-      "value": 30
+      "value": 30,
+      "community": 0
     },
     {
       "id": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
       "name": "RAYE",
       "group": "2010s",
-      "value": 8
+      "value": 8,
+      "community": 3
     },
     {
       "id": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
       "name": "Baby Keem",
       "group": "2010s",
-      "value": 8
+      "value": 8,
+      "community": 0
     },
     {
       "id": "d62614aa-ef2c-44cd-8a7b-91292755a1d0",
       "name": "Jorja Smith",
       "group": "2010s",
-      "value": 14
+      "value": 14,
+      "community": 0
     },
     {
       "id": "c20ee61f-071f-4e65-9c81-45ee931a54ce",
       "name": "Luke Combs",
       "group": "2010s",
-      "value": 11
+      "value": 11,
+      "community": 1
     },
     {
       "id": "6a997121-0919-482b-a91b-c6fe1b55a4b9",
       "name": "James Bay",
       "group": "2010s",
-      "value": 21
+      "value": 21,
+      "community": 4
     },
     {
       "id": "dd569857-d15e-4dbe-baad-b46a5ffe34a0",
       "name": "Black Pumas",
       "group": "2010s",
-      "value": 8
+      "value": 8,
+      "community": 4
     },
     {
       "id": "e4b87494-a5eb-439d-b3bf-5f1b46d4dc6b",
       "name": "Tori Kelly",
       "group": "2010s",
-      "value": 20
+      "value": 20,
+      "community": 4
     },
     {
       "id": "0be22557-d8c7-4706-a531-625c4c570162",
       "name": "Greta Van Fleet",
       "group": "2010s",
-      "value": 3
+      "value": 3,
+      "community": 0
     },
     {
       "id": "3ae306a3-b2a6-4969-b59f-89f0370549e5",
       "name": "Ingrid Andress",
       "group": "2010s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
       "name": "Olivia Rodrigo",
       "group": "2010s",
-      "value": 2
+      "value": 2,
+      "community": 1
     },
     {
       "id": "56a55378-f155-48de-80a5-d80104221267",
       "name": "Chappell Roan",
       "group": "2010s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "93998e01-ff53-4af7-ba2a-5674adcdf21e",
       "name": "H.E.R.",
       "group": "2010s",
-      "value": 10
+      "value": 10,
+      "community": 1
     },
     {
       "id": "b27229bb-5669-4e98-b4ce-0158b2451fe8",
       "name": "Sam Hunt",
       "group": "2010s",
-      "value": 3
+      "value": 3,
+      "community": 2
     },
     {
       "id": "d264a026-7485-4d3a-b4f1-f13fea5c76e2",
       "name": "Brandy Clark",
       "group": "2010s",
-      "value": 4
+      "value": 4,
+      "community": 2
     },
     {
       "id": "cbe7746f-d4b4-4f0d-a435-1aa181d97b1b",
       "name": "Bradley Cooper",
       "group": "2010s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "124cec07-44f1-4a99-9aaa-96a5bb9ec0bd",
       "name": "Lukas Graham",
       "group": "2010s",
-      "value": 3
+      "value": 3,
+      "community": 4
     },
     {
       "id": "40419b33-18e9-4d5a-a674-30b4bb14bac2",
       "name": "Alabama Shakes",
       "group": "2010s",
-      "value": 2
+      "value": 2,
+      "community": 4
     },
     {
       "id": "ee27b2d8-648c-4a9d-a68c-e55066959975",
       "name": "Megan Thee Stallion",
       "group": "2010s",
-      "value": 1
+      "value": 1,
+      "community": 0
     },
     {
       "id": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
       "name": "Daniel Caesar",
       "group": "2010s",
-      "value": 3
+      "value": 3,
+      "community": 0
     },
     {
       "id": "28955336-2348-488a-9381-e3a7b0107343",
       "name": "The Band Perry",
       "group": "2010s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
       "name": "Noah Kahan",
       "group": "2010s",
-      "value": 4
+      "value": 4,
+      "community": 5
     },
     {
       "id": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
-      "name": "Måneskin",
+      "name": "M\u00e5neskin",
       "group": "2010s",
-      "value": 4
+      "value": 4,
+      "community": 1
     },
     {
       "id": "28d83274-26ab-4a6a-b9ff-340f4784e7dd",
-      "name": "Victoria Monét",
+      "name": "Victoria Mon\u00e9t",
       "group": "2010s",
-      "value": 5
+      "value": 5,
+      "community": 4
     }
   ],
   "links": [

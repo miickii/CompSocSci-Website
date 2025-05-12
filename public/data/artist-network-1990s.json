@@ -4,349 +4,407 @@
       "id": "01d76a27-ee74-4e50-9383-b2f0683bae76",
       "name": "Jon Secada",
       "group": "1990s",
-      "value": 7
+      "value": 7,
+      "community": 0
     },
     {
       "id": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
       "name": "Ricky Martin",
       "group": "1990s",
-      "value": 8
+      "value": 8,
+      "community": 0
     },
     {
       "id": "0be325a6-3c6d-4e3a-97ed-e59539b1014f",
       "name": "Trisha Yearwood",
       "group": "1990s",
-      "value": 67
+      "value": 67,
+      "community": 0
     },
     {
       "id": "406552d4-5ba1-4226-b7c0-367bc50fc767",
       "name": "Faith Hill",
       "group": "1990s",
-      "value": 38
+      "value": 38,
+      "community": 0
     },
     {
       "id": "494e8d09-f85b-4543-892f-a5096aed1cd4",
       "name": "Mariah Carey",
       "group": "1990s",
-      "value": 116
+      "value": 116,
+      "community": 2
     },
     {
       "id": "99790314-885a-4975-8614-9c5bc890364d",
       "name": "TLC",
       "group": "1990s",
-      "value": 35
+      "value": 35,
+      "community": 2
     },
     {
       "id": "a796b92e-c137-4895-9c89-10f900617a4f",
-      "name": "Destiny’s Child",
+      "name": "Destiny\u2019s Child",
       "group": "1990s",
-      "value": 16
+      "value": 16,
+      "community": 2
     },
     {
       "id": "9092d8e1-9b38-4372-a96d-000b8561a8bc",
       "name": "LeAnn Rimes",
       "group": "1990s",
-      "value": 32
+      "value": 32,
+      "community": 0
     },
     {
       "id": "c5a0a216-c33c-42dc-92b8-4b60236f8dad",
       "name": "Andrea Bocelli",
       "group": "1990s",
-      "value": 24
+      "value": 24,
+      "community": 3
     },
     {
       "id": "32b2e717-9e01-4f45-ac73-9542ccf18d4d",
       "name": "Wilson Phillips",
       "group": "1990s",
-      "value": 21
+      "value": 21,
+      "community": 2
     },
     {
       "id": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
       "name": "Christina Aguilera",
       "group": "1990s",
-      "value": 12
+      "value": 12,
+      "community": 0
     },
     {
       "id": "321531fc-db73-4ffa-a959-61a61a2908c1",
       "name": "Erykah Badu",
       "group": "1990s",
-      "value": 14
+      "value": 14,
+      "community": 4
     },
     {
       "id": "db76c5ca-d555-4f09-b1db-baa1b713d875",
       "name": "Mary J. Blige",
       "group": "1990s",
-      "value": 84
+      "value": 84,
+      "community": 4
     },
     {
       "id": "80ccfede-c258-4575-a7ad-c982e9932e0f",
       "name": "Sheryl Crow",
       "group": "1990s",
-      "value": 23
+      "value": 23,
+      "community": 3
     },
     {
       "id": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
       "name": "Fiona Apple",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 4
     },
     {
       "id": "f053ae01-dae6-4aae-9883-e8c279fdbef4",
       "name": "Seal",
       "group": "1990s",
-      "value": 5
+      "value": 5,
+      "community": 4
     },
     {
       "id": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
-      "name": "JAY‐Z",
+      "name": "JAY\u2010Z",
       "group": "1990s",
-      "value": 68
+      "value": 68,
+      "community": 4
     },
     {
       "id": "25e0497c-faa4-4765-b232-baa20e5e35a7",
-      "name": "Sisqó",
+      "name": "Sisq\u00f3",
       "group": "1990s",
-      "value": 16
+      "value": 16,
+      "community": 4
     },
     {
       "id": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
       "name": "50 Cent",
       "group": "1990s",
-      "value": 10
+      "value": 10,
+      "community": 4
     },
     {
       "id": "e8414012-4a1c-4ad4-be5e-fc55294e28cc",
       "name": "Lauryn Hill",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 4
     },
     {
       "id": "3c0a0074-4f26-4d3b-b723-a66bf6cc3753",
       "name": "Hanson",
       "group": "1990s",
-      "value": 29
+      "value": 29,
+      "community": 2
     },
     {
       "id": "7e5cfc9a-e9e1-46f1-b81a-861b12049488",
       "name": "Tim McGraw",
       "group": "1990s",
-      "value": 24
+      "value": 24,
+      "community": 0
     },
     {
       "id": "63e8d6f9-e247-45c9-aaf2-e079cddbdd54",
       "name": "Billy Ray Cyrus",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 0
     },
     {
       "id": "c2d25856-a09a-4d15-b404-77dd19c19e63",
       "name": "R. Kelly",
       "group": "1990s",
-      "value": 24
+      "value": 24,
+      "community": 4
     },
     {
       "id": "b42eca0f-9381-43db-badb-1cba080a7dc2",
       "name": "Boyz II Men",
       "group": "1990s",
-      "value": 73
+      "value": 73,
+      "community": 2
     },
     {
       "id": "ef9df4c9-0e76-451b-b174-2244bcc31f0c",
-      "name": "All‐4‐One",
+      "name": "All\u20104\u2010One",
       "group": "1990s",
-      "value": 26
+      "value": 26,
+      "community": 0
     },
     {
       "id": "fffc6a35-ae65-48be-bcc0-9d604e05665e",
       "name": "SWV",
       "group": "1990s",
-      "value": 7
+      "value": 7,
+      "community": 4
     },
     {
       "id": "16c5bb7a-35b7-418d-880e-7ed3399f1b40",
       "name": "Lee Ann Womack",
       "group": "1990s",
-      "value": 7
+      "value": 7,
+      "community": 0
     },
     {
       "id": "fcd7aa10-eb1d-4486-8d54-7a734969ce90",
       "name": "The Blues Brothers Band",
       "group": "1990s",
-      "value": 10
+      "value": 10,
+      "community": 2
     },
     {
       "id": "2072f699-049a-4b78-b039-317a1c7cff94",
       "name": "Puff Daddy & the Family",
       "group": "1990s",
-      "value": 50
+      "value": 50,
+      "community": 4
     },
     {
       "id": "faabb55d-3c9e-4c23-8779-732ac2ee2c0d",
       "name": "Shania Twain",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 0
     },
     {
       "id": "b1fb6a18-1626-4011-80fb-eaf83dfebcb6",
       "name": "Jill Scott",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 4
     },
     {
       "id": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
       "name": "Lil Wayne",
       "group": "1990s",
-      "value": 2
+      "value": 2,
+      "community": 4
     },
     {
       "id": "c7f33343-7870-4e03-9892-65ad81d18db5",
       "name": "Color Me Badd",
       "group": "1990s",
-      "value": 12
+      "value": 12,
+      "community": 2
     },
     {
       "id": "b3120863-d98d-4bad-a637-8abd8cde6685",
       "name": "Hootie & the Blowfish",
       "group": "1990s",
-      "value": 26
+      "value": 26,
+      "community": 3
     },
     {
       "id": "02ceff75-7363-493e-a78d-912dc86c7460",
       "name": "The Black Crowes",
       "group": "1990s",
-      "value": 18
+      "value": 18,
+      "community": 3
     },
     {
       "id": "38c5cdab-5d6d-43d1-85b0-dac41bde186e",
       "name": "Blind Melon",
       "group": "1990s",
-      "value": 11
+      "value": 11,
+      "community": 3
     },
     {
       "id": "746916c9-fd36-44e6-823d-03185e596f58",
       "name": "Joan Osborne",
       "group": "1990s",
-      "value": 19
+      "value": 19,
+      "community": 3
     },
     {
       "id": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
       "name": "Eminem",
       "group": "1990s",
-      "value": 3
+      "value": 3,
+      "community": 4
     },
     {
       "id": "bfd5aec5-62a2-4560-a316-7c46c17babda",
       "name": "Train",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 3
     },
     {
       "id": "bf61e8ff-7621-4655-8ebd-68210645c5e9",
       "name": "Kris Kross",
       "group": "1990s",
-      "value": 21
+      "value": 21,
+      "community": 2
     },
     {
       "id": "fd7a8bc1-1b25-4b4c-b899-8f7b3343a229",
       "name": "Sophie B. Hawkins",
       "group": "1990s",
-      "value": 12
+      "value": 12,
+      "community": 2
     },
     {
       "id": "0f82d6b5-12fb-4569-b047-a00194f572a7",
       "name": "Fountains of Wayne",
       "group": "1990s",
-      "value": 2
+      "value": 2,
+      "community": 1
     },
     {
       "id": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
       "name": "Backstreet Boys",
       "group": "1990s",
-      "value": 5
+      "value": 5,
+      "community": 1
     },
     {
       "id": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
       "name": "Britney Spears",
       "group": "1990s",
-      "value": 3
+      "value": 3,
+      "community": 1
     },
     {
       "id": "48772747-4cda-4ba8-b470-cfd5a32e05f7",
       "name": "Macy Gray",
       "group": "1990s",
-      "value": 6
+      "value": 6,
+      "community": 2
     },
     {
       "id": "d4a1404d-e00c-4bac-b3ba-e3557f6468d6",
       "name": "Ace of Base",
       "group": "1990s",
-      "value": 7
+      "value": 7,
+      "community": 0
     },
     {
       "id": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
       "name": "Counting Crows",
       "group": "1990s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "9647191b-5891-4885-bccc-f6bb9b200a6d",
       "name": "John Michael Montgomery",
       "group": "1990s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "328d146c-79f1-4eb6-9e40-8ee5710c14e5",
       "name": "Imogen Heap",
       "group": "1990s",
-      "value": 1
+      "value": 1,
+      "community": 4
     },
     {
       "id": "c9d4f63d-6c2c-47ae-84fe-819001e3d3ea",
       "name": "C+C Music Factory",
       "group": "1990s",
-      "value": 3
+      "value": 3,
+      "community": 2
     },
     {
       "id": "ad0ecd8b-805e-406e-82cb-5b00c3a3a29e",
       "name": "Kid Rock",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 2
     },
     {
       "id": "afb8f901-d846-4c70-a898-59bc183d1da7",
       "name": "Crash Test Dummies",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 0
     },
     {
       "id": "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
       "name": "Alicia Keys",
       "group": "1990s",
-      "value": 3
+      "value": 3,
+      "community": 3
     },
     {
       "id": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
       "name": "Garbage",
       "group": "1990s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "d3ba9251-215f-4ef3-a6de-8aa256b9c30c",
       "name": "Paula Cole",
       "group": "1990s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "60530915-9371-4b16-bc31-5c4456317ae0",
       "name": "Natalie Imbruglia",
       "group": "1990s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "a373933d-555c-446f-a7a2-b8b8a291659f",
       "name": "Heather Headley",
       "group": "1990s",
-      "value": 4
+      "value": 4,
+      "community": 2
     }
   ],
   "links": [

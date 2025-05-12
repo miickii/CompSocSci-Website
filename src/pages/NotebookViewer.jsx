@@ -10,7 +10,7 @@ function NotebookViewer() {
   useEffect(() => {
     // Set the notebook URL - this should be your GitHub hosted notebook or nbviewer URL
     // Example: "https://nbviewer.org/github/yourusername/repo/blob/main/Grammy_Collaboration_Analysis.ipynb"
-    setNotebookUrl("https://nbviewer.org/github/yourusername/repo/blob/main/Grammy_Collaboration_Analysis.ipynb");
+    setNotebookUrl("https://nbviewer.org/github/miickii/CompSocSci-Website/blob/main/explainer.ipynb");
     
     // You could also try to dynamically check if the URL is valid
     const checkUrl = async () => {

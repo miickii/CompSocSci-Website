@@ -4,235 +4,274 @@
       "id": "967002b0-58ef-4b22-a58c-fbc631ff695c",
       "name": "Paul Young",
       "group": "1980s",
-      "value": 6
+      "value": 6,
+      "community": 1
     },
     {
       "id": "c09c8263-40ef-4352-8031-e438b1ce68fc",
       "name": "Frankie Goes to Hollywood",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 1
     },
     {
       "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
       "name": "U2",
       "group": "1980s",
-      "value": 21
+      "value": 21,
+      "community": 0
     },
     {
       "id": "fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e",
       "name": "Julian Lennon",
       "group": "1980s",
-      "value": 6
+      "value": 6,
+      "community": 0
     },
     {
       "id": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
       "name": "James Ingram",
       "group": "1980s",
-      "value": 9
+      "value": 9,
+      "community": 3
     },
     {
       "id": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
       "name": "Lionel Richie",
       "group": "1980s",
-      "value": 9
+      "value": 9,
+      "community": 3
     },
     {
       "id": "847e8a0c-cc20-4213-9e16-975515c2a926",
-      "name": "Céline Dion",
+      "name": "C\u00e9line Dion",
       "group": "1980s",
-      "value": 15
+      "value": 15,
+      "community": 3
     },
     {
       "id": "0e763b87-f3cd-4a63-986f-bebc4189f1f0",
       "name": "Stray Cats",
       "group": "1980s",
-      "value": 3
+      "value": 3,
+      "community": 0
     },
     {
       "id": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
       "name": "Sheena Easton",
       "group": "1980s",
-      "value": 19
+      "value": 19,
+      "community": 3
     },
     {
       "id": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
       "name": "Cyndi Lauper",
       "group": "1980s",
-      "value": 9
+      "value": 9,
+      "community": 1
     },
     {
       "id": "675c1c5e-5625-4a5e-97a2-b02aab5db2fc",
       "name": "k.d. lang",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "a996b5bd-db99-4257-b036-336f63448aa2",
       "name": "Bobby McFerrin",
       "group": "1980s",
-      "value": 14
+      "value": 14,
+      "community": 0
     },
     {
       "id": "32673e42-5ba2-4528-b3fe-a000a0c606e3",
       "name": "Corey Hart",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "0307edfc-437c-4b48-8700-80680e66a228",
       "name": "Whitney Houston",
       "group": "1980s",
-      "value": 14
+      "value": 14,
+      "community": 1
     },
     {
       "id": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
       "name": "R.E.M.",
       "group": "1980s",
-      "value": 4
+      "value": 4,
+      "community": 0
     },
     {
       "id": "1c46e82f-4764-4d82-a33b-5d5aee5e2881",
       "name": "Fergie",
       "group": "1980s",
-      "value": 3
+      "value": 3,
+      "community": 3
     },
     {
       "id": "16da4997-78e1-4837-85f6-9247d10cde1f",
-      "name": "Tone‐Lōc",
+      "name": "Tone\u2010L\u014dc",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
       "name": "Amy Holland",
       "group": "1980s",
-      "value": 16
+      "value": 16,
+      "community": 3
     },
     {
       "id": "cf119120-7df5-47d7-9dec-49f8837a4e40",
       "name": "Suzanne Vega",
       "group": "1980s",
-      "value": 4
+      "value": 4,
+      "community": 1
     },
     {
       "id": "401c3991-b76b-499d-8082-9f2df958ef78",
       "name": "Phil Collins",
       "group": "1980s",
-      "value": 20
+      "value": 20,
+      "community": 3
     },
     {
       "id": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
       "name": "The Judds",
       "group": "1980s",
-      "value": 11
+      "value": 11,
+      "community": 0
     },
     {
       "id": "8f695099-c714-4ad0-8888-36eca37fee84",
       "name": "Asia",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 3
     },
     {
       "id": "d3d83a98-4a2e-433c-903c-5b4c79ccb42e",
       "name": "Milli Vanilli",
       "group": "1980s",
-      "value": 5
+      "value": 5,
+      "community": 1
     },
     {
       "id": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
       "name": "Mike + the Mechanics",
       "group": "1980s",
-      "value": 4
+      "value": 4,
+      "community": 3
     },
     {
       "id": "df19b09e-a53f-4d7f-b364-5ae4b05e6c4a",
       "name": "Breakfast Club",
       "group": "1980s",
-      "value": 6
+      "value": 6,
+      "community": 0
     },
     {
       "id": "7944ed53-2a58-4035-9b93-140a71e41c34",
       "name": "Sting",
       "group": "1980s",
-      "value": 8
+      "value": 8,
+      "community": 0
     },
     {
       "id": "a9100753-f539-43cf-bcc9-579566fb512e",
       "name": "Simply Red",
       "group": "1980s",
-      "value": 7
+      "value": 7,
+      "community": 3
     },
     {
       "id": "699e687d-9e77-4fd0-9b7a-54d2aaadf05b",
       "name": "Jody Watley",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 1
     },
     {
       "id": "02349767-d5ac-4528-892d-17b6d40107a1",
       "name": "Anita Baker",
       "group": "1980s",
-      "value": 5
+      "value": 5,
+      "community": 1
     },
     {
       "id": "e1235abf-1fab-40a5-833a-057968d90e48",
       "name": "Regina Belle",
       "group": "1980s",
-      "value": 4
+      "value": 4,
+      "community": 1
     },
     {
       "id": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
       "name": "Lisa Stansfield",
       "group": "1980s",
-      "value": 10
+      "value": 10,
+      "community": 3
     },
     {
       "id": "70047e57-0153-4117-b0fc-a1d2e322e5ef",
       "name": "Donald Fagen",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 0
     },
     {
       "id": "c78a77fa-507c-4c07-947a-0355029453bd",
-      "name": "Sinéad O’Connor",
+      "name": "Sin\u00e9ad O\u2019Connor",
       "group": "1980s",
-      "value": 5
+      "value": 5,
+      "community": 0
     },
     {
       "id": "b4d32cff-f19e-455f-86c4-f347d824ca61",
       "name": "Eurythmics",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "91f603ca-b126-42a2-9c29-820ca687347c",
-      "name": "Terence Trent D’Arby",
+      "name": "Terence Trent D\u2019Arby",
       "group": "1980s",
-      "value": 2
+      "value": 2,
+      "community": 0
     },
     {
       "id": "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
       "name": "Don Henley",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 2
     },
     {
       "id": "e60dbba7-6f55-429a-bd22-5e9c6a87ae70",
       "name": "Bruce Hornsby",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 2
     },
     {
       "id": "fcde7037-181e-437f-9417-60a38958c0fa",
       "name": "Michael Sembello",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 3
     },
     {
       "id": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
       "name": "Big Country",
       "group": "1980s",
-      "value": 1
+      "value": 1,
+      "community": 0
     }
   ],
   "links": [
