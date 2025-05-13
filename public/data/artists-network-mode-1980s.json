@@ -1,0 +1,33 @@
+{
+  "nodes": [
+    {
+      "id": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "name": "Sheena Easton",
+      "group": "1980s",
+      "value": 4,
+      "community": 0,
+      "genre": [
+        "ballad",
+        "contemporary r&b",
+        "country",
+        "dance",
+        "pop"
+      ]
+    },
+    {
+      "id": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "name": "Amy Holland",
+      "group": "1980s",
+      "value": 4,
+      "community": 0,
+      "genre": []
+    }
+  ],
+  "links": [
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "value": 4
+    }
+  ]
+}

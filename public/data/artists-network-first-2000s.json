@@ -5,315 +5,653 @@
       "name": "Taylor Swift",
       "group": "2000s",
       "value": 24,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "alternative pop",
+        "contemporary country",
+        "country",
+        "country pop",
+        "electropop",
+        "indie folk",
+        "pop",
+        "pop rock",
+        "singer-songwriter",
+        "synth-pop"
+      ]
     },
     {
       "id": "6e0ae159-8449-4262-bba5-18ec87fa529f",
       "name": "Rascal Flatts",
       "group": "2000s",
       "value": 36,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "contemporary country",
+        "country",
+        "country pop"
+      ]
     },
     {
       "id": "70f0e309-5418-49b6-a130-666e2f76eecd",
       "name": "Carrie Underwood",
       "group": "2000s",
       "value": 33,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "contemporary country",
+        "country",
+        "country pop",
+        "country rock",
+        "pop rock"
+      ]
     },
     {
       "id": "76e78b58-f301-4975-8058-7f84d8360738",
       "name": "Little Big Town",
       "group": "2000s",
       "value": 12,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "country"
+      ]
     },
     {
       "id": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
       "name": "Keane",
       "group": "2000s",
       "value": 13,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "alternative pop",
+        "alternative rock",
+        "indie pop",
+        "piano rock",
+        "pop rock",
+        "post-britpop",
+        "synth-pop"
+      ]
     },
     {
       "id": "dbbc47a5-1338-4830-9298-a8d0b11c0a46",
       "name": "Joss Stone",
       "group": "2000s",
       "value": 24,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "blue-eyed soul",
+        "blues",
+        "jazz",
+        "neo soul",
+        "r&b",
+        "soul"
+      ]
     },
     {
       "id": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
       "name": "Miley Cyrus",
       "group": "2000s",
       "value": 34,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "contemporary r&b",
+        "dance-pop",
+        "electropop",
+        "pop",
+        "pop rock",
+        "power pop",
+        "rock",
+        "teen pop"
+      ]
     },
     {
       "id": "d339efbb-77b9-4147-ba9e-59f2f24550b2",
       "name": "Kelly Clarkson",
       "group": "2000s",
       "value": 39,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "pop",
+        "pop rock"
+      ]
     },
     {
       "id": "0eb17834-1d29-47ef-a422-9dc68d73c5e4",
       "name": "Kanye West Tribute Band",
       "group": "2000s",
       "value": 10,
-      "community": 3
+      "community": 3,
+      "genre": []
     },
     {
       "id": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
       "name": "Rick Ross",
       "group": "2000s",
       "value": 12,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "gangsta rap",
+        "hardcore hip hop",
+        "hip hop",
+        "pop rap",
+        "southern hip hop"
+      ]
     },
     {
       "id": "516cef4d-0718-4007-9939-f9b38af3f784",
       "name": "Fall Out Boy",
       "group": "2000s",
       "value": 19,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "alternative rock",
+        "electropop",
+        "emo",
+        "emo pop",
+        "pop",
+        "pop punk",
+        "pop rock"
+      ]
     },
     {
       "id": "73e5e69d-3554-40d8-8516-00cb38737a1c",
       "name": "Rihanna",
       "group": "2000s",
       "value": 50,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "dance",
+        "dance-pop",
+        "dancehall",
+        "electro house",
+        "electropop",
+        "hip hop",
+        "pop",
+        "pop soul",
+        "r&b",
+        "reggae"
+      ]
     },
     {
       "id": "f87b740a-c22b-4fae-9987-1f3e16f840c4",
       "name": "Sugarland",
       "group": "2000s",
       "value": 30,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "contemporary country",
+        "country",
+        "country pop",
+        "pop rock"
+      ]
     },
     {
       "id": "122d63fc-8671-43e4-9752-34e846d62a9c",
       "name": "Katy Perry",
       "group": "2000s",
       "value": 20,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "bubblegum pop",
+        "dance-pop",
+        "disco",
+        "electropop",
+        "pop",
+        "pop rock"
+      ]
     },
     {
       "id": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
       "name": "MGMT",
       "group": "2000s",
       "value": 2,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "hypnagogic pop",
+        "indie pop",
+        "indie rock",
+        "indietronica",
+        "neo-psychedelia",
+        "new wave",
+        "psychedelic pop",
+        "psychedelic rock",
+        "synth-pop"
+      ]
     },
     {
       "id": "a10f94a9-2a3c-4166-b9fa-a7bed0bf7d96",
       "name": "Michelle Branch",
       "group": "2000s",
       "value": 16,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "alternative rock",
+        "country",
+        "country pop",
+        "indie pop",
+        "indie rock",
+        "pop rock",
+        "power pop",
+        "rock",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "a47ed6d5-480e-428c-8ce9-d7a6a571e857",
       "name": "Ashanti",
       "group": "2000s",
       "value": 9,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "contemporary r&b",
+        "pop soul",
+        "r&b"
+      ]
     },
     {
       "id": "1036b808-f58c-4a3e-b461-a2c4492ecf1b",
       "name": "Nicki Minaj",
       "group": "2000s",
       "value": 12,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "east coast hip hop",
+        "electronic",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "r&b"
+      ]
     },
     {
       "id": "e54be6b7-5c26-4b47-bb3f-c137429b9b55",
       "name": "Sara Bareilles",
       "group": "2000s",
       "value": 7,
-      "community": 2
+      "community": 4,
+      "genre": [
+        "pop",
+        "pop rock",
+        "soft rock"
+      ]
     },
     {
       "id": "e0140a67-e4d1-4f13-8a01-364355bee46e",
       "name": "Justin Bieber",
       "group": "2000s",
       "value": 7,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "pop",
+        "teen pop"
+      ]
     },
     {
       "id": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
       "name": "Paramore",
       "group": "2000s",
       "value": 14,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "acoustic rock",
+        "alternative rock",
+        "emo",
+        "emo pop",
+        "new wave",
+        "pop",
+        "pop punk",
+        "pop rock",
+        "power pop",
+        "punk",
+        "rock"
+      ]
     },
     {
       "id": "03172286-f7ed-4864-a4db-459cd5ca9790",
       "name": "Ciara",
       "group": "2000s",
       "value": 25,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "dance",
+        "dance-pop",
+        "electropop",
+        "hip hop",
+        "pop",
+        "r&b"
+      ]
     },
     {
       "id": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
       "name": "Kid Cudi",
       "group": "2000s",
       "value": 21,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "alternative hip hop",
+        "hip hop",
+        "pop rap",
+        "trap"
+      ]
     },
     {
       "id": "4c7a5854-6b75-4623-a684-6a3d785d9015",
       "name": "Estelle",
       "group": "2000s",
       "value": 19,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "dance-pop",
+        "funktronica",
+        "pop soul"
+      ]
     },
     {
       "id": "5b64e344-b2fb-47bd-bd7b-4c793b17d472",
       "name": "Mike Posner",
       "group": "2000s",
       "value": 6,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "dance-pop",
+        "electropop",
+        "folk pop",
+        "pop"
+      ]
     },
     {
       "id": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
       "name": "Drake",
       "group": "2000s",
       "value": 26,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "alternative r&b",
+        "contemporary r&b",
+        "hardcore hip hop",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "trap"
+      ]
     },
     {
       "id": "b76c616a-ec0d-4f0c-b986-f249c4a04d77",
       "name": "Keri Hilson",
       "group": "2000s",
       "value": 28,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "electro",
+        "electropop",
+        "pop",
+        "pop rap"
+      ]
     },
     {
       "id": "2c4dae8c-e591-49e0-9c5a-62b310a15788",
       "name": "Duffy",
       "group": "2000s",
       "value": 7,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "blues",
+        "pop",
+        "soft rock",
+        "soul"
+      ]
     },
     {
       "id": "ee190f6b-7d98-43ec-b924-da5f8018eca0",
       "name": "Janelle Mon\u00e1e",
       "group": "2000s",
       "value": 1,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "art pop",
+        "contemporary r&b",
+        "funk",
+        "pop",
+        "pop rap",
+        "soul",
+        "synth funk"
+      ]
     },
     {
       "id": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
       "name": "Kings of Leon",
       "group": "2000s",
       "value": 10,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "alternative rock",
+        "garage rock",
+        "garage rock revival",
+        "indie rock",
+        "pop rock",
+        "rock",
+        "southern rock"
+      ]
     },
     {
       "id": "11d9fc14-e6ac-4c50-81e7-062dd82566ce",
       "name": "Gretchen Wilson",
       "group": "2000s",
       "value": 4,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "country"
+      ]
     },
     {
       "id": "bc85c6f6-6b06-44c1-8754-ef32c1e6b824",
       "name": "Corinne Bailey Rae",
       "group": "2000s",
       "value": 17,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "neo soul",
+        "soul"
+      ]
     },
     {
       "id": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
       "name": "Lady Gaga",
       "group": "2000s",
       "value": 9,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "americana",
+        "dance",
+        "dance-pop",
+        "electro house",
+        "electronic",
+        "electropop",
+        "jazz",
+        "pop",
+        "pop rock",
+        "synth-pop"
+      ]
     },
     {
       "id": "4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c",
       "name": "Miranda Lambert",
       "group": "2000s",
       "value": 6,
-      "community": 2
+      "community": 4,
+      "genre": [
+        "contemporary country",
+        "country",
+        "country pop",
+        "rockabilly",
+        "singer-songwriter",
+        "texas country"
+      ]
     },
     {
       "id": "d1393ecb-431b-4fde-a6ea-d769f2f040cb",
       "name": "Kacey Musgraves",
       "group": "2000s",
       "value": 7,
-      "community": 2
+      "community": 4,
+      "genre": [
+        "alternative country",
+        "americana",
+        "contemporary country",
+        "country",
+        "country pop",
+        "easy listening"
+      ]
     },
     {
       "id": "6e019bc6-5c23-4935-94f0-4a896631d846",
       "name": "Jonas Brothers",
       "group": "2000s",
       "value": 9,
-      "community": 0
+      "community": 2,
+      "genre": [
+        "pop rock",
+        "teen pop"
+      ]
     },
     {
       "id": "82e454e2-38ee-4e69-89a6-cc65167753d1",
       "name": "Chase & Status",
       "group": "2000s",
       "value": 3,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "drum and bass",
+        "dubstep",
+        "electronic",
+        "jungle",
+        "uk garage"
+      ]
     },
     {
       "id": "985c709c-7771-4de3-9024-7bda29ebe3f9",
       "name": "Norah Jones",
       "group": "2000s",
       "value": 4,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "blues",
+        "christmas music",
+        "country",
+        "folk",
+        "indie pop",
+        "jazz",
+        "jazz pop",
+        "pop",
+        "pop soul",
+        "singer-songwriter",
+        "traditional pop",
+        "vocal jazz"
+      ]
     },
     {
       "id": "baf05baf-69fb-47dd-93c2-033536b8c385",
       "name": "Brandi Carlile",
       "group": "2000s",
       "value": 8,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "alternative country",
+        "americana",
+        "country",
+        "folk rock",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "b5bd9f88-962e-4730-84a7-795592ba42e8",
       "name": "Silversun Pickups",
       "group": "2000s",
       "value": 3,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "alternative rock",
+        "indie rock",
+        "indietronica",
+        "rock",
+        "shoegaze"
+      ]
     },
     {
       "id": "ebee61b4-bbdd-4087-9bcb-d5aa099088ec",
       "name": "James Blunt",
       "group": "2000s",
       "value": 6,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "acoustic rock",
+        "folk rock",
+        "piano rock",
+        "pop",
+        "pop rock",
+        "rock",
+        "singer-songwriter",
+        "soft rock"
+      ]
     },
     {
       "id": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
       "name": "Amy Winehouse",
       "group": "2000s",
       "value": 7,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "contemporary r&b",
+        "crossover jazz",
+        "jazz",
+        "jazz pop",
+        "neo soul",
+        "pop soul",
+        "r&b",
+        "soul",
+        "vocal jazz"
+      ]
     },
     {
       "id": "38c7a3b2-17fb-4166-b964-4e445d69efdd",
       "name": "India.Arie",
       "group": "2000s",
       "value": 1,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "blues",
+        "folk",
+        "neo soul",
+        "soul"
+      ]
     },
     {
       "id": "6f92929a-6381-48ac-b348-83b43b9cf646",
       "name": "Jazmine Sullivan",
       "group": "2000s",
       "value": 4,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "soul"
+      ]
     },
     {
       "id": "968fb129-2c95-4fd5-b195-86552ba45c94",
       "name": "Molly Tuttle",
       "group": "2000s",
       "value": 2,
-      "community": 2
+      "community": 4,
+      "genre": [
+        "americana",
+        "bluegrass",
+        "singer-songwriter"
+      ]
     }
   ],
   "links": [

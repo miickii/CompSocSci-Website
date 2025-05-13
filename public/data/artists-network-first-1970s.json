@@ -5,315 +5,592 @@
       "name": "Tanya Tucker",
       "group": "1970s",
       "value": 19,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "contemporary country",
+        "country",
+        "country pop",
+        "nashville sound"
+      ]
     },
     {
       "id": "70248960-cb53-4ea4-943a-edb18f7d336f",
       "name": "Bruce Springsteen",
       "group": "1970s",
       "value": 34,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "americana",
+        "aor",
+        "contemporary folk",
+        "folk",
+        "heartland rock",
+        "pop rock",
+        "rock",
+        "rock and roll",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "0f4681f3-1d4d-4463-8a68-eaa60d6d6865",
       "name": "Helen Reddy",
       "group": "1970s",
       "value": 43,
-      "community": 2
+      "community": 2,
+      "genre": [
+        "pop"
+      ]
     },
     {
       "id": "10ccb5d8-f9d5-4954-9441-3419b522a214",
       "name": "Olivia Newton\u2010John",
       "group": "1970s",
       "value": 43,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "ballad",
+        "country",
+        "country pop",
+        "disco",
+        "pop"
+      ]
     },
     {
       "id": "d3986756-f1dd-4635-9510-2d116c0deddd",
       "name": "Phoebe Snow",
       "group": "1970s",
       "value": 23,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "folk",
+        "folk pop",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "435ccd03-20f6-42aa-97e3-275b82dc2f6f",
       "name": "The Knack",
       "group": "1970s",
       "value": 2,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "classic rock",
+        "new wave",
+        "pop rock",
+        "power pop",
+        "rock"
+      ]
     },
     {
       "id": "fa19ee38-c2a9-4ed1-9b24-a18100cf9db3",
       "name": "Don McLean",
       "group": "1970s",
       "value": 9,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "contemporary folk",
+        "folk",
+        "folk pop",
+        "folk rock",
+        "pop rock",
+        "rock",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "ae27f1d1-b8c4-4b2f-88a0-094c3333ed24",
       "name": "Captain & Tennille",
       "group": "1970s",
       "value": 15,
-      "community": 5
+      "community": 4,
+      "genre": []
     },
     {
       "id": "c4df30f5-5487-4806-9189-b69c9f27532c",
       "name": "Carly Simon",
       "group": "1970s",
       "value": 13,
-      "community": 4
+      "community": 4,
+      "genre": [
+        "blues rock",
+        "electronic",
+        "jazz",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ]
     },
     {
       "id": "df9ed132-5b6a-4e7d-a468-033cffc21947",
       "name": "Shaun Cassidy",
       "group": "1970s",
       "value": 22,
-      "community": 1
+      "community": 1,
+      "genre": []
     },
     {
       "id": "ed333e8b-d18a-49fc-b361-4ec9731dfdba",
       "name": "Bette Midler",
       "group": "1970s",
       "value": 48,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "pop"
+      ]
     },
     {
       "id": "600c5212-a8e6-458e-bd3f-78b6fbfe329a",
       "name": "Kim Carnes",
       "group": "1970s",
       "value": 14,
-      "community": 5
+      "community": 1,
+      "genre": [
+        "country pop",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ]
     },
     {
       "id": "7bb60591-46f3-4147-b692-1814a87e832e",
       "name": "Barry Manilow",
       "group": "1970s",
       "value": 21,
-      "community": 5
+      "community": 4,
+      "genre": [
+        "easy listening",
+        "jazz",
+        "pop",
+        "soft rock"
+      ]
     },
     {
       "id": "cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81",
       "name": "Kris Kristofferson",
       "group": "1970s",
       "value": 7,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "americana",
+        "country",
+        "country pop",
+        "folk",
+        "outlaw country",
+        "progressive country",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "cefd9d3d-9506-461c-972f-89b4cbade9da",
       "name": "Crystal Gayle",
       "group": "1970s",
       "value": 1,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "country pop"
+      ]
     },
     {
       "id": "eb45032c-80da-469c-be20-1d09f08ef37f",
       "name": "Natalie Cole",
       "group": "1970s",
       "value": 22,
-      "community": 2
+      "community": 2,
+      "genre": [
+        "pop",
+        "pop soul",
+        "quiet storm",
+        "r&b",
+        "soul"
+      ]
     },
     {
       "id": "db3ed2cd-ede2-472e-ae20-b4aeae16e5f8",
       "name": "Maureen McGovern",
       "group": "1970s",
       "value": 28,
-      "community": 5
+      "community": 2,
+      "genre": [
+        "pop"
+      ]
     },
     {
       "id": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
       "name": "Michael Jackson",
       "group": "1970s",
       "value": 17,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "boogie",
+        "contemporary r&b",
+        "dance-pop",
+        "disco",
+        "hip hop",
+        "new jack swing",
+        "pop",
+        "pop rap",
+        "pop rock",
+        "pop soul",
+        "r&b",
+        "soul"
+      ]
     },
     {
       "id": "c0b6ccb6-fb87-4594-98fb-370120d2b6e8",
       "name": "The Amazing Rhythm Aces",
       "group": "1970s",
       "value": 4,
-      "community": 0
+      "community": 4,
+      "genre": []
     },
     {
       "id": "e11c5e9a-8b3a-44c2-9a71-b7a00b5fb8d5",
       "name": "Graham Central Station",
       "group": "1970s",
       "value": 2,
-      "community": 0
+      "community": 4,
+      "genre": [
+        "funk",
+        "funk rock",
+        "soul"
+      ]
     },
     {
       "id": "6cf4f18c-2455-47ed-9f6c-953e2f107406",
       "name": "Stephen Bishop",
       "group": "1970s",
       "value": 3,
-      "community": 5
+      "community": 2,
+      "genre": [
+        "rock"
+      ]
     },
     {
       "id": "b904d624-9e05-4398-8f4f-88fbcf022f79",
       "name": "Barry White",
       "group": "1970s",
       "value": 3,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "disco",
+        "easy listening",
+        "funk",
+        "pop",
+        "pop soul",
+        "r&b",
+        "smooth soul",
+        "soul"
+      ]
     },
     {
       "id": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
       "name": "Peter Gabriel",
       "group": "1970s",
       "value": 1,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "art pop",
+        "art rock",
+        "chamber pop",
+        "crossover prog",
+        "experimental",
+        "folk",
+        "new wave",
+        "pop",
+        "pop rock",
+        "progressive pop",
+        "progressive rock",
+        "rock",
+        "soft rock"
+      ]
     },
     {
       "id": "3376b487-95b4-42e6-b7f4-71cffffcad97",
       "name": "The Partridge Family",
       "group": "1970s",
       "value": 9,
-      "community": 1
+      "community": 1,
+      "genre": []
     },
     {
       "id": "487672a5-469e-432d-aff7-f8f647e2dfdd",
       "name": "Johnny Bristol",
       "group": "1970s",
       "value": 2,
-      "community": 2
+      "community": 1,
+      "genre": [
+        "soul"
+      ]
     },
     {
       "id": "31e28f7f-8b87-4003-99eb-e15b058e96d9",
       "name": "Debby Boone",
       "group": "1970s",
       "value": 28,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "ballad",
+        "contemporary christian",
+        "country",
+        "pop"
+      ]
     },
     {
       "id": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
       "name": "Aerosmith",
       "group": "1970s",
       "value": 18,
-      "community": 2
+      "community": 2,
+      "genre": [
+        "aor",
+        "arena rock",
+        "blues rock",
+        "classic rock",
+        "glam metal",
+        "hard rock",
+        "rock",
+        "rock and roll"
+      ]
     },
     {
       "id": "535afeda-2538-435d-9dd1-5e10be586774",
       "name": "Earth, Wind & Fire",
       "group": "1970s",
       "value": 16,
-      "community": 2
+      "community": 2,
+      "genre": [
+        "big band",
+        "dance",
+        "disco",
+        "funk",
+        "jazz",
+        "progressive soul",
+        "r&b",
+        "soul"
+      ]
     },
     {
       "id": "cfb830a4-66ca-4d81-a099-033883b39ad8",
       "name": "The Brothers Johnson",
       "group": "1970s",
       "value": 16,
-      "community": 2
+      "community": 2,
+      "genre": [
+        "funk",
+        "r&b"
+      ]
     },
     {
       "id": "aef6e491-3121-4048-b035-4704a9ce0716",
       "name": "Loggins & Messina",
       "group": "1970s",
       "value": 5,
-      "community": 5
+      "community": 4,
+      "genre": []
     },
     {
       "id": "5d8f1ebd-6b28-420a-ab15-75b9bc12f7d6",
       "name": "Marie Osmond",
       "group": "1970s",
       "value": 1,
-      "community": 5
+      "community": 1,
+      "genre": []
     },
     {
       "id": "64b94289-9474-4d43-8c93-918ccc1920d1",
       "name": "Billy Joel",
       "group": "1970s",
       "value": 1,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "classic rock",
+        "piano rock",
+        "pop",
+        "pop rock",
+        "rock",
+        "singer-songwriter",
+        "soft rock"
+      ]
     },
     {
       "id": "7adaabfb-acfb-47bc-8c7c-59471c2f0db8",
       "name": "The Human League",
       "group": "1970s",
       "value": 12,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "electronic",
+        "minimal synth",
+        "new romantic",
+        "new wave",
+        "pop",
+        "synth-pop"
+      ]
     },
     {
       "id": "0053dbd9-bfbc-4e38-9f08-66a27d914c38",
       "name": "Bad Company",
       "group": "1970s",
       "value": 1,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "aor",
+        "blues rock",
+        "classic rock",
+        "hard rock",
+        "rock"
+      ]
     },
     {
       "id": "588dea29-eea3-456b-a815-3ee04f75c8e7",
       "name": "The Doobie Brothers",
       "group": "1970s",
       "value": 14,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "aor",
+        "blue-eyed soul",
+        "boogie rock",
+        "classic rock",
+        "folk rock",
+        "pop rock",
+        "rock",
+        "soft rock",
+        "yacht rock"
+      ]
     },
     {
       "id": "f46bd570-5768-462e-b84c-c7c993bbf47e",
       "name": "Eagles",
       "group": "1970s",
       "value": 7,
-      "community": 4
+      "community": 0,
+      "genre": [
+        "classic rock",
+        "country rock",
+        "folk rock",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ]
     },
     {
       "id": "0f0da09c-3940-4cb5-879f-4cea28907810",
       "name": "Bonnie Raitt",
       "group": "1970s",
       "value": 15,
-      "community": 5
+      "community": 4,
+      "genre": [
+        "blue-eyed soul",
+        "blues rock",
+        "folk",
+        "pop rock",
+        "rock",
+        "singer-songwriter",
+        "soft rock"
+      ]
     },
     {
       "id": "da5ff827-174b-48d1-9a39-9fa290bb2925",
       "name": "Wild Cherry",
       "group": "1970s",
       "value": 13,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "disco",
+        "funk",
+        "soul"
+      ]
     },
     {
       "id": "46bdb0fa-6db1-44ea-b7b1-57de05b2cba1",
       "name": "The Brecker Brothers",
       "group": "1970s",
       "value": 1,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "jazz"
+      ]
     },
     {
       "id": "c60e178f-36f1-4169-9c03-84addbdbf104",
       "name": "Grover Washington, Jr.",
       "group": "1970s",
       "value": 2,
-      "community": 5
+      "community": 2,
+      "genre": [
+        "contemporary jazz",
+        "jazz",
+        "jazz fusion",
+        "jazz-funk",
+        "quiet storm",
+        "smooth jazz",
+        "smooth soul",
+        "soul jazz"
+      ]
     },
     {
       "id": "96b1d906-0fda-406d-beb6-19c6758998df",
       "name": "Robert Palmer",
       "group": "1970s",
       "value": 3,
-      "community": 5
+      "community": 4,
+      "genre": [
+        "blue-eyed soul",
+        "funk rock",
+        "pop",
+        "pop rock",
+        "rock"
+      ]
     },
     {
       "id": "2dd30f18-241e-44b3-8bb3-950380f22dfa",
       "name": "Starland Vocal Band",
       "group": "1970s",
       "value": 1,
-      "community": 0
+      "community": 4,
+      "genre": []
     },
     {
       "id": "f1d174fc-6bd9-41fe-b4c8-972ab578fb5c",
       "name": "Andy Gibb",
       "group": "1970s",
       "value": 2,
-      "community": 5
+      "community": 1,
+      "genre": [
+        "disco",
+        "pop"
+      ]
     },
     {
       "id": "e86492c1-0376-4df0-8042-8ba058c83960",
       "name": "John Prine",
       "group": "1970s",
       "value": 6,
-      "community": 1
+      "community": 1,
+      "genre": [
+        "country",
+        "folk",
+        "singer-songwriter"
+      ]
     },
     {
       "id": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
       "name": "Bill Withers",
       "group": "1970s",
       "value": 1,
-      "community": 3
+      "community": 3,
+      "genre": [
+        "deep soul",
+        "funk",
+        "motown",
+        "pop soul",
+        "smooth soul",
+        "soul"
+      ]
     }
   ],
   "links": [
