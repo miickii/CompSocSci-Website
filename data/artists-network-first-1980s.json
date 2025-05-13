@@ -1,0 +1,950 @@
+{
+  "nodes": [
+    {
+      "id": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+      "name": "Paul Young",
+      "group": "1980s",
+      "value": 6,
+      "community": 0,
+      "genre": [
+        "blue-eyed soul",
+        "pop",
+        "pop rock",
+        "rock",
+        "soft rock",
+        "soul"
+      ]
+    },
+    {
+      "id": "c09c8263-40ef-4352-8031-e438b1ce68fc",
+      "name": "Frankie Goes to Hollywood",
+      "group": "1980s",
+      "value": 2,
+      "community": 0,
+      "genre": [
+        "dance-pop",
+        "hi-nrg",
+        "new wave",
+        "pop",
+        "pop rock"
+      ]
+    },
+    {
+      "id": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "name": "U2",
+      "group": "1980s",
+      "value": 21,
+      "community": 1,
+      "genre": [
+        "alternative dance",
+        "alternative rock",
+        "arena rock",
+        "electronic",
+        "pop rock",
+        "post-punk",
+        "rock"
+      ]
+    },
+    {
+      "id": "fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e",
+      "name": "Julian Lennon",
+      "group": "1980s",
+      "value": 6,
+      "community": 1,
+      "genre": [
+        "rock"
+      ]
+    },
+    {
+      "id": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "name": "James Ingram",
+      "group": "1980s",
+      "value": 9,
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "pop soul",
+        "quiet storm",
+        "soul"
+      ]
+    },
+    {
+      "id": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "name": "Lionel Richie",
+      "group": "1980s",
+      "value": 9,
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "country pop",
+        "disco",
+        "pop",
+        "pop soul",
+        "r&b",
+        "smooth soul",
+        "soft rock",
+        "soul"
+      ]
+    },
+    {
+      "id": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "name": "C\u00e9line Dion",
+      "group": "1980s",
+      "value": 15,
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "pop",
+        "pop soul",
+        "soft rock"
+      ]
+    },
+    {
+      "id": "0e763b87-f3cd-4a63-986f-bebc4189f1f0",
+      "name": "Stray Cats",
+      "group": "1980s",
+      "value": 3,
+      "community": 1,
+      "genre": [
+        "rock",
+        "rockabilly"
+      ]
+    },
+    {
+      "id": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "name": "Sheena Easton",
+      "group": "1980s",
+      "value": 19,
+      "community": 3,
+      "genre": [
+        "ballad",
+        "contemporary r&b",
+        "country",
+        "dance",
+        "pop"
+      ]
+    },
+    {
+      "id": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "name": "Cyndi Lauper",
+      "group": "1980s",
+      "value": 9,
+      "community": 0,
+      "genre": [
+        "blues",
+        "dance-pop",
+        "new wave",
+        "pop",
+        "pop rock",
+        "rock"
+      ]
+    },
+    {
+      "id": "675c1c5e-5625-4a5e-97a2-b02aab5db2fc",
+      "name": "k.d. lang",
+      "group": "1980s",
+      "value": 2,
+      "community": 1,
+      "genre": [
+        "country",
+        "folk"
+      ]
+    },
+    {
+      "id": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "name": "Bobby McFerrin",
+      "group": "1980s",
+      "value": 14,
+      "community": 1,
+      "genre": [
+        "classical",
+        "jazz",
+        "smooth jazz"
+      ]
+    },
+    {
+      "id": "32673e42-5ba2-4528-b3fe-a000a0c606e3",
+      "name": "Corey Hart",
+      "group": "1980s",
+      "value": 1,
+      "community": 3,
+      "genre": [
+        "new wave",
+        "pop",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "0307edfc-437c-4b48-8700-80680e66a228",
+      "name": "Whitney Houston",
+      "group": "1980s",
+      "value": 14,
+      "community": 0,
+      "genre": [
+        "contemporary r&b",
+        "dance-pop",
+        "easy listening",
+        "pop",
+        "pop soul",
+        "quiet storm",
+        "r&b",
+        "soul",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "name": "R.E.M.",
+      "group": "1980s",
+      "value": 4,
+      "community": 1,
+      "genre": [
+        "acoustic rock",
+        "alternative country",
+        "alternative rock",
+        "chamber pop",
+        "electronic rock",
+        "folk rock",
+        "glam rock",
+        "grunge",
+        "jangle pop",
+        "neo-psychedelia",
+        "pop rock",
+        "power pop",
+        "rock"
+      ]
+    },
+    {
+      "id": "1c46e82f-4764-4d82-a33b-5d5aee5e2881",
+      "name": "Fergie",
+      "group": "1980s",
+      "value": 3,
+      "community": 3,
+      "genre": [
+        "contemporary r&b",
+        "dance-pop",
+        "electro house",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "r&b",
+        "trap"
+      ]
+    },
+    {
+      "id": "16da4997-78e1-4837-85f6-9247d10cde1f",
+      "name": "Tone\u2010L\u014dc",
+      "group": "1980s",
+      "value": 1,
+      "community": 3,
+      "genre": [
+        "hip hop",
+        "pop rap",
+        "west coast hip hop"
+      ]
+    },
+    {
+      "id": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "name": "Amy Holland",
+      "group": "1980s",
+      "value": 16,
+      "community": 3,
+      "genre": []
+    },
+    {
+      "id": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+      "name": "Suzanne Vega",
+      "group": "1980s",
+      "value": 4,
+      "community": 0,
+      "genre": [
+        "alternative folk",
+        "alternative rock",
+        "art pop",
+        "chamber pop",
+        "contemporary folk",
+        "downtempo",
+        "folk",
+        "folk pop",
+        "folk rock",
+        "indie rock",
+        "pop",
+        "pop rock",
+        "singer-songwriter"
+      ]
+    },
+    {
+      "id": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "name": "Phil Collins",
+      "group": "1980s",
+      "value": 20,
+      "community": 3,
+      "genre": [
+        "aor",
+        "art pop",
+        "easy listening",
+        "pop",
+        "pop rock",
+        "pop soul",
+        "progressive pop",
+        "progressive rock",
+        "rock",
+        "soft rock",
+        "sophisti-pop",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "name": "The Judds",
+      "group": "1980s",
+      "value": 11,
+      "community": 1,
+      "genre": [
+        "country"
+      ]
+    },
+    {
+      "id": "8f695099-c714-4ad0-8888-36eca37fee84",
+      "name": "Asia",
+      "group": "1980s",
+      "value": 2,
+      "community": 3,
+      "genre": [
+        "hard rock",
+        "progressive rock",
+        "rock"
+      ]
+    },
+    {
+      "id": "d3d83a98-4a2e-433c-903c-5b4c79ccb42e",
+      "name": "Milli Vanilli",
+      "group": "1980s",
+      "value": 5,
+      "community": 0,
+      "genre": [
+        "dance-pop",
+        "pop",
+        "r&b"
+      ]
+    },
+    {
+      "id": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
+      "name": "Mike + the Mechanics",
+      "group": "1980s",
+      "value": 4,
+      "community": 3,
+      "genre": [
+        "aor",
+        "new wave",
+        "pop rock",
+        "rock",
+        "soft rock"
+      ]
+    },
+    {
+      "id": "df19b09e-a53f-4d7f-b364-5ae4b05e6c4a",
+      "name": "Breakfast Club",
+      "group": "1980s",
+      "value": 6,
+      "community": 1,
+      "genre": [
+        "dance-rock",
+        "new wave"
+      ]
+    },
+    {
+      "id": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "name": "Sting",
+      "group": "1980s",
+      "value": 8,
+      "community": 1,
+      "genre": [
+        "dance-rock",
+        "jazz",
+        "jazz pop",
+        "new wave",
+        "pop",
+        "pop rock",
+        "reggae-pop",
+        "rock",
+        "singer-songwriter",
+        "soft rock",
+        "sophisti-pop"
+      ]
+    },
+    {
+      "id": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "name": "Simply Red",
+      "group": "1980s",
+      "value": 7,
+      "community": 3,
+      "genre": [
+        "blue-eyed soul",
+        "dance-pop",
+        "pop",
+        "pop soul",
+        "r&b",
+        "soft rock",
+        "sophisti-pop",
+        "soul"
+      ]
+    },
+    {
+      "id": "699e687d-9e77-4fd0-9b7a-54d2aaadf05b",
+      "name": "Jody Watley",
+      "group": "1980s",
+      "value": 2,
+      "community": 0,
+      "genre": [
+        "contemporary r&b",
+        "dance",
+        "dance-pop",
+        "hip hop",
+        "house",
+        "new jack swing",
+        "pop",
+        "soul"
+      ]
+    },
+    {
+      "id": "02349767-d5ac-4528-892d-17b6d40107a1",
+      "name": "Anita Baker",
+      "group": "1980s",
+      "value": 5,
+      "community": 0,
+      "genre": [
+        "contemporary r&b",
+        "electronic",
+        "funk",
+        "jazz",
+        "quiet storm",
+        "smooth jazz",
+        "soul",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "e1235abf-1fab-40a5-833a-057968d90e48",
+      "name": "Regina Belle",
+      "group": "1980s",
+      "value": 4,
+      "community": 0,
+      "genre": [
+        "contemporary r&b",
+        "quiet storm",
+        "soul"
+      ]
+    },
+    {
+      "id": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
+      "name": "Lisa Stansfield",
+      "group": "1980s",
+      "value": 10,
+      "community": 3,
+      "genre": [
+        "blue-eyed soul",
+        "contemporary r&b",
+        "dance-pop",
+        "pop",
+        "pop soul",
+        "soul"
+      ]
+    },
+    {
+      "id": "70047e57-0153-4117-b0fc-a1d2e322e5ef",
+      "name": "Donald Fagen",
+      "group": "1980s",
+      "value": 1,
+      "community": 1,
+      "genre": [
+        "jazz",
+        "jazz pop",
+        "pop rock",
+        "rock"
+      ]
+    },
+    {
+      "id": "c78a77fa-507c-4c07-947a-0355029453bd",
+      "name": "Sin\u00e9ad O\u2019Connor",
+      "group": "1980s",
+      "value": 5,
+      "community": 1,
+      "genre": [
+        "alternative rock",
+        "celtic rock",
+        "folk",
+        "pop",
+        "rock",
+        "singer-songwriter",
+        "soft rock"
+      ]
+    },
+    {
+      "id": "b4d32cff-f19e-455f-86c4-f347d824ca61",
+      "name": "Eurythmics",
+      "group": "1980s",
+      "value": 2,
+      "community": 1,
+      "genre": [
+        "art pop",
+        "electronic",
+        "new wave",
+        "pop",
+        "pop rock",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "91f603ca-b126-42a2-9c29-820ca687347c",
+      "name": "Terence Trent D\u2019Arby",
+      "group": "1980s",
+      "value": 2,
+      "community": 1,
+      "genre": [
+        "contemporary r&b",
+        "funk",
+        "pop",
+        "soul"
+      ]
+    },
+    {
+      "id": "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
+      "name": "Don Henley",
+      "group": "1980s",
+      "value": 1,
+      "community": 2,
+      "genre": [
+        "folk",
+        "pop rock",
+        "rock"
+      ]
+    },
+    {
+      "id": "e60dbba7-6f55-429a-bd22-5e9c6a87ae70",
+      "name": "Bruce Hornsby",
+      "group": "1980s",
+      "value": 1,
+      "community": 2,
+      "genre": [
+        "bluegrass",
+        "blues rock",
+        "folk",
+        "gospel",
+        "heartland rock",
+        "jazz",
+        "rock"
+      ]
+    },
+    {
+      "id": "fcde7037-181e-437f-9417-60a38958c0fa",
+      "name": "Michael Sembello",
+      "group": "1980s",
+      "value": 1,
+      "community": 3,
+      "genre": [
+        "pop",
+        "pop rock",
+        "synth-pop"
+      ]
+    },
+    {
+      "id": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+      "name": "Big Country",
+      "group": "1980s",
+      "value": 1,
+      "community": 1,
+      "genre": [
+        "alternative rock",
+        "celtic rock",
+        "new romantic",
+        "new wave",
+        "pop rock",
+        "post-punk",
+        "rock"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+      "target": "c09c8263-40ef-4352-8031-e438b1ce68fc",
+      "value": 2
+    },
+    {
+      "source": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+      "target": "02349767-d5ac-4528-892d-17b6d40107a1",
+      "value": 2
+    },
+    {
+      "source": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+      "target": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "value": 1
+    },
+    {
+      "source": "967002b0-58ef-4b22-a58c-fbc631ff695c",
+      "target": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "value": 1
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e",
+      "value": 3
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "0e763b87-f3cd-4a63-986f-bebc4189f1f0",
+      "value": 2
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "value": 3
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "df19b09e-a53f-4d7f-b364-5ae4b05e6c4a",
+      "value": 2
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "value": 2
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "value": 2
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "c78a77fa-507c-4c07-947a-0355029453bd",
+      "value": 2
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "b4d32cff-f19e-455f-86c4-f347d824ca61",
+      "value": 1
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "value": 1
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "value": 1
+    },
+    {
+      "source": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 1
+    },
+    {
+      "source": "fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e",
+      "target": "0e763b87-f3cd-4a63-986f-bebc4189f1f0",
+      "value": 1
+    },
+    {
+      "source": "fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e",
+      "target": "91f603ca-b126-42a2-9c29-820ca687347c",
+      "value": 2
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "value": 2
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "value": 1
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "699e687d-9e77-4fd0-9b7a-54d2aaadf05b",
+      "value": 1
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 2
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "02349767-d5ac-4528-892d-17b6d40107a1",
+      "value": 1
+    },
+    {
+      "source": "1c9d555e-d20a-46d9-93a3-bf7e0d263ece",
+      "target": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "value": 2
+    },
+    {
+      "source": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "target": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "value": 2
+    },
+    {
+      "source": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "target": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "value": 2
+    },
+    {
+      "source": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "target": "0307edfc-437c-4b48-8700-80680e66a228",
+      "value": 2
+    },
+    {
+      "source": "3cb25fb2-5547-4b05-adec-1a5e37830d46",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "32673e42-5ba2-4528-b3fe-a000a0c606e3",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "0307edfc-437c-4b48-8700-80680e66a228",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "1c46e82f-4764-4d82-a33b-5d5aee5e2881",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 2
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "8f695099-c714-4ad0-8888-36eca37fee84",
+      "value": 1
+    },
+    {
+      "source": "847e8a0c-cc20-4213-9e16-975515c2a926",
+      "target": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "value": 4
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "value": 1
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "0307edfc-437c-4b48-8700-80680e66a228",
+      "value": 2
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "value": 2
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 3
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "value": 4
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
+      "value": 3
+    },
+    {
+      "source": "7b004920-b04e-4ff2-b2e5-55d8f1cc0522",
+      "target": "fcde7037-181e-437f-9417-60a38958c0fa",
+      "value": 1
+    },
+    {
+      "source": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "target": "cf119120-7df5-47d7-9dec-49f8837a4e40",
+      "value": 4
+    },
+    {
+      "source": "7bd9e20e-74b9-446a-a2ed-a223f82a36e7",
+      "target": "0307edfc-437c-4b48-8700-80680e66a228",
+      "value": 2
+    },
+    {
+      "source": "675c1c5e-5625-4a5e-97a2-b02aab5db2fc",
+      "target": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "value": 1
+    },
+    {
+      "source": "675c1c5e-5625-4a5e-97a2-b02aab5db2fc",
+      "target": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "value": 1
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "df19b09e-a53f-4d7f-b364-5ae4b05e6c4a",
+      "value": 2
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "value": 3
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "70047e57-0153-4117-b0fc-a1d2e322e5ef",
+      "value": 1
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "value": 1
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "c78a77fa-507c-4c07-947a-0355029453bd",
+      "value": 1
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "02349767-d5ac-4528-892d-17b6d40107a1",
+      "value": 1
+    },
+    {
+      "source": "a996b5bd-db99-4257-b036-336f63448aa2",
+      "target": "b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378",
+      "value": 1
+    },
+    {
+      "source": "0307edfc-437c-4b48-8700-80680e66a228",
+      "target": "d3d83a98-4a2e-433c-903c-5b4c79ccb42e",
+      "value": 4
+    },
+    {
+      "source": "0307edfc-437c-4b48-8700-80680e66a228",
+      "target": "e1235abf-1fab-40a5-833a-057968d90e48",
+      "value": 2
+    },
+    {
+      "source": "0307edfc-437c-4b48-8700-80680e66a228",
+      "target": "699e687d-9e77-4fd0-9b7a-54d2aaadf05b",
+      "value": 1
+    },
+    {
+      "source": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "target": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "value": 1
+    },
+    {
+      "source": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "target": "b4d32cff-f19e-455f-86c4-f347d824ca61",
+      "value": 1
+    },
+    {
+      "source": "1c46e82f-4764-4d82-a33b-5d5aee5e2881",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 1
+    },
+    {
+      "source": "1c46e82f-4764-4d82-a33b-5d5aee5e2881",
+      "target": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
+      "value": 1
+    },
+    {
+      "source": "16da4997-78e1-4837-85f6-9247d10cde1f",
+      "target": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "value": 1
+    },
+    {
+      "source": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "target": "8f695099-c714-4ad0-8888-36eca37fee84",
+      "value": 1
+    },
+    {
+      "source": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "target": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "value": 3
+    },
+    {
+      "source": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "target": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
+      "value": 3
+    },
+    {
+      "source": "8439a325-3bdf-4c47-a7af-55dfc7c42c11",
+      "target": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "value": 1
+    },
+    {
+      "source": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "target": "a04e09c8-733c-4430-9e22-99ef9dd5e2d7",
+      "value": 3
+    },
+    {
+      "source": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "target": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
+      "value": 3
+    },
+    {
+      "source": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "target": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "value": 1
+    },
+    {
+      "source": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "target": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "value": 2
+    },
+    {
+      "source": "ae2d4af4-6b37-42f9-80d3-052ee958515b",
+      "target": "c78a77fa-507c-4c07-947a-0355029453bd",
+      "value": 1
+    },
+    {
+      "source": "d3d83a98-4a2e-433c-903c-5b4c79ccb42e",
+      "target": "e1235abf-1fab-40a5-833a-057968d90e48",
+      "value": 1
+    },
+    {
+      "source": "df19b09e-a53f-4d7f-b364-5ae4b05e6c4a",
+      "target": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "value": 2
+    },
+    {
+      "source": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "target": "c78a77fa-507c-4c07-947a-0355029453bd",
+      "value": 1
+    },
+    {
+      "source": "a9100753-f539-43cf-bcc9-579566fb512e",
+      "target": "8f632c44-c97f-4b12-b1cd-caf2c6e2ed06",
+      "value": 1
+    },
+    {
+      "source": "02349767-d5ac-4528-892d-17b6d40107a1",
+      "target": "e1235abf-1fab-40a5-833a-057968d90e48",
+      "value": 1
+    },
+    {
+      "source": "b2c2d4fe-8c1e-44ec-8be6-ff500e105a90",
+      "target": "e60dbba7-6f55-429a-bd22-5e9c6a87ae70",
+      "value": 1
+    }
+  ]
+}

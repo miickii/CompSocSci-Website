@@ -1,0 +1,87 @@
+{
+  "nodes": [
+    {
+      "id": "3376b487-95b4-42e6-b7f4-71cffffcad97",
+      "name": "The Partridge Family",
+      "group": "1970s",
+      "value": 6,
+      "community": 0,
+      "genre": []
+    },
+    {
+      "id": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
+      "name": "Lynn Anderson",
+      "group": "1970s",
+      "value": 33,
+      "community": 1,
+      "genre": [
+        "country",
+        "country pop",
+        "nashville sound"
+      ]
+    },
+    {
+      "id": "df9ed132-5b6a-4e7d-a468-033cffc21947",
+      "name": "Shaun Cassidy",
+      "group": "1970s",
+      "value": 9,
+      "community": 0,
+      "genre": []
+    },
+    {
+      "id": "aef6e491-3121-4048-b035-4704a9ce0716",
+      "name": "Loggins & Messina",
+      "group": "1970s",
+      "value": 8,
+      "community": 1,
+      "genre": []
+    },
+    {
+      "id": "79251d77-dd72-46d3-a324-61c27760ce25",
+      "name": "Jeannie C. Riley",
+      "group": "1970s",
+      "value": 20,
+      "community": 1,
+      "genre": [
+        "country"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "3376b487-95b4-42e6-b7f4-71cffffcad97",
+      "target": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
+      "value": 4
+    },
+    {
+      "source": "3376b487-95b4-42e6-b7f4-71cffffcad97",
+      "target": "df9ed132-5b6a-4e7d-a468-033cffc21947",
+      "value": 2
+    },
+    {
+      "source": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
+      "target": "df9ed132-5b6a-4e7d-a468-033cffc21947",
+      "value": 5
+    },
+    {
+      "source": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
+      "target": "aef6e491-3121-4048-b035-4704a9ce0716",
+      "value": 7
+    },
+    {
+      "source": "354812d4-2dfb-4611-9a8f-8f8e795e48bf",
+      "target": "79251d77-dd72-46d3-a324-61c27760ce25",
+      "value": 17
+    },
+    {
+      "source": "df9ed132-5b6a-4e7d-a468-033cffc21947",
+      "target": "79251d77-dd72-46d3-a324-61c27760ce25",
+      "value": 2
+    },
+    {
+      "source": "aef6e491-3121-4048-b035-4704a9ce0716",
+      "target": "79251d77-dd72-46d3-a324-61c27760ce25",
+      "value": 1
+    }
+  ]
+}

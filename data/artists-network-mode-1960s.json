@@ -1,0 +1,173 @@
+{
+  "nodes": [
+    {
+      "id": "9510cfa8-6c08-452a-b701-0b02b9d46e0d",
+      "name": "Glenn Yarbrough",
+      "group": "1960s",
+      "value": 3,
+      "community": 0,
+      "genre": []
+    },
+    {
+      "id": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "name": "Joanie Sommers",
+      "group": "1960s",
+      "value": 27,
+      "community": 1,
+      "genre": [
+        "bossa nova",
+        "jazz",
+        "jazz pop",
+        "vocal jazz"
+      ]
+    },
+    {
+      "id": "812e18ca-29c2-472f-a185-b85befd03221",
+      "name": "Jimmy Dean",
+      "group": "1960s",
+      "value": 10,
+      "community": 0,
+      "genre": []
+    },
+    {
+      "id": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "name": "Bobby Goldsboro",
+      "group": "1960s",
+      "value": 12,
+      "community": 0,
+      "genre": [
+        "christmas music",
+        "country pop",
+        "pop"
+      ]
+    },
+    {
+      "id": "bc4ca610-333b-424b-8c3c-c724e6327b62",
+      "name": "Peter Nero",
+      "group": "1960s",
+      "value": 15,
+      "community": 1,
+      "genre": [
+        "easy listening"
+      ]
+    },
+    {
+      "id": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "name": "Morgana King",
+      "group": "1960s",
+      "value": 11,
+      "community": 1,
+      "genre": [
+        "jazz"
+      ]
+    },
+    {
+      "id": "b411483b-e9cc-4b4f-9661-0452333c615a",
+      "name": "The New Christy Minstrels",
+      "group": "1960s",
+      "value": 5,
+      "community": 0,
+      "genre": [
+        "contemporary folk"
+      ]
+    },
+    {
+      "id": "4a498643-8439-49b0-97e1-83c632db91e1",
+      "name": "Horst Jankowski",
+      "group": "1960s",
+      "value": 2,
+      "community": 1,
+      "genre": [
+        "easy listening",
+        "jazz"
+      ]
+    },
+    {
+      "id": "c8abe225-1f22-4c1e-a644-4d86c33d43f7",
+      "name": "Allan Sherman",
+      "group": "1960s",
+      "value": 3,
+      "community": 0,
+      "genre": [
+        "comedy"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "9510cfa8-6c08-452a-b701-0b02b9d46e0d",
+      "target": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "value": 1
+    },
+    {
+      "source": "9510cfa8-6c08-452a-b701-0b02b9d46e0d",
+      "target": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "value": 2
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "812e18ca-29c2-472f-a185-b85befd03221",
+      "value": 4
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "bc4ca610-333b-424b-8c3c-c724e6327b62",
+      "value": 10
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 8
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "value": 1
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "4a498643-8439-49b0-97e1-83c632db91e1",
+      "value": 2
+    },
+    {
+      "source": "e7495426-6e14-4429-b647-dbe700ad57d4",
+      "target": "c8abe225-1f22-4c1e-a644-4d86c33d43f7",
+      "value": 1
+    },
+    {
+      "source": "812e18ca-29c2-472f-a185-b85befd03221",
+      "target": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "value": 4
+    },
+    {
+      "source": "812e18ca-29c2-472f-a185-b85befd03221",
+      "target": "b411483b-e9cc-4b4f-9661-0452333c615a",
+      "value": 2
+    },
+    {
+      "source": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "target": "bc4ca610-333b-424b-8c3c-c724e6327b62",
+      "value": 2
+    },
+    {
+      "source": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "target": "b411483b-e9cc-4b4f-9661-0452333c615a",
+      "value": 2
+    },
+    {
+      "source": "a85c70af-90e4-4a7c-83b1-e1bd567d7d2f",
+      "target": "c8abe225-1f22-4c1e-a644-4d86c33d43f7",
+      "value": 1
+    },
+    {
+      "source": "bc4ca610-333b-424b-8c3c-c724e6327b62",
+      "target": "b601ade5-7980-47d9-bcab-6a099b258a95",
+      "value": 3
+    },
+    {
+      "source": "b411483b-e9cc-4b4f-9661-0452333c615a",
+      "target": "c8abe225-1f22-4c1e-a644-4d86c33d43f7",
+      "value": 1
+    }
+  ]
+}
