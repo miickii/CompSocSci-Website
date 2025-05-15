@@ -5,7 +5,7 @@
       "name": "Glen Campbell",
       "group": "1990s",
       "value": 140,
-      "community": 1,
+      "community": 0,
       "genre": [
         "baroque pop",
         "christmas music",
@@ -20,7 +20,7 @@
       "name": "Neil Diamond",
       "group": "1990s",
       "value": 383,
-      "community": 1,
+      "community": 0,
       "genre": [
         "baroque pop",
         "pop",
@@ -35,7 +35,7 @@
       "name": "C\u00e9line Dion",
       "group": "1990s",
       "value": 236,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "pop",
@@ -48,7 +48,7 @@
       "name": "Tina Turner",
       "group": "1990s",
       "value": 207,
-      "community": 0,
+      "community": 1,
       "genre": [
         "pop",
         "pop rock",
@@ -62,7 +62,7 @@
       "name": "Kenny Rogers",
       "group": "1990s",
       "value": 437,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country",
         "pop"
@@ -73,7 +73,7 @@
       "name": "Trisha Yearwood",
       "group": "1990s",
       "value": 198,
-      "community": 1,
+      "community": 0,
       "genre": [
         "christmas music",
         "contemporary country",
@@ -86,7 +86,7 @@
       "name": "Ann\u2010Margret",
       "group": "1990s",
       "value": 110,
-      "community": 1,
+      "community": 0,
       "genre": [
         "pop"
       ]
@@ -96,7 +96,7 @@
       "name": "Roger Miller",
       "group": "1990s",
       "value": 60,
-      "community": 1,
+      "community": 0,
       "genre": [
         "classic country",
         "country",
@@ -109,7 +109,7 @@
       "name": "Connie Francis",
       "group": "1990s",
       "value": 185,
-      "community": 1,
+      "community": 0,
       "genre": [
         "brill building",
         "pop",
@@ -121,7 +121,7 @@
       "name": "Kim Carnes",
       "group": "1990s",
       "value": 116,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country pop",
         "pop",
@@ -135,7 +135,7 @@
       "name": "Billy Joel",
       "group": "1990s",
       "value": 111,
-      "community": 0,
+      "community": 2,
       "genre": [
         "classic rock",
         "piano rock",
@@ -151,7 +151,7 @@
       "name": "The Judds",
       "group": "1990s",
       "value": 42,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country"
       ]
@@ -161,7 +161,7 @@
       "name": "Gladys Knight",
       "group": "1990s",
       "value": 60,
-      "community": 0,
+      "community": 1,
       "genre": [
         "doo-wop",
         "funk",
@@ -177,7 +177,7 @@
       "name": "Shirley Bassey",
       "group": "1990s",
       "value": 387,
-      "community": 3,
+      "community": 1,
       "genre": [
         "big band",
         "jazz",
@@ -192,7 +192,7 @@
       "name": "Petula Clark",
       "group": "1990s",
       "value": 173,
-      "community": 3,
+      "community": 1,
       "genre": [
         "dance-pop",
         "pop",
@@ -205,7 +205,7 @@
       "name": "Garbage",
       "group": "1990s",
       "value": 6,
-      "community": 0,
+      "community": 1,
       "genre": [
         "alternative dance",
         "alternative rock",
@@ -220,7 +220,7 @@
       "name": "No Doubt",
       "group": "1990s",
       "value": 41,
-      "community": 0,
+      "community": 1,
       "genre": [
         "alternative rock",
         "pop",
@@ -237,7 +237,7 @@
       "name": "Lisa Stansfield",
       "group": "1990s",
       "value": 76,
-      "community": 3,
+      "community": 1,
       "genre": [
         "blue-eyed soul",
         "contemporary r&b",
@@ -252,7 +252,7 @@
       "name": "David Essex",
       "group": "1990s",
       "value": 165,
-      "community": 3,
+      "community": 1,
       "genre": [
         "rock",
         "soft rock"
@@ -263,7 +263,7 @@
       "name": "Regina Belle",
       "group": "1990s",
       "value": 31,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "quiet storm",
@@ -275,7 +275,7 @@
       "name": "Jim Reeves",
       "group": "1990s",
       "value": 232,
-      "community": 1,
+      "community": 0,
       "genre": [
         "christmas music",
         "country",
@@ -289,7 +289,7 @@
       "name": "Elvis Costello",
       "group": "1990s",
       "value": 185,
-      "community": 3,
+      "community": 1,
       "genre": [
         "art rock",
         "new wave",
@@ -306,7 +306,7 @@
       "name": "Charlie Rich",
       "group": "1990s",
       "value": 181,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country",
         "country pop",
@@ -320,7 +320,7 @@
       "name": "Ray Stevens",
       "group": "1990s",
       "value": 22,
-      "community": 1,
+      "community": 0,
       "genre": [
         "comedy",
         "country",
@@ -340,7 +340,7 @@
       "name": "U2",
       "group": "1990s",
       "value": 216,
-      "community": 0,
+      "community": 1,
       "genre": [
         "alternative dance",
         "alternative rock",
@@ -356,7 +356,7 @@
       "name": "Bette Midler",
       "group": "1990s",
       "value": 157,
-      "community": 0,
+      "community": 1,
       "genre": [
         "pop"
       ]
@@ -366,7 +366,7 @@
       "name": "Anne Murray",
       "group": "1990s",
       "value": 384,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country",
         "pop",
@@ -378,7 +378,7 @@
       "name": "R.E.M.",
       "group": "1990s",
       "value": 171,
-      "community": 0,
+      "community": 1,
       "genre": [
         "acoustic rock",
         "alternative country",
@@ -400,7 +400,7 @@
       "name": "Tanya Tucker",
       "group": "1990s",
       "value": 125,
-      "community": 1,
+      "community": 0,
       "genre": [
         "contemporary country",
         "country",
@@ -413,7 +413,7 @@
       "name": "Herman\u2019s Hermits",
       "group": "1990s",
       "value": 68,
-      "community": 3,
+      "community": 1,
       "genre": [
         "pop",
         "rock"
@@ -424,7 +424,7 @@
       "name": "Aerosmith",
       "group": "1990s",
       "value": 135,
-      "community": 0,
+      "community": 1,
       "genre": [
         "aor",
         "arena rock",
@@ -441,7 +441,7 @@
       "name": "Sting",
       "group": "1990s",
       "value": 116,
-      "community": 3,
+      "community": 1,
       "genre": [
         "dance-rock",
         "jazz",
@@ -461,7 +461,7 @@
       "name": "P.M. Dawn",
       "group": "1990s",
       "value": 43,
-      "community": 0,
+      "community": 1,
       "genre": [
         "hip hop"
       ]
@@ -493,7 +493,7 @@
       "name": "Sonny & Cher",
       "group": "1990s",
       "value": 100,
-      "community": 3,
+      "community": 1,
       "genre": [
         "baroque pop",
         "folk pop",
@@ -508,7 +508,7 @@
       "name": "Burl Ives",
       "group": "1990s",
       "value": 114,
-      "community": 1,
+      "community": 0,
       "genre": [
         "christmas music"
       ]
@@ -518,7 +518,7 @@
       "name": "Crystal Gayle",
       "group": "1990s",
       "value": 63,
-      "community": 1,
+      "community": 0,
       "genre": [
         "country pop"
       ]
@@ -528,7 +528,7 @@
       "name": "Roberta Flack",
       "group": "1990s",
       "value": 98,
-      "community": 3,
+      "community": 1,
       "genre": [
         "house",
         "pop",
@@ -544,7 +544,7 @@
       "name": "Take 6",
       "group": "1990s",
       "value": 68,
-      "community": 1,
+      "community": 0,
       "genre": [
         "gospel",
         "jazz",
@@ -578,7 +578,7 @@
       "name": "Captain & Tennille",
       "group": "1990s",
       "value": 70,
-      "community": 0,
+      "community": 2,
       "genre": []
     },
     {
@@ -586,7 +586,7 @@
       "name": "Robbie Dupree",
       "group": "1990s",
       "value": 1,
-      "community": 1,
+      "community": 0,
       "genre": [
         "soft rock"
       ]
@@ -596,7 +596,7 @@
       "name": "C+C Music Factory",
       "group": "1990s",
       "value": 14,
-      "community": 0,
+      "community": 1,
       "genre": [
         "dance-pop",
         "hip house"
@@ -607,7 +607,7 @@
       "name": "Marc Cohn",
       "group": "1990s",
       "value": 10,
-      "community": 1,
+      "community": 0,
       "genre": [
         "soft rock"
       ]
@@ -617,7 +617,7 @@
       "name": "Timi Yuro",
       "group": "1990s",
       "value": 79,
-      "community": 1,
+      "community": 0,
       "genre": [
         "soul"
       ]
@@ -627,7 +627,7 @@
       "name": "Robert Palmer",
       "group": "1990s",
       "value": 76,
-      "community": 3,
+      "community": 1,
       "genre": [
         "blue-eyed soul",
         "funk rock",
@@ -641,7 +641,7 @@
       "name": "Janis Joplin",
       "group": "1990s",
       "value": 118,
-      "community": 3,
+      "community": 1,
       "genre": [
         "acid rock",
         "acoustic blues",
@@ -660,7 +660,7 @@
       "name": "The Blues Brothers Band",
       "group": "1990s",
       "value": 40,
-      "community": 3,
+      "community": 1,
       "genre": []
     },
     {
@@ -668,7 +668,7 @@
       "name": "Lead Belly",
       "group": "1990s",
       "value": 34,
-      "community": 1,
+      "community": 3,
       "genre": [
         "acoustic blues",
         "blues",
@@ -694,7 +694,7 @@
       "name": "Puff Daddy & the Family",
       "group": "1990s",
       "value": 48,
-      "community": 3,
+      "community": 1,
       "genre": [
         "hip hop"
       ]
@@ -704,7 +704,7 @@
       "name": "Crash Test Dummies",
       "group": "1990s",
       "value": 26,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "pop",
@@ -716,7 +716,7 @@
       "name": "KC and the Sunshine Band",
       "group": "1990s",
       "value": 16,
-      "community": 0,
+      "community": 1,
       "genre": [
         "dance-pop",
         "disco",
@@ -756,7 +756,7 @@
       "name": "Steve Lacy",
       "group": "1990s",
       "value": 10,
-      "community": 3,
+      "community": 1,
       "genre": [
         "avant-garde jazz",
         "free improvisation",
@@ -771,7 +771,7 @@
       "name": "The Kentucky Headhunters",
       "group": "1990s",
       "value": 38,
-      "community": 0,
+      "community": 1,
       "genre": [
         "country rock",
         "southern rock"
@@ -782,7 +782,7 @@
       "name": "Neneh Cherry",
       "group": "1990s",
       "value": 27,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -798,7 +798,7 @@
       "name": "SWV",
       "group": "1990s",
       "value": 21,
-      "community": 3,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -810,7 +810,7 @@
       "name": "Dire Straits",
       "group": "1990s",
       "value": 25,
-      "community": 3,
+      "community": 1,
       "genre": [
         "blues rock",
         "classic rock",
@@ -840,7 +840,7 @@
       "name": "Kris Kross",
       "group": "1990s",
       "value": 10,
-      "community": 3,
+      "community": 1,
       "genre": [
         "hip hop"
       ]
@@ -850,7 +850,7 @@
       "name": "Wilson Phillips",
       "group": "1990s",
       "value": 26,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "pop rock",
@@ -862,7 +862,7 @@
       "name": "Boyz II Men",
       "group": "1990s",
       "value": 84,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -879,7 +879,7 @@
       "name": "Color Me Badd",
       "group": "1990s",
       "value": 11,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -891,7 +891,7 @@
       "name": "Jelly Roll Morton",
       "group": "1990s",
       "value": 33,
-      "community": 1,
+      "community": 3,
       "genre": [
         "big band",
         "blues",
@@ -906,7 +906,7 @@
       "name": "Blind Melon",
       "group": "1990s",
       "value": 23,
-      "community": 0,
+      "community": 1,
       "genre": [
         "alternative rock",
         "blues rock",
@@ -934,7 +934,7 @@
       "name": "Jody Watley",
       "group": "1990s",
       "value": 4,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -951,7 +951,7 @@
       "name": "Katrina and the Waves",
       "group": "1990s",
       "value": 11,
-      "community": 1,
+      "community": 0,
       "genre": [
         "new wave",
         "pop rock",
@@ -963,7 +963,7 @@
       "name": "Terence Trent D\u2019Arby",
       "group": "1990s",
       "value": 31,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "funk",
@@ -976,7 +976,7 @@
       "name": "Sophie B. Hawkins",
       "group": "1990s",
       "value": 21,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "rock"
@@ -995,7 +995,7 @@
       "name": "Julian Lennon",
       "group": "1990s",
       "value": 4,
-      "community": 2,
+      "community": 1,
       "genre": [
         "rock"
       ]
@@ -1005,7 +1005,7 @@
       "name": "Green Day",
       "group": "1990s",
       "value": 3,
-      "community": 3,
+      "community": 1,
       "genre": [
         "alternative rock",
         "emo pop",

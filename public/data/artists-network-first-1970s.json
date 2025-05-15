@@ -102,7 +102,7 @@
       "name": "Captain & Tennille",
       "group": "1970s",
       "value": 15,
-      "community": 4,
+      "community": 5,
       "genre": []
     },
     {
@@ -110,7 +110,7 @@
       "name": "Carly Simon",
       "group": "1970s",
       "value": 13,
-      "community": 4,
+      "community": 0,
       "genre": [
         "blues rock",
         "electronic",
@@ -144,7 +144,7 @@
       "name": "Kim Carnes",
       "group": "1970s",
       "value": 14,
-      "community": 1,
+      "community": 5,
       "genre": [
         "country pop",
         "pop",
@@ -158,7 +158,7 @@
       "name": "Barry Manilow",
       "group": "1970s",
       "value": 21,
-      "community": 4,
+      "community": 5,
       "genre": [
         "easy listening",
         "jazz",
@@ -211,7 +211,7 @@
       "name": "Maureen McGovern",
       "group": "1970s",
       "value": 28,
-      "community": 2,
+      "community": 5,
       "genre": [
         "pop"
       ]
@@ -262,7 +262,7 @@
       "name": "Stephen Bishop",
       "group": "1970s",
       "value": 3,
-      "community": 2,
+      "community": 5,
       "genre": [
         "rock"
       ]
@@ -319,7 +319,7 @@
       "name": "Johnny Bristol",
       "group": "1970s",
       "value": 2,
-      "community": 1,
+      "community": 2,
       "genre": [
         "soul"
       ]
@@ -387,7 +387,7 @@
       "name": "Loggins & Messina",
       "group": "1970s",
       "value": 5,
-      "community": 4,
+      "community": 5,
       "genre": []
     },
     {
@@ -395,7 +395,7 @@
       "name": "Marie Osmond",
       "group": "1970s",
       "value": 1,
-      "community": 1,
+      "community": 5,
       "genre": []
     },
     {
@@ -482,7 +482,7 @@
       "name": "Bonnie Raitt",
       "group": "1970s",
       "value": 15,
-      "community": 4,
+      "community": 5,
       "genre": [
         "blue-eyed soul",
         "blues rock",
@@ -520,7 +520,7 @@
       "name": "Grover Washington, Jr.",
       "group": "1970s",
       "value": 2,
-      "community": 2,
+      "community": 5,
       "genre": [
         "contemporary jazz",
         "jazz",
@@ -537,7 +537,7 @@
       "name": "Robert Palmer",
       "group": "1970s",
       "value": 3,
-      "community": 4,
+      "community": 5,
       "genre": [
         "blue-eyed soul",
         "funk rock",
@@ -559,7 +559,7 @@
       "name": "Andy Gibb",
       "group": "1970s",
       "value": 2,
-      "community": 1,
+      "community": 5,
       "genre": [
         "disco",
         "pop"

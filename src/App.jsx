@@ -6,6 +6,7 @@ import NetworkExplorer from './pages/NetworkExplorer';
 import NotebookViewer from './pages/NotebookViewer';
 import DatasetsPage from './pages/DatasetsPage';
 import About from './pages/About';
+import TextAnalysis from './pages/TextAnalysis';
 import './App.css';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/explorer" element={<NetworkExplorer />} />
+            <Route path="/text-analysis" element={<TextAnalysis />} />
             <Route path="/notebook" element={<NotebookViewer />} />
             <Route path="/datasets" element={<DatasetsPage />} />
             <Route path="/about" element={<About />} />

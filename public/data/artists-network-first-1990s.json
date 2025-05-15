@@ -58,7 +58,7 @@
       "name": "Mariah Carey",
       "group": "1990s",
       "value": 116,
-      "community": 2,
+      "community": 1,
       "genre": [
         "christmas music",
         "contemporary r&b",
@@ -77,7 +77,7 @@
       "name": "TLC",
       "group": "1990s",
       "value": 35,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "crunk",
@@ -91,7 +91,7 @@
       "name": "Destiny\u2019s Child",
       "group": "1990s",
       "value": 16,
-      "community": 2,
+      "community": 1,
       "genre": [
         "christmas music",
         "contemporary r&b",
@@ -118,7 +118,7 @@
       "name": "Andrea Bocelli",
       "group": "1990s",
       "value": 24,
-      "community": 3,
+      "community": 4,
       "genre": [
         "classical",
         "classical crossover",
@@ -130,7 +130,7 @@
       "name": "Wilson Phillips",
       "group": "1990s",
       "value": 21,
-      "community": 2,
+      "community": 1,
       "genre": [
         "pop",
         "pop rock",
@@ -157,7 +157,7 @@
       "name": "Erykah Badu",
       "group": "1990s",
       "value": 14,
-      "community": 4,
+      "community": 3,
       "genre": [
         "acid jazz",
         "contemporary r&b",
@@ -173,7 +173,7 @@
       "name": "Mary J. Blige",
       "group": "1990s",
       "value": 84,
-      "community": 4,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -189,7 +189,7 @@
       "name": "Sheryl Crow",
       "group": "1990s",
       "value": 23,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative rock",
         "americana",
@@ -234,7 +234,7 @@
       "name": "JAY\u2010Z",
       "group": "1990s",
       "value": 68,
-      "community": 4,
+      "community": 3,
       "genre": [
         "boom bap",
         "chipmunk soul",
@@ -250,7 +250,7 @@
       "name": "Sisq\u00f3",
       "group": "1990s",
       "value": 16,
-      "community": 4,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "hip hop",
@@ -263,7 +263,7 @@
       "name": "50 Cent",
       "group": "1990s",
       "value": 10,
-      "community": 4,
+      "community": 3,
       "genre": [
         "east coast hip hop",
         "gangsta rap",
@@ -277,7 +277,7 @@
       "name": "Lauryn Hill",
       "group": "1990s",
       "value": 4,
-      "community": 4,
+      "community": 3,
       "genre": [
         "alternative hip hop",
         "contemporary r&b",
@@ -290,7 +290,7 @@
       "name": "Hanson",
       "group": "1990s",
       "value": 29,
-      "community": 2,
+      "community": 1,
       "genre": [
         "pop",
         "pop rock",
@@ -327,7 +327,7 @@
       "name": "R. Kelly",
       "group": "1990s",
       "value": 24,
-      "community": 4,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "gospel",
@@ -347,7 +347,7 @@
       "name": "Boyz II Men",
       "group": "1990s",
       "value": 73,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -377,7 +377,7 @@
       "name": "SWV",
       "group": "1990s",
       "value": 7,
-      "community": 4,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -400,7 +400,7 @@
       "name": "The Blues Brothers Band",
       "group": "1990s",
       "value": 10,
-      "community": 2,
+      "community": 1,
       "genre": []
     },
     {
@@ -408,7 +408,7 @@
       "name": "Puff Daddy & the Family",
       "group": "1990s",
       "value": 50,
-      "community": 4,
+      "community": 3,
       "genre": [
         "hip hop"
       ]
@@ -436,7 +436,7 @@
       "name": "Jill Scott",
       "group": "1990s",
       "value": 4,
-      "community": 4,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -449,7 +449,7 @@
       "name": "Lil Wayne",
       "group": "1990s",
       "value": 2,
-      "community": 4,
+      "community": 3,
       "genre": [
         "gangsta rap",
         "hip hop",
@@ -467,7 +467,7 @@
       "name": "Color Me Badd",
       "group": "1990s",
       "value": 12,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "new jack swing",
@@ -479,7 +479,7 @@
       "name": "Hootie & the Blowfish",
       "group": "1990s",
       "value": 26,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative rock",
         "americana",
@@ -491,7 +491,7 @@
       "name": "The Black Crowes",
       "group": "1990s",
       "value": 18,
-      "community": 3,
+      "community": 4,
       "genre": [
         "blues rock",
         "boogie rock",
@@ -506,7 +506,7 @@
       "name": "Blind Melon",
       "group": "1990s",
       "value": 11,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative rock",
         "blues rock",
@@ -523,7 +523,7 @@
       "name": "Joan Osborne",
       "group": "1990s",
       "value": 19,
-      "community": 3,
+      "community": 4,
       "genre": [
         "blues rock",
         "country rock",
@@ -537,7 +537,7 @@
       "name": "Eminem",
       "group": "1990s",
       "value": 3,
-      "community": 4,
+      "community": 3,
       "genre": [
         "boom bap",
         "conscious hip hop",
@@ -553,7 +553,7 @@
       "name": "Train",
       "group": "1990s",
       "value": 4,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative rock",
         "piano rock",
@@ -567,7 +567,7 @@
       "name": "Kris Kross",
       "group": "1990s",
       "value": 21,
-      "community": 2,
+      "community": 1,
       "genre": [
         "hip hop"
       ]
@@ -577,7 +577,7 @@
       "name": "Sophie B. Hawkins",
       "group": "1990s",
       "value": 12,
-      "community": 3,
+      "community": 4,
       "genre": [
         "pop",
         "rock"
@@ -588,7 +588,7 @@
       "name": "Fountains of Wayne",
       "group": "1990s",
       "value": 2,
-      "community": 1,
+      "community": 2,
       "genre": [
         "indie rock"
       ]
@@ -598,7 +598,7 @@
       "name": "Backstreet Boys",
       "group": "1990s",
       "value": 5,
-      "community": 1,
+      "community": 2,
       "genre": [
         "dance-pop",
         "electropop",
@@ -612,7 +612,7 @@
       "name": "Britney Spears",
       "group": "1990s",
       "value": 3,
-      "community": 1,
+      "community": 2,
       "genre": [
         "dance-pop",
         "electro house",
@@ -626,7 +626,7 @@
       "name": "Macy Gray",
       "group": "1990s",
       "value": 6,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -661,7 +661,7 @@
       "name": "Counting Crows",
       "group": "1990s",
       "value": 1,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative rock",
         "americana",
@@ -701,7 +701,7 @@
       "name": "C+C Music Factory",
       "group": "1990s",
       "value": 3,
-      "community": 2,
+      "community": 1,
       "genre": [
         "dance-pop",
         "hip house"
@@ -712,7 +712,7 @@
       "name": "Kid Rock",
       "group": "1990s",
       "value": 4,
-      "community": 2,
+      "community": 1,
       "genre": [
         "country",
         "country rock",
@@ -741,7 +741,7 @@
       "name": "Alicia Keys",
       "group": "1990s",
       "value": 3,
-      "community": 3,
+      "community": 4,
       "genre": [
         "contemporary r&b",
         "jazz",
@@ -756,7 +756,7 @@
       "name": "Garbage",
       "group": "1990s",
       "value": 1,
-      "community": 3,
+      "community": 4,
       "genre": [
         "alternative dance",
         "alternative rock",
@@ -771,7 +771,7 @@
       "name": "Paula Cole",
       "group": "1990s",
       "value": 2,
-      "community": 3,
+      "community": 4,
       "genre": [
         "art pop",
         "pop",
@@ -783,7 +783,7 @@
       "name": "Natalie Imbruglia",
       "group": "1990s",
       "value": 2,
-      "community": 3,
+      "community": 4,
       "genre": [
         "downtempo",
         "electropop",
@@ -796,7 +796,7 @@
       "name": "Heather Headley",
       "group": "1990s",
       "value": 4,
-      "community": 3,
+      "community": 4,
       "genre": [
         "contemporary r&b",
         "neo soul",

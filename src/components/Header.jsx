@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Trophy, Network, Info, BookOpen, Database } from 'lucide-react';
+import { Trophy, Network, Info, BookOpen, Database, Sparkles } from 'lucide-react';
 
 function Header() {
   return (
@@ -23,6 +23,13 @@ function Header() {
             >
               <Network className="w-4 h-4" />
               <span>Explore Networks</span>
+            </Link>
+            <Link 
+              to="/text-analysis" 
+              className="flex items-center space-x-1 hover:text-grammy-gold transition"
+            >
+              <Sparkles className="w-4 h-4" />
+              <span>Text Analysis</span>
             </Link>
             <Link 
               to="/notebook" 
