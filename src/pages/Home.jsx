@@ -76,11 +76,11 @@ function Home() {
         <h2 className="text-3xl font-bold mb-12 text-center">Quick Insights</h2>
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold text-grammy-gold mb-2">50+</div>
+            <div className="text-4xl font-bold text-grammy-gold mb-2">65+</div>
             <p className="text-gray-300">Years of Grammy History</p>
           </div>
           <div>
-            <div className="text-4xl font-bold text-grammy-gold mb-2">1000+</div>
+            <div className="text-4xl font-bold text-grammy-gold mb-2">547</div>
             <p className="text-gray-300">Artists Analyzed</p>
           </div>
           <div>

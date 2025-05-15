@@ -136,6 +136,24 @@ export default function TextAnalysis() {
               className="mx-auto rounded-lg max-h-[400px] object-contain"
             />
 
+            <div className="flex justify-center space-x-6 mb-6">
+                <div className="text-center">
+                    <div className="text-3xl font-bold text-grammy-gold">
+                    {fullData.nodes.filter(n=>n.community===selectedCommunity).length}
+                    </div>
+                    <div className="text-gray-300">Artists</div>
+                </div>
+                <div className="text-center">
+                    <div className="text-3xl font-bold text-grammy-gold">
+                    {fullData.links.filter(l =>
+                        fullData.nodes.find(n=>n.id===l.source).community===selectedCommunity &&
+                        fullData.nodes.find(n=>n.id===l.target).community===selectedCommunity
+                    ).length}
+                    </div>
+                    <div className="text-gray-300">Connections</div>
+                </div>
+            </div>
+
             {/* LIST OF ARTISTS/WRITERS */}
             <div className="max-w-3xl mx-auto text-left">
               <h3 className="text-lg font-semibold mb-2 text-grammy-gold">
