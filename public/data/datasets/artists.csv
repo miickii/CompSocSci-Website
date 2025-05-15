@@ -1,0 +1,568 @@
+year,artist,link,wiki_path,type,Year,Artist,Wikipedia URL,mbid
+2020.0,Billie Eilish,https://en.wikipedia.org/wiki/Billie_Eilish,,,,,,f4abc0b5-3f7a-4eff-8f78-ac078dbce533
+1960.0,André Previn,https://en.wikipedia.org/wiki/Andr%C3%A9_Previn,,,,,,06538137-47eb-4dd6-bb78-5c8afa1a1885
+1960.0,Frank Sinatra,https://en.wikipedia.org/wiki/Frank_Sinatra,,,,,,197450cd-0124-4164-b723-3c22dd16494d
+1960.0,Johnny Horton,https://en.wikipedia.org/wiki/Johnny_Horton,,,,,,8736f41f-365e-42c7-a733-36c22e74c97e
+1960.0,Johnny Mathis,https://en.wikipedia.org/wiki/Johnny_Mathis,,,,,,48896dee-a985-424d-9849-84802f7e79c9
+1960.0,Perry Como,https://en.wikipedia.org/wiki/Perry_Como,,,,,,0182474b-8a1d-46d0-9d0f-e6df353335ea
+1961.0,Andy Williams,https://en.wikipedia.org/wiki/Andy_Williams,,,,,,57cb4257-9855-4a42-b1be-bfba1d9b520d
+1961.0,Jim Reeves,https://en.wikipedia.org/wiki/Jim_Reeves,,,,,,2c05faf7-5cc8-4476-9daa-d177ad75cd34
+1961.0,Percy Faith,https://en.wikipedia.org/wiki/Percy_Faith,,,,,,291dcfb8-b31c-496a-905b-9955509d75b6
+1962.0,Burl Ives,https://en.wikipedia.org/wiki/Burl_Ives,,,,,,086c1936-9eaa-4091-b140-ad33a51a3b71
+1962.0,Henry Mancini,https://en.wikipedia.org/wiki/Henry_Mancini,,,,,,83e71a21-caf7-4e48-8ff7-6512d51e88a3
+1962.0,Jack Jones,https://en.wikipedia.org/wiki/Jack_Jones_(singer),,,,,,5ac5a455-ea7c-4afc-bc04-b6533a72559a
+1962.0,Jimmy Dean,https://en.wikipedia.org/wiki/Jimmy_Dean,,,,,,812e18ca-29c2-472f-a185-b85befd03221
+1962.0,Various Artists,https://en.wikipedia.org/wiki/Various_Artists,,,,,,89ad4ac3-39f7-470e-963a-56509c546377
+1963.0,Sammy Davis Jr.,https://en.wikipedia.org/wiki/Sammy_Davis_Jr.,,,,,,4bc9e8c3-7eae-454f-a56c-bccf96f3926b
+1963.0,Sandy Stewart,https://en.wikipedia.org/wiki/Sandy_Stewart_(singer),,,,,,55ab06a1-bd37-4beb-974e-dc7df818cdc6
+1963.0,Shirley Bassey,https://en.wikipedia.org/wiki/Shirley_Bassey,,,,,,05ec70a5-3858-4346-a649-fda0a297b8c1
+1963.0,Tony Bennett,https://en.wikipedia.org/wiki/Tony_Bennett,,,,,,8be0594f-8c13-46bb-ab06-f93ffba5c776
+1965.0,Barbra Streisand,https://en.wikipedia.org/wiki/Barbra_Streisand,,,,,,56cd15a1-0d74-438b-8244-c96ffe1cae03
+1965.0,Louis Armstrong,https://en.wikipedia.org/wiki/Louis_Armstrong,,,,,,eea8a864-fcda-4602-9569-38ab446decd6
+1965.0,The Beatles,https://en.wikipedia.org/wiki/The_Beatles,,,,,,b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+1966.0,Connie Francis,https://en.wikipedia.org/wiki/Connie_Francis,,,,,,5fcd7daf-25e1-47fd-9ba1-830b42708f84
+1966.0,Roger Miller,https://en.wikipedia.org/wiki/Roger_Miller,,,,,,102045e3-577c-4b10-b01b-424b7e461094
+1967.0,Ray Conniff,https://en.wikipedia.org/wiki/Ray_Conniff,,,,,,b84dfb67-c437-4ccc-b512-1073fd4612eb
+1967.0,Richard Kiley,https://en.wikipedia.org/wiki/Richard_Kiley,,,,,,efb524e1-942a-4348-b013-e556a5c97080
+1968.0,Bobbie Gentry,https://en.wikipedia.org/wiki/Bobbie_Gentry,,,,,,a5106366-6368-4a02-a580-73a3c02abb2f
+1968.0,Ed Ames,https://en.wikipedia.org/wiki/Ed_Ames,,,,,,6a55061b-9742-4059-94b1-a5ea1bd42dce
+1968.0,Glen Campbell,https://en.wikipedia.org/wiki/Glen_Campbell,,,,,,57976431-1a5c-4968-a422-b92c5e9b0d4f
+1968.0,The 5th Dimension,https://en.wikipedia.org/wiki/The_5th_Dimension,,,,,,4f1949ab-fefd-4bf3-9317-814084c29cc0
+1969.0,Bobby Goldsboro,https://en.wikipedia.org/wiki/Bobby_Goldsboro,,,,,,a85c70af-90e4-4a7c-83b1-e1bd567d7d2f
+1969.0,Garfunkel,https://en.wikipedia.org/wiki/Garfunkel,,,,,,5d02f264-e225-41ff-83f7-d9b1f0b1874a
+1969.0,Jeannie C. Riley,https://en.wikipedia.org/wiki/Jeannie_C._Riley,,,,,,79251d77-dd72-46d3-a324-61c27760ce25
+1969.0,O. C. Smith,https://en.wikipedia.org/wiki/O._C._Smith,,,,,,
+1969.0,Simon,https://en.wikipedia.org/wiki/Simon,,,,,,a8d5807f-6dd9-4967-b2dd-b2c10765b34f
+1970.0,B. J. Thomas,https://en.wikipedia.org/wiki/B._J._Thomas,,,,,,
+1970.0,Blood,https://en.wikipedia.org/wiki/Blood,,,,,,d4bd6a7a-e8d6-40e9-9d6b-ea27ab9f7b4f
+1970.0,Dionne Warwick,https://en.wikipedia.org/wiki/Dionne_Warwick,,,,,,6784ee31-6d79-4a37-9e1f-01d6ef31940e
+1970.0,Joe South,https://en.wikipedia.org/wiki/Joe_South,,,,,,399fc572-6f08-4dee-b5fc-213c8a4d050b
+1970.0,Sweat,https://en.wikipedia.org/wiki/Sweat,,,,,,f81d592c-993f-4693-b53a-57db5a6257b9
+1970.0,Tears,https://en.wikipedia.org/wiki/Tears,,,,,,7c7f9c94-dee8-4903-892b-6cf44652e2de
+1971.0,James Taylor,https://en.wikipedia.org/wiki/James_Taylor,,,,,,107d0c22-d051-4d98-8206-4e14de02132a
+1971.0,Ray Stevens,https://en.wikipedia.org/wiki/Ray_Stevens,,,,,,140220f3-95fe-417a-8b66-4102d2deacb9
+1971.0,Simon & Garfunkel,https://en.wikipedia.org/wiki/Simon_%26_Garfunkel,,,,,,5d02f264-e225-41ff-83f7-d9b1f0b1874a
+1971.0,The Carpenters,https://en.wikipedia.org/wiki/The_Carpenters,,,,,,
+1972.0,Carole King,https://en.wikipedia.org/wiki/Carole_King,,,,,,bf6c29f5-b69f-4842-9031-37f9645d365d
+1972.0,Janis Joplin,https://en.wikipedia.org/wiki/Janis_Joplin,,,,,,76c9a186-75bd-436a-85c0-823e3efddb7f
+1972.0,Kris Kristofferson,https://en.wikipedia.org/wiki/Kris_Kristofferson,,,,,,cb1ca13a-4821-4e66-aff0-0fd6b3dc9a81
+1972.0,Lynn Anderson,https://en.wikipedia.org/wiki/Lynn_Anderson,,,,,,354812d4-2dfb-4611-9a8f-8f8e795e48bf
+1973.0,Don McLean,https://en.wikipedia.org/wiki/Don_McLean,,,,,,fa19ee38-c2a9-4ed1-9b24-a18100cf9db3
+1973.0,Gilbert O'Sullivan,https://en.wikipedia.org/wiki/Gilbert_O%27Sullivan,,,,,,215394ba-3d0c-4b57-b284-ec5bb4a5ad25
+1973.0,Michel Legrand,https://en.wikipedia.org/wiki/Michel_Legrand,,,,,,2c330f54-9245-488b-b678-dc8a236d06b3
+1973.0,Neil Diamond,https://en.wikipedia.org/wiki/Neil_Diamond,,,,,,a42d3fd5-55de-4206-86c3-4fbb5404018f
+1973.0,Roberta Flack,https://en.wikipedia.org/wiki/Roberta_Flack,,,,,,5298bbcb-7330-49bf-a780-2d757f10a20a
+1974.0,Carly Simon,https://en.wikipedia.org/wiki/Carly_Simon,,,,,,c4df30f5-5487-4806-9189-b69c9f27532c
+1974.0,Charlie Rich,https://en.wikipedia.org/wiki/Charlie_Rich,,,,,,9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc
+1974.0,Dawn,https://en.wikipedia.org/wiki/Dawn,,,,,,93c66937-ac49-4068-b378-a1d2a4d093a1
+1974.0,Stevie Wonder,https://en.wikipedia.org/wiki/Stevie_Wonder,,,,,,1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
+1974.0,Tony Orlando,https://en.wikipedia.org/wiki/Tony_Orlando,,,,,,422fc30a-5343-4aad-b094-50b6d16b1484
+1975.0,Helen Reddy,https://en.wikipedia.org/wiki/Helen_Reddy,,,,,,0f4681f3-1d4d-4463-8a68-eaa60d6d6865
+1975.0,Maria Muldaur,https://en.wikipedia.org/wiki/Maria_Muldaur,,,,,,3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
+1975.0,Olivia Newton-John,https://en.wikipedia.org/wiki/Olivia_Newton-John,,,,,,10ccb5d8-f9d5-4954-9441-3419b522a214
+1976.0,Captain,https://en.wikipedia.org/wiki/Captain,,,,,,ae27f1d1-b8c4-4b2f-88a0-094c3333ed24
+1976.0,Janis Ian,https://en.wikipedia.org/wiki/Janis_Ian,,,,,,b72f115c-8afa-4dc5-bc6c-11225a53708a
+1976.0,Judy Collins,https://en.wikipedia.org/wiki/Judy_Collins,,,,,,06f9c474-0547-40fc-be3d-1ae6ce38abd7
+1976.0,Morris Albert,https://en.wikipedia.org/wiki/Morris_Albert,,,,,,fb09fcfb-8bba-4efb-8b23-332fba448fc1
+1976.0,Tennille,https://en.wikipedia.org/wiki/Tennille,,,,,,ae27f1d1-b8c4-4b2f-88a0-094c3333ed24
+1977.0,Barry Manilow,https://en.wikipedia.org/wiki/Barry_Manilow,,,,,,7bb60591-46f3-4147-b692-1814a87e832e
+1977.0,George Benson,https://en.wikipedia.org/wiki/George_Benson,,,,,,467f69b6-8d6d-4d2c-bfad-e89adf2806ff
+1977.0,Gordon Lightfoot,https://en.wikipedia.org/wiki/Gordon_Lightfoot,,,,,,9d97b077-b28d-4ba8-a3d9-c71926e3b2b6
+1977.0,Neil Sedaka,https://en.wikipedia.org/wiki/Neil_Sedaka,,,,,,577d92bd-32ac-48b6-86df-4db6b0b52fbf
+1977.0,Starland Vocal Band,https://en.wikipedia.org/wiki/Starland_Vocal_Band,,,,,,2dd30f18-241e-44b3-8bb3-950380f22dfa
+1978.0,Crystal Gayle,https://en.wikipedia.org/wiki/Crystal_Gayle,,,,,,cefd9d3d-9506-461c-972f-89b4cbade9da
+1978.0,the Eagles,https://en.wikipedia.org/wiki/the_Eagles,,,,,,a4852e21-7f09-470b-b5ae-9740d939d183
+1979.0,Anne Murray,https://en.wikipedia.org/wiki/Anne_Murray,,,,,,cff63c14-b081-4686-9357-eea84d5348fc
+1979.0,Bee Gees,https://en.wikipedia.org/wiki/Bee_Gees,,,,,,bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810
+1979.0,Billy Joel,https://en.wikipedia.org/wiki/Billy_Joel,,,,,,64b94289-9474-4d43-8c93-918ccc1920d1
+1979.0,the Commodores,https://en.wikipedia.org/wiki/the_Commodores,,,,,,0d70a3b5-95d2-43cc-aeeb-6c54167fcb5c
+1980.0,Earth,https://en.wikipedia.org/wiki/Earth,,,,,,535afeda-2538-435d-9dd1-5e10be586774
+1980.0,Fire,https://en.wikipedia.org/wiki/Fire,,,,,,535afeda-2538-435d-9dd1-5e10be586774
+1980.0,Gloria Gaynor,https://en.wikipedia.org/wiki/Gloria_Gaynor,,,,,,d5c51c36-ac67-4727-91ed-ee9f0df81a2d
+1980.0,Herb,https://en.wikipedia.org/wiki/Herb,,,,,,db76f244-049f-440e-be53-cc5f3c0cdfb6
+1980.0,Kenny Rogers,https://en.wikipedia.org/wiki/Kenny_Rogers,,,,,,c3d14b41-a48d-488f-bfed-ce0597bb0b1f
+1980.0,Peaches,https://en.wikipedia.org/wiki/Peaches,,,,,,270acfee-1fbe-413e-a0a8-6a35a8b3b66c
+1980.0,Rickie Lee Jones,https://en.wikipedia.org/wiki/Rickie_Lee_Jones,,,,,,9cd9232e-7a3e-4eb9-8043-ee05c1e396ec
+1980.0,The Doobie Brothers,https://en.wikipedia.org/wiki/The_Doobie_Brothers,,,,,,588dea29-eea3-456b-a815-3ee04f75c8e7
+1980.0,Wind,https://en.wikipedia.org/wiki/Wind,,,,,,535afeda-2538-435d-9dd1-5e10be586774
+1981.0,Bette Midler,https://en.wikipedia.org/wiki/Bette_Midler,,,,,,ed333e8b-d18a-49fc-b361-4ec9731dfdba
+1981.0,Christopher Cross,https://en.wikipedia.org/wiki/Christopher_Cross,,,,,,883e4ba4-8ccc-47ed-81df-df51e41792a9
+1981.0,Irene Cara,https://en.wikipedia.org/wiki/Irene_Cara,,,,,,26358fa2-80c2-47b0-a08b-33817caca7e8
+1982.0,Bill Withers,https://en.wikipedia.org/wiki/Bill_Withers,,,,,,fd1a2d9d-9bb6-44de-83a3-41560658aba9
+1982.0,Diana Ross,https://en.wikipedia.org/wiki/Diana_Ross,,,,,,60d41417-feda-4734-bbbf-7dcc30e08a83
+1982.0,Dolly Parton,https://en.wikipedia.org/wiki/Dolly_Parton,,,,,,1d543e07-d0d2-4834-a8db-d65c50c2a856
+1982.0,Grover Washington Jr.,https://en.wikipedia.org/wiki/Grover_Washington_Jr.,,,,,,c60e178f-36f1-4169-9c03-84addbdbf104
+1982.0,Kim Carnes,https://en.wikipedia.org/wiki/Kim_Carnes,,,,,,600c5212-a8e6-458e-bd3f-78b6fbfe329a
+1982.0,Lionel Richie,https://en.wikipedia.org/wiki/Lionel_Richie,,,,,,3cb25fb2-5547-4b05-adec-1a5e37830d46
+1983.0,Donald Fagen,https://en.wikipedia.org/wiki/Donald_Fagen,,,,,,70047e57-0153-4117-b0fc-a1d2e322e5ef
+1983.0,Paul McCartney,https://en.wikipedia.org/wiki/Paul_McCartney,,,,,,ba550d0e-adac-4864-b88b-407cab5e76af
+1983.0,Survivor,https://en.wikipedia.org/wiki/Survivor_(band),,,,,,55ef024a-6cc0-49ed-8ce2-2e12193c0f46
+1983.0,Toto,https://en.wikipedia.org/wiki/Toto_(band),,,,,,aab5c954-cabe-432e-899e-1c4f99757327
+1983.0,Willie Nelson,https://en.wikipedia.org/wiki/Willie_Nelson,,,,,,668fd73c-bf54-4310-a139-305517f05311
+1984.0,Michael Jackson,https://en.wikipedia.org/wiki/Michael_Jackson,,,,,,f27ec8db-af05-4f36-916e-3d57f91ecf5e
+1984.0,Michael Sembello,https://en.wikipedia.org/wiki/Michael_Sembello,,,,,,fcde7037-181e-437f-9417-60a38958c0fa
+1984.0,The Police,https://en.wikipedia.org/wiki/The_Police,,,,,,9e0e2b01-41db-4008-bd8b-988977d6019a
+1985.0,Cyndi Lauper,https://en.wikipedia.org/wiki/Cyndi_Lauper,,,,,,7bd9e20e-74b9-446a-a2ed-a223f82a36e7
+1985.0,Phil Collins,https://en.wikipedia.org/wiki/Phil_Collins,,,,,,401c3991-b76b-499d-8082-9f2df958ef78
+1985.0,Tina Turner,https://en.wikipedia.org/wiki/Tina_Turner,,,,,,9072df14-b61e-42e2-b4f4-6bbb7fdb5586
+1986.0,Dire Straits,https://en.wikipedia.org/wiki/Dire_Straits,,,,,,614e3804-7d34-41ba-857f-811bad7c2b7a
+1986.0,Don Henley,https://en.wikipedia.org/wiki/Don_Henley,,,,,,b2c2d4fe-8c1e-44ec-8be6-ff500e105a90
+1986.0,Foreigner,https://en.wikipedia.org/wiki/Foreigner_(band),,,,,,160629ab-ec18-4931-8c95-02cb92d06186
+1986.0,Paul Young,https://en.wikipedia.org/wiki/Paul_Young,,,,,,967002b0-58ef-4b22-a58c-fbc631ff695c
+1987.0,Elton John,https://en.wikipedia.org/wiki/Elton_John,,,,,,b83bc61f-8451-4a5d-8b8e-7e9ed295e822
+1987.0,Gladys Knight,https://en.wikipedia.org/wiki/Gladys_Knight,,,,,,68f644b2-42ed-4d11-8bc7-633d5250721b
+1987.0,Paul Simon,https://en.wikipedia.org/wiki/Paul_Simon,,,,,,05517043-ff78-4988-9c22-88c68588ebb9
+1987.0,Peter Gabriel,https://en.wikipedia.org/wiki/Peter_Gabriel,,,,,,8e66ea2b-b57b-47d9-8df0-df4630aeb8e5
+1987.0,Robert Palmer,https://en.wikipedia.org/wiki/Robert_Palmer,,,,,,96b1d906-0fda-406d-beb6-19c6758998df
+1987.0,Steve Winwood,https://en.wikipedia.org/wiki/Steve_Winwood,,,,,,885f90ef-6bd9-409a-b2df-e165e553c68e
+1988.0,James Ingram,https://en.wikipedia.org/wiki/James_Ingram,,,,,,1c9d555e-d20a-46d9-93a3-bf7e0d263ece
+1988.0,Linda Ronstadt,https://en.wikipedia.org/wiki/Linda_Ronstadt,,,,,,498f2581-be21-4eef-8756-fbb89d79b1c0
+1988.0,Los Lobos,https://en.wikipedia.org/wiki/Los_Lobos,,,,,,2b9967c7-3246-4658-a561-ded5408dd9af
+1988.0,Suzanne Vega,https://en.wikipedia.org/wiki/Suzanne_Vega,,,,,,cf119120-7df5-47d7-9dec-49f8837a4e40
+1988.0,U2,https://en.wikipedia.org/wiki/U2,,,,,,a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432
+1988.0,Whitney Houston,https://en.wikipedia.org/wiki/Whitney_Houston,,,,,,0307edfc-437c-4b48-8700-80680e66a228
+1989.0,Anita Baker,https://en.wikipedia.org/wiki/Anita_Baker,,,,,,02349767-d5ac-4528-892d-17b6d40107a1
+1989.0,Bobby McFerrin,https://en.wikipedia.org/wiki/Bobby_McFerrin,,,,,,a996b5bd-db99-4257-b036-336f63448aa2
+1989.0,Brenda Russell,https://en.wikipedia.org/wiki/Brenda_Russell,,,,,,47ab22b9-95cb-4920-aa54-7756113e69f7
+1989.0,Sting,https://en.wikipedia.org/wiki/Sting_(musician),,,,,,7944ed53-2a58-4035-9b93-140a71e41c34
+1989.0,Tracy Chapman,https://en.wikipedia.org/wiki/Tracy_Chapman,,,,,,1129817c-488a-4096-80c1-77fc1b107c93
+1990.0,Aaron Neville,https://en.wikipedia.org/wiki/Aaron_Neville,,,,,,2f53411b-ec29-4979-aa46-62786a2bb377
+1990.0,Mike + The Mechanics,https://en.wikipedia.org/wiki/Mike_%2B_The_Mechanics,,,,,,a04e09c8-733c-4430-9e22-99ef9dd5e2d7
+1991.0,Mariah Carey,https://en.wikipedia.org/wiki/Mariah_Carey,,,,,,494e8d09-f85b-4543-892f-a5096aed1cd4
+1991.0,Sinéad O'Connor,https://en.wikipedia.org/wiki/Sin%C3%A9ad_O%27Connor,,,,,,c78a77fa-507c-4c07-947a-0355029453bd
+1991.0,Wilson Phillips,https://en.wikipedia.org/wiki/Wilson_Phillips,,,,,,32b2e717-9e01-4f45-ac73-9542ccf18d4d
+1992.0,Amy Grant,https://en.wikipedia.org/wiki/Amy_Grant,,,,,,3cd18a93-1797-4bbb-9b8a-c096d5e7864c
+1992.0,Bryan Adams,https://en.wikipedia.org/wiki/Bryan_Adams,,,,,,4dbf5678-7a31-406a-abbe-232f8ac2cd63
+1992.0,Marc Cohn,https://en.wikipedia.org/wiki/Marc_Cohn,,,,,,ddf18377-0bf5-4972-90d2-7de878b5eec4
+1992.0,Nat King Cole,https://en.wikipedia.org/wiki/Nat_King_Cole,,,,,,fbe054ec-a143-4101-9e9e-64abc5ff5ac9
+1992.0,Natalie Cole,https://en.wikipedia.org/wiki/Natalie_Cole,,,,,,eb45032c-80da-469c-be20-1d09f08ef37f
+1992.0,R.E.M.,https://en.wikipedia.org/wiki/R.E.M.,,,,,,ea4dfa26-f633-4da6-a52a-f49ea4897b58
+1993.0,Billy Ray Cyrus,https://en.wikipedia.org/wiki/Billy_Ray_Cyrus,,,,,,63e8d6f9-e247-45c9-aaf2-e079cddbdd54
+1993.0,Celine Dion,https://en.wikipedia.org/wiki/Celine_Dion,,,,,,847e8a0c-cc20-4213-9e16-975515c2a926
+1993.0,Eric Clapton,https://en.wikipedia.org/wiki/Eric_Clapton,,,,,,618b6900-0618-4f1e-b835-bccb17f84294
+1993.0,Peabo Bryson,https://en.wikipedia.org/wiki/Peabo_Bryson,,,,,,b8170690-3a95-42e4-adef-afc9576ed90c
+1993.0,Vanessa Williams,https://en.wikipedia.org/wiki/Vanessa_Williams,,,,,,7cce3b8e-623c-4078-b079-837cbcf638c4
+1993.0,k.d. lang,https://en.wikipedia.org/wiki/K.d._lang,,,,,,675c1c5e-5625-4a5e-97a2-b02aab5db2fc
+1994.0,Meat Loaf,https://en.wikipedia.org/wiki/Meat_Loaf,,,,,,b134d1bf-c7c7-4427-93ac-9fdbc2b59ef1
+1994.0,Neil Young,https://en.wikipedia.org/wiki/Neil_Young,,,,,,75167b8b-44e4-407b-9d35-effe87b223cf
+1994.0,Regina Belle,https://en.wikipedia.org/wiki/Regina_Belle,,,,,,e1235abf-1fab-40a5-833a-057968d90e48
+1995.0,All-4-One,https://en.wikipedia.org/wiki/All-4-One,,,,,,ef9df4c9-0e76-451b-b174-2244bcc31f0c
+1995.0,Bruce Springsteen,https://en.wikipedia.org/wiki/Bruce_Springsteen,,,,,,70248960-cb53-4ea4-943a-edb18f7d336f
+1995.0,John Michael Montgomery,https://en.wikipedia.org/wiki/John_Michael_Montgomery,,,,,,9647191b-5891-4885-bccc-f6bb9b200a6d
+1995.0,Sheryl Crow,https://en.wikipedia.org/wiki/Sheryl_Crow,,,,,,80ccfede-c258-4575-a7ad-c982e9932e0f
+1996.0,Alanis Morissette,https://en.wikipedia.org/wiki/Alanis_Morissette,,,,,,4bdcee62-4902-4773-8cd1-e252e2e31225
+1996.0,Joan Osborne,https://en.wikipedia.org/wiki/Joan_Osborne,,,,,,746916c9-fd36-44e6-823d-03185e596f58
+1996.0,Seal,https://en.wikipedia.org/wiki/Seal_(musician),,,,,,f053ae01-dae6-4aae-9883-e8c279fdbef4
+1997.0,LeAnn Rimes,https://en.wikipedia.org/wiki/LeAnn_Rimes,,,,,,9092d8e1-9b38-4372-a96d-000b8561a8bc
+1998.0,No Doubt,https://en.wikipedia.org/wiki/No_Doubt,,,,,,fbd2a255-1d57-4d31-ac11-65b671c19958
+1998.0,Paula Cole,https://en.wikipedia.org/wiki/Paula_Cole,,,,,,d3ba9251-215f-4ef3-a6de-8aa256b9c30c
+1998.0,R. Kelly,https://en.wikipedia.org/wiki/R._Kelly,,,,,,c2d25856-a09a-4d15-b404-77dd19c19e63
+1998.0,Shawn Colvin,https://en.wikipedia.org/wiki/Shawn_Colvin,,,,,,42222090-c5e5-4243-8582-c29bc8b63ec6
+1998.0,Trisha Yearwood,https://en.wikipedia.org/wiki/Trisha_Yearwood,,,,,,0be325a6-3c6d-4e3a-97ed-e59539b1014f
+1999.0,Aerosmith,https://en.wikipedia.org/wiki/Aerosmith,,,,,,3d2b98e5-556f-4451-a3ff-c50ea18d57cb
+1999.0,Kirk Franklin,https://en.wikipedia.org/wiki/Kirk_Franklin,,,,,,685332a4-12ed-4c3b-8d0e-04e6a37e28f0
+1999.0,Shania Twain,https://en.wikipedia.org/wiki/Shania_Twain,,,,,,faabb55d-3c9e-4c23-8779-732ac2ee2c0d
+1999.0,The Goo Goo Dolls,https://en.wikipedia.org/wiki/The_Goo_Goo_Dolls,,,,,,
+2000.0,Backstreet Boys,https://en.wikipedia.org/wiki/Backstreet_Boys,,,,,,2f569e60-0a1b-4fb9-95a4-3dc1525d1aad
+2000.0,Ricky Martin,https://en.wikipedia.org/wiki/Ricky_Martin,,,,,,70ea63ea-70dc-4b63-951a-2c249d2b3b0a
+2000.0,Rob Thomas,https://en.wikipedia.org/wiki/Rob_Thomas_(musician),,,,,,e42680f7-e439-4666-9c2c-536c2b3c6db3
+2000.0,Santana,https://en.wikipedia.org/wiki/Santana_(band),,,,,,9a3bf45c-347d-4630-894d-7cf3e8e0b632
+2000.0,TLC,https://en.wikipedia.org/wiki/TLC_(band),,,,,,99790314-885a-4975-8614-9c5bc890364d
+2001.0,Destiny's Child,https://en.wikipedia.org/wiki/Destiny%27s_Child,,,,,,a796b92e-c137-4895-9c89-10f900617a4f
+2001.0,Faith Hill,https://en.wikipedia.org/wiki/Faith_Hill,,,,,,406552d4-5ba1-4226-b7c0-367bc50fc767
+2001.0,Lee Ann Womack,https://en.wikipedia.org/wiki/Lee_Ann_Womack,,,,,,16c5bb7a-35b7-418d-880e-7ed3399f1b40
+2001.0,Macy Gray,https://en.wikipedia.org/wiki/Macy_Gray,,,,,,48772747-4cda-4ba8-b470-cfd5a32e05f7
+2002.0,Alicia Keys,https://en.wikipedia.org/wiki/Alicia_Keys,,,,,,8ef1df30-ae4f-4dbd-9351-1a32b208a01e
+2002.0,India.Arie,https://en.wikipedia.org/wiki/India.Arie,,,,,,38c7a3b2-17fb-4166-b964-4e445d69efdd
+2002.0,Nelly Furtado,https://en.wikipedia.org/wiki/Nelly_Furtado,,,,,,13655113-cd16-4b43-9dca-cadbbf26ee05
+2002.0,Train,https://en.wikipedia.org/wiki/Train_(band),,,,,,bfd5aec5-62a2-4560-a316-7c46c17babda
+2003.0,Alan Jackson,https://en.wikipedia.org/wiki/Alan_Jackson,,,,,,7291957b-c463-4275-a41c-a104c9e2337f
+2003.0,Avril Lavigne,https://en.wikipedia.org/wiki/Avril_Lavigne,,,,,,0103c1cc-4a09-4a5d-a344-56ad99a77193
+2003.0,Norah Jones,https://en.wikipedia.org/wiki/Norah_Jones,,,,,,985c709c-7771-4de3-9024-7bda29ebe3f9
+2003.0,Vanessa Carlton,https://en.wikipedia.org/wiki/Vanessa_Carlton,,,,,,c1a61bb0-e4fe-4064-bc8d-954a2dafda79
+2004.0,Christina Aguilera,https://en.wikipedia.org/wiki/Christina_Aguilera,,,,,,b202beb7-99bd-47e7-8b72-195c8d72ebdd
+2004.0,Eminem,https://en.wikipedia.org/wiki/Eminem,,,,,,b95ce3ff-3d05-4e87-9e01-c97b66af13d4
+2004.0,Luther Vandross,https://en.wikipedia.org/wiki/Luther_Vandross,,,,,,816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe
+2004.0,Warren Zevon,https://en.wikipedia.org/wiki/Warren_Zevon,,,,,,970fb29f-e288-403e-a388-d2a7889bfa47
+2005.0,Hoobastank,https://en.wikipedia.org/wiki/Hoobastank,,,,,,2fa0d3ac-b64c-401a-b0a1-4915ba6cc157
+2005.0,John Mayer,https://en.wikipedia.org/wiki/John_Mayer,,,,,,144ef525-85e9-40c3-8335-02c32d0861f3
+2005.0,Kanye West,https://en.wikipedia.org/wiki/Kanye_West,,,,,,0eb17834-1d29-47ef-a422-9dc68d73c5e4
+2005.0,Tim McGraw,https://en.wikipedia.org/wiki/Tim_McGraw,,,,,,7e5cfc9a-e9e1-46f1-b81a-861b12049488
+2006.0,John Legend,https://en.wikipedia.org/wiki/John_Legend,,,,,,75a72702-a5ef-4513-bca5-c5b944903546
+2006.0,Rascal Flatts,https://en.wikipedia.org/wiki/Rascal_Flatts,,,,,,6e0ae159-8449-4262-bba5-18ec87fa529f
+2007.0,Carrie Underwood,https://en.wikipedia.org/wiki/Carrie_Underwood,,,,,,70f0e309-5418-49b6-a130-666e2f76eecd
+2007.0,Corinne Bailey Rae,https://en.wikipedia.org/wiki/Corinne_Bailey_Rae,,,,,,bc85c6f6-6b06-44c1-8754-ef32c1e6b824
+2007.0,Dixie Chicks,https://en.wikipedia.org/wiki/Dixie_Chicks,,,,,,
+2007.0,James Blunt,https://en.wikipedia.org/wiki/James_Blunt,,,,,,ebee61b4-bbdd-4087-9bcb-d5aa099088ec
+2007.0,Mary J. Blige,https://en.wikipedia.org/wiki/Mary_J._Blige,,,,,,db76c5ca-d555-4f09-b1db-baa1b713d875
+2008.0,Amy Winehouse,https://en.wikipedia.org/wiki/Amy_Winehouse,,,,,,dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
+2008.0,Jay-Z,https://en.wikipedia.org/wiki/Jay-Z,,,,,,f82bcf78-5b69-4622-a5ef-73800768d9ac
+2008.0,Plain White T's,https://en.wikipedia.org/wiki/Plain_White_T%27s,,,,,,49576e42-fbbd-4d73-968d-93c8dcf7f065
+2008.0,Rihanna,https://en.wikipedia.org/wiki/Rihanna,,,,,,73e5e69d-3554-40d8-8516-00cb38737a1c
+2009.0,Adele,https://en.wikipedia.org/wiki/Adele,,,,,,cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493
+2009.0,Coldplay,https://en.wikipedia.org/wiki/Coldplay,,,,,,cc197bad-dc9c-440d-a5b5-d52ba2e14234
+2009.0,Estelle,https://en.wikipedia.org/wiki/Estelle_(musician),,,,,,4c7a5854-6b75-4623-a684-6a3d785d9015
+2009.0,Jason Mraz,https://en.wikipedia.org/wiki/Jason_Mraz,,,,,,82eb8936-7bf6-4577-8320-a2639465206d
+2009.0,Sara Bareilles,https://en.wikipedia.org/wiki/Sara_Bareilles,,,,,,e54be6b7-5c26-4b47-bb3f-c137429b9b55
+2010.0,Beyoncé,https://en.wikipedia.org/wiki/Beyonc%C3%A9,,,,,,859d0860-d480-4efd-970c-c05d5f1776b8
+2010.0,Kings of Leon,https://en.wikipedia.org/wiki/Kings_of_Leon,,,,,,6ffb8ea9-2370-44d8-b678-e9237bbd347b
+2010.0,Lady Gaga,https://en.wikipedia.org/wiki/Lady_Gaga,,,,,,650e7db6-b795-4eb5-a702-5ea2fc46c848
+2010.0,Maxwell,https://en.wikipedia.org/wiki/Maxwell_(musician),,,,,,d252cca8-8214-43e5-b81a-101eb4a1447e
+2010.0,Taylor Swift,https://en.wikipedia.org/wiki/Taylor_Swift,,,,,,20244d07-534f-4eff-b4d4-930878889970
+2011.0,Cee Lo Green,https://en.wikipedia.org/wiki/Cee_Lo_Green,,,,,,
+2011.0,Lady Antebellum,https://en.wikipedia.org/wiki/Lady_Antebellum,,,,,,
+2011.0,Miranda Lambert,https://en.wikipedia.org/wiki/Miranda_Lambert,,,,,,4eca1aa0-c79f-481b-af8a-4a2d6c41aa5c
+2011.0,Ray LaMontagne,https://en.wikipedia.org/wiki/Ray_LaMontagne,,,,,,b5c4ffa2-82e1-4b72-b7f3-c60afb74b860
+2011.0,The Pariah Dogs,https://en.wikipedia.org/wiki/The_Pariah_Dogs,,,,,,fc46efff-1024-4c1a-9d3d-c2e70cb032e4
+2012.0,Bon Iver,https://en.wikipedia.org/wiki/Bon_Iver,,,,,,437a0e49-c6ae-42f6-a6c1-84f25ed366bc
+2012.0,Bruno Mars,https://en.wikipedia.org/wiki/Bruno_Mars,,,,,,afb680f2-b6eb-4cd7-a70b-a63b25c763d5
+2012.0,Fergie,https://en.wikipedia.org/wiki/Fergie_(singer),,,,,,1c46e82f-4764-4d82-a33b-5d5aee5e2881
+2012.0,Kid Cudi,https://en.wikipedia.org/wiki/Kid_Cudi,,,,,,e0e1db18-f7ba-4dee-95ff-7ae8cf545460
+2012.0,Mumford,https://en.wikipedia.org/wiki/Mumford,,,,,,c44e9c22-ef82-4a77-9bcd-af6c958446d6
+2012.0,Sons,https://en.wikipedia.org/wiki/Sons,,,,,,0bd272c2-2dea-47a2-9c4e-95b3472340d1
+2013.0,Carly Rae Jepsen,https://en.wikipedia.org/wiki/Carly_Rae_Jepsen,,,,,,09887aa7-226e-4ecc-9a0c-02d2ae5777e1
+2013.0,Ed Sheeran,https://en.wikipedia.org/wiki/Ed_Sheeran,,,,,,b8a7c51f-362c-4dcb-a259-bc6e0095f0a6
+2013.0,Fun,https://en.wikipedia.org/wiki/Fun_(band),,,,,,40e7db88-da65-46c6-909d-82e48a40da4d
+2013.0,Janelle Monáe,https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e,,,,,,ee190f6b-7d98-43ec-b924-da5f8018eca0
+2013.0,Kelly Clarkson,https://en.wikipedia.org/wiki/Kelly_Clarkson,,,,,,d339efbb-77b9-4147-ba9e-59f2f24550b2
+2013.0,Miguel,https://en.wikipedia.org/wiki/Miguel_(singer),,,,,,98ad7a28-1949-4786-b1f6-4fa05b9b440c
+2014.0,Katy Perry,https://en.wikipedia.org/wiki/Katy_Perry,,,,,,122d63fc-8671-43e4-9752-34e846d62a9c
+2014.0,Lorde,https://en.wikipedia.org/wiki/Lorde,,,,,,8e494408-8620-4c6a-82c2-c2ca4a1e4f12
+2014.0,Macklemore,https://en.wikipedia.org/wiki/Macklemore,,,,,,b6d7ec94-830c-44dd-b699-ce66556b7e55
+2014.0,Mary Lambert,https://en.wikipedia.org/wiki/Mary_Lambert_(singer),,,,,,5479488b-0818-4da7-93c3-fed04336af3e
+2014.0,Nate Ruess,https://en.wikipedia.org/wiki/Nate_Ruess,,,,,,a049a513-f794-4b8d-8c3a-f106cfd22841
+2014.0,Pink,https://en.wikipedia.org/wiki/Pink_(singer),,,,,,83d91898-7763-47d7-b03b-b92132375c47
+2014.0,Ryan Lewis,https://en.wikipedia.org/wiki/Ryan_Lewis,,,,,,c01560d1-6f69-48cf-a3c6-c94b65f099b1
+2015.0,Hozier,https://en.wikipedia.org/wiki/Hozier,,,,,,b4691384-50c3-4afd-9988-51d3ec5db65d
+2015.0,Meghan Trainor,https://en.wikipedia.org/wiki/Meghan_Trainor,,,,,,b2029169-2574-4305-820f-252a5fde3697
+2015.0,Sam Smith,https://en.wikipedia.org/wiki/Sam_Smith,,,,,,5a85c140-dcf9-4dd2-b2c8-aff0471549f3
+2015.0,Sia,https://en.wikipedia.org/wiki/Sia,,,,,,2f548675-008d-4332-876c-108b0c7ab9c5
+2016.0,Charlie Puth,https://en.wikipedia.org/wiki/Charlie_Puth,,,,,,525f1f1c-03f0-4bc8-8dfd-e7521f87631b
+2016.0,Kendrick Lamar,https://en.wikipedia.org/wiki/Kendrick_Lamar,,,,,,381086ea-f511-4aba-bdf9-71c753dc5077
+2016.0,Little Big Town,https://en.wikipedia.org/wiki/Little_Big_Town,,,,,,76e78b58-f301-4975-8058-7f84d8360738
+2016.0,Wiz Khalifa,https://en.wikipedia.org/wiki/Wiz_Khalifa,,,,,,f5dfa020-ad69-41cd-b3d4-fd7af0414e94
+2017.0,Justin Bieber,https://en.wikipedia.org/wiki/Justin_Bieber,,,,,,e0140a67-e4d1-4f13-8a01-364355bee46e
+2017.0,Lukas Graham,https://en.wikipedia.org/wiki/Lukas_Graham,,,,,,124cec07-44f1-4a99-9aaa-96a5bb9ec0bd
+2017.0,Mike Posner,https://en.wikipedia.org/wiki/Mike_Posner,,,,,,5b64e344-b2fb-47bd-bd7b-4c793b17d472
+2018.0,Alessia Cara,https://en.wikipedia.org/wiki/Alessia_Cara,,,,,,97e69730-3791-423b-9770-287261588854
+2018.0,Daddy Yankee,https://en.wikipedia.org/wiki/Daddy_Yankee,,,,,,2f522f5c-111c-4ce8-8bd0-d82e97c227ad
+2018.0,Julia Michaels,https://en.wikipedia.org/wiki/Julia_Michaels,,,,,,4757df70-6c3e-46b8-99c0-a68644595c9a
+2018.0,Khalid,https://en.wikipedia.org/wiki/Khalid_(American_singer),,,,,,28737730-ec70-4da5-89c5-77ac13c5c34d
+2018.0,Logic,https://en.wikipedia.org/wiki/Logic_(musician),,,,,,713e751f-3ddb-4b77-b3b1-9e6f2e953ad5
+2018.0,Luis Fonsi,https://en.wikipedia.org/wiki/Luis_Fonsi,,,,,,d68fda90-ab8d-4799-be56-317ba4ae700f
+2019.0,Bradley Cooper,https://en.wikipedia.org/wiki/Bradley_Cooper,,,,,,cbe7746f-d4b4-4f0d-a435-1aa181d97b1b
+2019.0,Brandi Carlile,https://en.wikipedia.org/wiki/Brandi_Carlile,,,,,,baf05baf-69fb-47dd-93c2-033536b8c385
+2019.0,Childish Gambino,https://en.wikipedia.org/wiki/Childish_Gambino,,,,,,7fb57fba-a6ef-44c2-abab-2fa3bdee607e
+2019.0,Drake,https://en.wikipedia.org/wiki/Drake_(musician),,,,,,9fff2f8a-21e6-47de-a2b8-7f449929d43f
+2019.0,Ella Mai,https://en.wikipedia.org/wiki/Ella_Mai,,,,,,89d42b97-8042-4c14-a596-a2ccaef5fc4c
+2019.0,Grey,https://en.wikipedia.org/wiki/Grey_(duo),,,,,,ab309b83-904f-4e2c-8d11-a0223bba51f9
+2019.0,Maren Morris,https://en.wikipedia.org/wiki/Maren_Morris,,,,,,109357f0-eb37-4672-9697-dca8c83a61b5
+2019.0,SZA,https://en.wikipedia.org/wiki/SZA,,,,,,272989c8-5535-492d-a25c-9f58803e027f
+2019.0,Shawn Mendes,https://en.wikipedia.org/wiki/Shawn_Mendes,,,,,,b7d92248-97e3-4450-8057-6fe06738f735
+2019.0,Zedd,https://en.wikipedia.org/wiki/Zedd,,,,,,56c4b861-0922-4c3a-a9b9-3bfcb00f8274
+2020.0,H.E.R.,https://en.wikipedia.org/wiki/H.E.R.,,,,,,93998e01-ff53-4af7-ba2a-5674adcdf21e
+2020.0,Lana Del Rey,https://en.wikipedia.org/wiki/Lana_Del_Rey,,,,,,b7539c32-53e7-4908-bda3-81449c367da6
+2020.0,Lewis Capaldi,https://en.wikipedia.org/wiki/Lewis_Capaldi,,,,,,526aab94-697f-44a9-b630-41d1c0505953
+2020.0,Lizzo,https://en.wikipedia.org/wiki/Lizzo,,,,,,8fb5370b-9568-4b61-9da5-2aa12c9928db
+2020.0,Tanya Tucker,https://en.wikipedia.org/wiki/Tanya_Tucker,,,,,,45677914-89de-4267-aeae-8c1661b2c859
+2021.0,Dua Lipa,https://en.wikipedia.org/wiki/Dua_Lipa,,,,,,6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f
+2021.0,JP Saxe,https://en.wikipedia.org/wiki/JP_Saxe,,,,,,5d27a55a-5731-4ef5-a3ad-d5b44251db0f
+2021.0,Post Malone,https://en.wikipedia.org/wiki/Post_Malone,,,,,,b1e26560-60e5-4236-bbdb-9aa5a8d5ee19
+2021.0,Roddy Ricch,https://en.wikipedia.org/wiki/Roddy_Ricch,,,,,,5721c227-4caf-48b1-bbfc-1a4ed3276963
+2022.0,Daniel Caesar,https://en.wikipedia.org/wiki/Daniel_Caesar,,,,,,b46e298d-d3a5-4695-a03e-63e8c523b23e
+2022.0,Doja Cat,https://en.wikipedia.org/wiki/Doja_Cat,,,,,,5df62a88-cac9-490a-b62c-c7c88f4020f4
+2022.0,Giveon,https://en.wikipedia.org/wiki/Giveon,,,,,,ad322b8b-31b2-437d-8fd8-1af13c1d7b91
+2022.0,Lil Nas X,https://en.wikipedia.org/wiki/Lil_Nas_X,,,,,,0b30341b-b59d-4979-8130-b66c0e475321
+2022.0,Olivia Rodrigo,https://en.wikipedia.org/wiki/Olivia_Rodrigo,,,,,,6925db17-f35e-42f3-a4eb-84ee6bf5d4b0
+2022.0,Silk Sonic,https://en.wikipedia.org/wiki/Silk_Sonic,,,,,,0fc78799-38c2-4ee1-8c0f-0b8f7009b7ba
+2023.0,Bonnie Raitt,https://en.wikipedia.org/wiki/Bonnie_Raitt,,,,,,0f0da09c-3940-4cb5-879f-4cea28907810
+2023.0,DJ Khaled,https://en.wikipedia.org/wiki/DJ_Khaled,,,,,,081a2d60-9791-4e05-a075-f1890355eeee
+2023.0,Fridayy,https://en.wikipedia.org/wiki/Fridayy,,,,,,cb9c2a2b-96c2-44d7-bd31-04ef87572b57
+2023.0,Gayle,https://en.wikipedia.org/wiki/Gayle_(singer),,,,,,cefd9d3d-9506-461c-972f-89b4cbade9da
+2023.0,Harry Styles,https://en.wikipedia.org/wiki/Harry_Styles,,,,,,7eb1ce54-a355-41f9-8d68-e018b096d427
+2023.0,Lil Wayne,https://en.wikipedia.org/wiki/Lil_Wayne,,,,,,ac9a487a-d9d2-4f27-bb23-0f4686488345
+2023.0,Rick Ross,https://en.wikipedia.org/wiki/Rick_Ross,,,,,,13bcb2bb-db37-4397-baf5-e0f085be2d64
+2023.0,Steve Lacy,https://en.wikipedia.org/wiki/Steve_Lacy,,,,,,ca9766a0-1c30-43e6-a213-bac1334efc4a
+2024.0,Jon Batiste,https://en.wikipedia.org/wiki/Jon_Batiste,,,,,,a2a72dba-3a08-43c4-859c-4c7f5fcc9599
+2024.0,Miley Cyrus,https://en.wikipedia.org/wiki/Miley_Cyrus,,,,,,7e9bd05a-117f-4cce-87bc-e011527a8b18
+2025.0,Chappell Roan,https://en.wikipedia.org/wiki/Chappell_Roan,,,,,,56a55378-f155-48de-80a5-d80104221267
+2025.0,Sabrina Carpenter,https://en.wikipedia.org/wiki/Sabrina_Carpenter,,,,,,1882fe91-cdd9-49c9-9956-8e06a3810bd4
+2025.0,Shaboozey,https://en.wikipedia.org/wiki/Shaboozey,,,,,,0b427dad-1ee5-48f1-aa4b-026680a3338e
+1960.0,Bobby Darin,,https://en.wikipedia.org/wiki/Bobby_Darin ,winner,,,,1f223eed-aa38-49da-9e76-62ab3adc2e04
+1960.0,Edd Byrnes,,https://en.wikipedia.org/wiki/Edd_Byrnes ,nominee,,,,41789b2d-5633-4a72-be88-fc89b3fdd57d
+1960.0,Mark Murphy,,https://en.wikipedia.org/wiki/Mark_Murphy_(singer) ,nominee,,,,55a29cd8-0098-47f8-9650-9dcfcb4c8c7a
+1960.0,Johnny Restivo,,https://en.wikipedia.org/wiki/Johnny_Restivo ,nominee,,,,ab5182b8-9a2a-403f-a07b-b08666fb7758
+1960.0,Mavis Rivers,,https://en.wikipedia.org/wiki/Mavis_Chloe_Rivers ,nominee,,,,a41f36d7-50c1-47bc-aa2a-ddb384259c35
+1961.0,Bob Newhart,,https://en.wikipedia.org/wiki/Bob_Newhart ,winner,,,,14abda46-7ed4-4cf6-b4c6-f694166cd5f0
+1961.0,The Brothers Four,,https://en.wikipedia.org/wiki/The_Brothers_Four ,nominee,,,,59b0f5da-cd35-4ec7-a4a8-74d7aa7948b7
+1961.0,Miriam Makeba,,https://en.wikipedia.org/wiki/Miriam_Makeba ,nominee,,,,bc5c2918-4aba-4ef6-a245-100563a4487f
+1961.0,Leontyne Price,,https://en.wikipedia.org/wiki/Leontyne_Price ,nominee,,,,9a25e564-7c23-4edd-b0ea-df7a0fc6701a
+1961.0,Joanie Sommers,,https://en.wikipedia.org/wiki/Joanie_Sommers ,nominee,,,,e7495426-6e14-4429-b647-dbe700ad57d4
+1962.0,Peter Nero,,https://en.wikipedia.org/wiki/Peter_Nero ,winner,,,,bc4ca610-333b-424b-8c3c-c724e6327b62
+1962.0,Ann-Margret,,https://en.wikipedia.org/wiki/Ann-Margret ,nominee,,,,0d6e57aa-f495-460e-a27a-0d6677070914
+1962.0,Dick Gregory,,https://en.wikipedia.org/wiki/Dick_Gregory ,nominee,,,,8855c4f6-daa5-4c24-9c14-8456f5977588
+1962.0,The Lettermen,,https://en.wikipedia.org/wiki/The_Lettermen ,nominee,,,,c09d06fc-9867-4516-b382-d37c83f52ab3
+1962.0,Timi Yuro,,https://en.wikipedia.org/wiki/Timi_Yuro ,nominee,,,,8a52e2b1-7087-416f-91b0-3584ab7ba044
+1963.0,Robert Goulet,,https://en.wikipedia.org/wiki/Robert_Goulet ,winner,,,,6a365948-c640-4edf-ba9a-0bdf2c8f17ee
+1963.0,The Four Seasons,,https://en.wikipedia.org/wiki/The_Four_Seasons_(group) ,nominee,,,,3f64d38c-1ad4-4fb0-941e-7f4b51d4c9e6
+1963.0,Vaughn Meader,,https://en.wikipedia.org/wiki/Vaughn_Meader ,nominee,,,,c70bd566-0c54-4ab8-aca3-b042dec62cdb
+1963.0,The New Christy Minstrels,,https://en.wikipedia.org/wiki/The_New_Christy_Minstrels ,nominee,,,,b411483b-e9cc-4b4f-9661-0452333c615a
+1963.0,"Peter, Paul and Mary",,"https://en.wikipedia.org/wiki/Peter,_Paul_and_Mary ",nominee,,,,3d621c94-2356-4532-ad52-79e0ef73e20c
+1963.0,Allan Sherman,,https://en.wikipedia.org/wiki/Allan_Sherman ,nominee,,,,c8abe225-1f22-4c1e-a644-4d86c33d43f7
+1964.0,The Swingle Singers,,https://en.wikipedia.org/wiki/The_Swingle_Singers ,winner,,,,1709e9f2-c77f-4779-b67d-44905fbc35c0
+1964.0,Vikki Carr,,https://en.wikipedia.org/wiki/Vikki_Carr ,nominee,,,,06e7ad00-7257-4f5e-837f-81eeda8e0685
+1964.0,John Gary,,https://en.wikipedia.org/wiki/John_Gary ,nominee,,,,7a7f4e56-894c-4316-975c-43a20ea14c7e
+1964.0,The J's with Jamie,,https://en.wikipedia.org/wiki/The_J%27s_with_Jamie ,nominee,,,,d33e45a0-40b8-4c6e-8e31-8e80c15b03c2
+1964.0,Trini Lopez,,https://en.wikipedia.org/wiki/Trini_Lopez ,nominee,,,,52086001-fe0e-42ee-884e-49a0881bf8c8
+1965.0,Petula Clark,,https://en.wikipedia.org/wiki/Petula_Clark ,nominee,,,,40e69149-45a7-4dab-8128-c5a4d9654eeb
+1965.0,Astrud Gilberto,,https://en.wikipedia.org/wiki/Astrud_Gilberto ,nominee,,,,8d08cabf-03a3-4f38-a815-8197a0984f19
+1965.0,Antonio Carlos Jobim,,https://en.wikipedia.org/wiki/Antonio_Carlos_Jobim ,nominee,,,,7a8dbe84-f4c0-4457-bfa3-edced1f8cde0
+1965.0,Morgana King,,https://en.wikipedia.org/wiki/Morgana_King ,nominee,,,,b601ade5-7980-47d9-bcab-6a099b258a95
+1966.0,Tom Jones,,https://en.wikipedia.org/wiki/Tom_Jones_(singer) ,winner,,,,57c6f649-6cde-48a7-8114-2a200247601a
+1966.0,The Byrds,,https://en.wikipedia.org/wiki/The_Byrds ,nominee,,,,2819834e-4e08-47b0-a2c4-b7672318e8f0
+1966.0,Herman's Hermits,,https://en.wikipedia.org/wiki/Herman%27s_Hermits ,nominee,,,,fc9ec2b3-b44a-4dad-8bc3-ff3738ee02ae
+1966.0,Horst Jankowski,,https://en.wikipedia.org/wiki/Horst_Jankowski ,nominee,,,,4a498643-8439-49b0-97e1-83c632db91e1
+1966.0,Marilyn Maye,,https://en.wikipedia.org/wiki/Marilyn_Maye ,nominee,,,,49510c3c-3162-4713-95d6-93f0dd2ccfb5
+1966.0,Sonny & Cher,,https://en.wikipedia.org/wiki/Sonny_%26_Cher ,nominee,,,,3d6e4b6d-2700-458c-9722-9021965a8164
+1966.0,Glenn Yarbrough,,https://en.wikipedia.org/wiki/Glenn_Yarbrough ,nominee,,,,9510cfa8-6c08-452a-b701-0b02b9d46e0d
+1968.0,Lana Cantrell,,https://en.wikipedia.org/wiki/Lana_Cantrell ,nominee,,,,0d86f7e0-33be-4e85-bbb1-eabd9deaedcd
+1968.0,Harpers Bizarre,,https://en.wikipedia.org/wiki/Harpers_Bizarre ,nominee,,,,3aaceb91-c95d-4c5e-9539-086c5cef2b8d
+1968.0,Jefferson Airplane,,https://en.wikipedia.org/wiki/Jefferson_Airplane ,nominee,,,,39c2a93d-9afa-4a22-9bba-c087ab056e1c
+1969.0,José Feliciano,,https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano ,winner,,,,3c004c98-aab6-4b63-a2df-e07c98e73b0a
+1969.0,Cream,,https://en.wikipedia.org/wiki/Cream_(band) ,nominee,,,,04cd0cfd-bfd1-4c36-bc38-95c35e2c045f
+1969.0,Gary Puckett & The Union Gap,,https://en.wikipedia.org/wiki/Gary_Puckett_%26_The_Union_Gap ,nominee,,,,77e92ee5-1a51-472e-b03e-3366663cf793
+1970.0,"Crosby, Stills & Nash",,"https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_%26_Young ",winner,,,,cfafad90-b736-4c74-8ded-f3f4d7b2c792
+1970.0,Chicago,,https://en.wikipedia.org/wiki/Chicago_(band) ,nominee,,,,3f5be744-e867-42fb-8913-5fd69e4099b5
+1970.0,Led Zeppelin,,https://en.wikipedia.org/wiki/Led_Zeppelin ,nominee,,,,678d88b2-87b0-403b-b63d-5da7465aecc3
+1970.0,Oliver,,https://en.wikipedia.org/wiki/Oliver_(singer) ,nominee,,,,1cc0ead3-dc64-481b-a00c-4dbb1614fe1a
+1970.0,The Neon Philharmonic,,https://en.wikipedia.org/wiki/The_Neon_Philharmonic ,nominee,,,,f05b1ac0-4904-4b8b-963d-9e65ce68a086
+1971.0,Melba Moore,,https://en.wikipedia.org/wiki/Melba_Moore ,nominee,,,,3dd35366-4551-4818-bc87-c0fd83f002b1
+1971.0,The Partridge Family,,https://en.wikipedia.org/wiki/The_Partridge_Family ,nominee,,,,3376b487-95b4-42e6-b7f4-71cffffcad97
+1972.0,Chase,,https://en.wikipedia.org/wiki/Chase_(band) ,nominee,,,,82e454e2-38ee-4e69-89a6-cc65167753d1
+1972.0,"Emerson, Lake & Palmer",,"https://en.wikipedia.org/wiki/Emerson,_Lake_%26_Palmer ",nominee,,,,ad996aef-cc1c-42ac-af5c-619c370f4b8a
+1972.0,"Hamilton, Joe Frank & Reynolds",,"https://en.wikipedia.org/wiki/Hamilton,_Joe_Frank_%26_Reynolds ",nominee,,,,a2fcf471-0fca-44b1-b074-ec45ad59e205
+1973.0,America,,https://en.wikipedia.org/wiki/America_(band) ,winner,,,,34cf95c7-4be9-4efd-a48a-c2ea4a0bb114
+1973.0,Harry Chapin,,https://en.wikipedia.org/wiki/Harry_Chapin ,nominee,,,,ae4e3542-7838-4a6f-b753-08216be5a6bb
+1973.0,Eagles,,https://en.wikipedia.org/wiki/Eagles_(band) ,nominee,,,,f46bd570-5768-462e-b84c-c7c993bbf47e
+1973.0,Loggins and Messina,,https://en.wikipedia.org/wiki/Loggins_and_Messina ,nominee,,,,aef6e491-3121-4048-b035-4704a9ce0716
+1973.0,John Prine,,https://en.wikipedia.org/wiki/John_Prine ,nominee,,,,e86492c1-0376-4df0-8042-8ba058c83960
+1974.0,Eumir Deodato,,https://en.wikipedia.org/wiki/Eumir_Deodato ,nominee,,,,4b6d948c-372d-44e0-ba09-a649cc0e5c76
+1974.0,Maureen McGovern,,https://en.wikipedia.org/wiki/Maureen_McGovern ,nominee,,,,db3ed2cd-ede2-472e-ae20-b4aeae16e5f8
+1974.0,Marie Osmond,,https://en.wikipedia.org/wiki/Marie_Osmond ,nominee,,,,5d8f1ebd-6b28-420a-ab15-75b9bc12f7d6
+1974.0,Barry White,,https://en.wikipedia.org/wiki/Barry_White ,nominee,,,,b904d624-9e05-4398-8f4f-88fbcf022f79
+1975.0,Marvin Hamlisch,,https://en.wikipedia.org/wiki/Marvin_Hamlisch ,winner,,,,fd9f268a-89ef-4577-81f4-efebc9517a07
+1975.0,Bad Company,,https://en.wikipedia.org/wiki/Bad_Company ,nominee,,,,0053dbd9-bfbc-4e38-9f08-66a27d914c38
+1975.0,Johnny Bristol,,https://en.wikipedia.org/wiki/Johnny_Bristol ,nominee,,,,487672a5-469e-432d-aff7-f8f647e2dfdd
+1975.0,David Essex,,https://en.wikipedia.org/wiki/David_Essex ,nominee,,,,822e180a-061a-4da0-a1f3-35e8bdf5f240
+1975.0,Graham Central Station,,https://en.wikipedia.org/wiki/Graham_Central_Station ,nominee,,,,e11c5e9a-8b3a-44c2-9a71-b7a00b5fb8d5
+1975.0,Phoebe Snow,,https://en.wikipedia.org/wiki/Phoebe_Snow ,nominee,,,,d3986756-f1dd-4635-9510-2d116c0deddd
+1976.0,Amazing Rhythm Aces,,https://en.wikipedia.org/wiki/Amazing_Rhythm_Aces ,nominee,,,,c0b6ccb6-fb87-4594-98fb-370120d2b6e8
+1976.0,Brecker Brothers,,https://en.wikipedia.org/wiki/Brecker_Brothers ,nominee,,,,46bdb0fa-6db1-44ea-b7b1-57de05b2cba1
+1976.0,KC and the Sunshine Band,,https://en.wikipedia.org/wiki/KC_and_the_Sunshine_Band ,nominee,,,,76a5a114-ed6a-4eb6-8a81-ad5768d4b41c
+1977.0,Boston,,https://en.wikipedia.org/wiki/Boston_(band) ,nominee,,,,0d8b0d50-e4cf-4da4-965d-f24c58ec3268
+1977.0,The Brothers Johnson,,https://en.wikipedia.org/wiki/The_Brothers_Johnson ,nominee,,,,cfb830a4-66ca-4d81-a099-033883b39ad8
+1977.0,Dr. Buzzard's Original Savannah Band,,https://en.wikipedia.org/wiki/Dr._Buzzard%27s_Original_Savannah_Band ,nominee,,,,3fb11c9d-aafe-4af7-b03f-2324d012fac1
+1977.0,Wild Cherry,,https://en.wikipedia.org/wiki/Wild_Cherry_(band) ,nominee,,,,da5ff827-174b-48d1-9a39-9fa290bb2925
+1978.0,Debby Boone,,https://en.wikipedia.org/wiki/Debby_Boone ,winner,,,,31e28f7f-8b87-4003-99eb-e15b058e96d9
+1978.0,Stephen Bishop,,https://en.wikipedia.org/wiki/Stephen_Bishop_(musician) ,nominee,,,,6cf4f18c-2455-47ed-9f6c-953e2f107406
+1978.0,Shaun Cassidy,,https://en.wikipedia.org/wiki/Shaun_Cassidy ,nominee,,,,df9ed132-5b6a-4e7d-a468-033cffc21947
+1978.0,Andy Gibb,,https://en.wikipedia.org/wiki/Andy_Gibb ,nominee,,,,f1d174fc-6bd9-41fe-b4c8-972ab578fb5c
+1979.0,A Taste of Honey,,https://en.wikipedia.org/wiki/A_Taste_of_Honey_(band) ,winner,,,,8fb61843-e724-41b4-86bd-6e3b3dfe9c6e
+1979.0,The Cars,,https://en.wikipedia.org/wiki/The_Cars ,nominee,,,,092b603f-eb4c-4958-b10e-02420de5885b
+1979.0,Elvis Costello,,https://en.wikipedia.org/wiki/Elvis_Costello ,nominee,,,,8a338e06-d182-46f2-bd16-30a09bc840ba
+1979.0,Chris Rea,,https://en.wikipedia.org/wiki/Chris_Rea ,nominee,,,,c707b37e-cb5c-4694-be4d-46beefcb2475
+1980.0,The Blues Brothers,,https://en.wikipedia.org/wiki/The_Blues_Brothers ,nominee,,,,fcd7aa10-eb1d-4486-8d54-7a734969ce90
+1980.0,The Knack,,https://en.wikipedia.org/wiki/The_Knack ,nominee,,,,435ccd03-20f6-42aa-97e3-275b82dc2f6f
+1980.0,Robin Williams,,https://en.wikipedia.org/wiki/Robin_Williams ,nominee,,,,536e8e61-8040-40a1-8b35-a2c6996dc44f
+1981.0,Robbie Dupree,,https://en.wikipedia.org/wiki/Robbie_Dupree ,nominee,,,,4981fd19-16b6-4393-ae72-3f6e427ed677
+1981.0,Amy Holland,,https://en.wikipedia.org/wiki/Amy_Holland ,nominee,,,,8439a325-3bdf-4c47-a7af-55dfc7c42c11
+1981.0,The Pretenders,,https://en.wikipedia.org/wiki/The_Pretenders ,nominee,,,,75ffaf7d-46ee-4794-a405-9ec20c0c1696
+1982.0,Sheena Easton,,https://en.wikipedia.org/wiki/Sheena_Easton ,winner,,,,7b004920-b04e-4ff2-b2e5-55d8f1cc0522
+1982.0,Adam and the Ants,,https://en.wikipedia.org/wiki/Adam_and_the_Ants ,nominee,,,,75d4f194-969c-4538-b789-742f3eb3d02c
+1982.0,The Go-Go's,,https://en.wikipedia.org/wiki/The_Go-Go%27s ,nominee,,,,dae9c45a-6f2f-4ab0-ac49-4147568a89cf
+1983.0,Men at Work,,https://en.wikipedia.org/wiki/Men_at_Work ,winner,,,,395cc503-63b5-4a0b-a20a-604e3fcacea2
+1983.0,Asia,,https://en.wikipedia.org/wiki/Asia_(band) ,nominee,,,,8f695099-c714-4ad0-8888-36eca37fee84
+1983.0,Jennifer Holliday,,https://en.wikipedia.org/wiki/Jennifer_Holliday ,nominee,,,,52a315e2-5bf1-49fe-b666-fca924c8a0d4
+1983.0,The Human League,,https://en.wikipedia.org/wiki/The_Human_League ,nominee,,,,7adaabfb-acfb-47bc-8c7c-59471c2f0db8
+1983.0,Stray Cats,,https://en.wikipedia.org/wiki/Stray_Cats ,nominee,,,,0e763b87-f3cd-4a63-986f-bebc4189f1f0
+1984.0,Culture Club,,https://en.wikipedia.org/wiki/Culture_Club ,winner,,,,81435053-e1a2-48a4-adfd-e89f310c7b38
+1984.0,Big Country,,https://en.wikipedia.org/wiki/Big_Country ,nominee,,,,b4013ff1-d7ce-4b1a-af6e-e0b19ca7f378
+1984.0,Eurythmics,,https://en.wikipedia.org/wiki/Eurythmics ,nominee,,,,b4d32cff-f19e-455f-86c4-f347d824ca61
+1984.0,Men Without Hats,,https://en.wikipedia.org/wiki/Men_Without_Hats ,nominee,,,,bcabb743-60ed-406b-94da-9bf82e032e58
+1984.0,Musical Youth,,https://en.wikipedia.org/wiki/Musical_Youth ,nominee,,,,1a3e7a10-72ed-4591-a363-c1e3bc92fc09
+1985.0,Sheila E.,,https://en.wikipedia.org/wiki/Sheila_E. ,nominee,,,,e6e4b25d-37d7-4fc1-9022-2b83a298fad8
+1985.0,Frankie Goes to Hollywood,,https://en.wikipedia.org/wiki/Frankie_Goes_to_Hollywood ,nominee,,,,c09c8263-40ef-4352-8031-e438b1ce68fc
+1985.0,Corey Hart,,https://en.wikipedia.org/wiki/Corey_Hart_(singer) ,nominee,,,,32673e42-5ba2-4528-b3fe-a000a0c606e3
+1985.0,The Judds,,https://en.wikipedia.org/wiki/The_Judds ,nominee,,,,ae2d4af4-6b37-42f9-80d3-052ee958515b
+1986.0,Sade,,https://en.wikipedia.org/wiki/Sade_(band) ,winner,,,,67930b3e-e00b-469f-8c74-fd69f20522ec
+1986.0,A-ha,,https://en.wikipedia.org/wiki/A-ha ,nominee,,,,7364dea6-ca9a-48e3-be01-b44ad0d19897
+1986.0,Freddie Jackson,,https://en.wikipedia.org/wiki/Freddie_Jackson ,nominee,,,,ddf4255f-ccc9-44c0-8f1e-b325d51ee82f
+1986.0,Katrina and the Waves,,https://en.wikipedia.org/wiki/Katrina_and_the_Waves ,nominee,,,,a57505c9-6b43-4861-a498-fe00b349d591
+1986.0,Julian Lennon,,https://en.wikipedia.org/wiki/Julian_Lennon ,nominee,,,,fbe1a6d6-12c9-459e-bf73-fdcc76b14b7e
+1987.0,Bruce Hornsby,,https://en.wikipedia.org/wiki/Bruce_Hornsby ,winner,,,,e60dbba7-6f55-429a-bd22-5e9c6a87ae70
+1987.0,Glass Tiger,,https://en.wikipedia.org/wiki/Glass_Tiger ,nominee,,,,c70eb51f-3492-43f2-849e-74f9003621e3
+1987.0,Nu Shooz,,https://en.wikipedia.org/wiki/Nu_Shooz ,nominee,,,,5e709ff3-170e-40ff-83ad-ecfb3030ad38
+1987.0,Simply Red,,https://en.wikipedia.org/wiki/Simply_Red ,nominee,,,,a9100753-f539-43cf-bcc9-579566fb512e
+1987.0,Timbuk3,,https://en.wikipedia.org/wiki/Timbuk3 ,nominee,,,,
+1988.0,Jody Watley,,https://en.wikipedia.org/wiki/Jody_Watley ,winner,,,,699e687d-9e77-4fd0-9b7a-54d2aaadf05b
+1988.0,Breakfast Club,,https://en.wikipedia.org/wiki/Breakfast_Club_(band) ,nominee,,,,df19b09e-a53f-4d7f-b364-5ae4b05e6c4a
+1988.0,Cutting Crew,,https://en.wikipedia.org/wiki/Cutting_Crew ,nominee,,,,2aa79fa9-7ac0-443b-b250-18d67227a1cb
+1988.0,Terence Trent D'Arby,,https://en.wikipedia.org/wiki/Terence_Trent_D%27Arby ,nominee,,,,91f603ca-b126-42a2-9c29-820ca687347c
+1988.0,Swing Out Sister,,https://en.wikipedia.org/wiki/Swing_Out_Sister ,nominee,,,,d12b5853-71eb-41d9-8d18-a4259477848a
+1989.0,Rick Astley,,https://en.wikipedia.org/wiki/Rick_Astley ,nominee,,,,db92a151-1ac2-438b-bc43-b82e149ddd50
+1989.0,Toni Childs,,https://en.wikipedia.org/wiki/Toni_Childs ,nominee,,,,dc4dd336-2299-4d7d-9514-b4f2cd8d0297
+1989.0,Take 6,,https://en.wikipedia.org/wiki/Take_6 ,nominee,,,,abbbef3b-19d7-4ef8-9ef2-e4d2c556509c
+1989.0,Vanessa L. Williams,,https://en.wikipedia.org/wiki/Vanessa_L._Williams ,nominee,,,,
+1990.0,Milli Vanilli,,https://en.wikipedia.org/wiki/Milli_Vanilli ,winner,,,,d3d83a98-4a2e-433c-903c-5b4c79ccb42e
+1990.0,Neneh Cherry,,https://en.wikipedia.org/wiki/Neneh_Cherry ,nominee,,,,527c65d1-9fdb-4482-8796-dde2980bd63a
+1990.0,Indigo Girls,,https://en.wikipedia.org/wiki/Indigo_Girls ,nominee,,,,00c49f40-d715-4b79-b223-432048602cce
+1990.0,Tone Lōc,,https://en.wikipedia.org/wiki/Tone_L%C5%8Dc ,nominee,,,,16da4997-78e1-4837-85f6-9247d10cde1f
+1990.0,Soul II Soul,,https://en.wikipedia.org/wiki/Soul_II_Soul ,nominee,,,,9350241a-d698-4489-92bf-41794f383ff3
+1991.0,The Black Crowes,,https://en.wikipedia.org/wiki/The_Black_Crowes ,nominee,,,,02ceff75-7363-493e-a78d-912dc86c7460
+1991.0,The Kentucky Headhunters,,https://en.wikipedia.org/wiki/The_Kentucky_Headhunters ,nominee,,,,885e66f0-8485-451d-9893-5552260b788d
+1991.0,Lisa Stansfield,,https://en.wikipedia.org/wiki/Lisa_Stansfield ,nominee,,,,8f632c44-c97f-4b12-b1cd-caf2c6e2ed06
+1992.0,Boyz II Men,,https://en.wikipedia.org/wiki/Boyz_II_Men ,nominee,,,,b42eca0f-9381-43db-badb-1cba080a7dc2
+1992.0,C+C Music Factory,,https://en.wikipedia.org/wiki/C%2BC_Music_Factory ,nominee,,,,c9d4f63d-6c2c-47ae-84fe-819001e3d3ea
+1992.0,Color Me Badd,,https://en.wikipedia.org/wiki/Color_Me_Badd ,nominee,,,,c7f33343-7870-4e03-9892-65ad81d18db5
+1993.0,Arrested Development,,https://en.wikipedia.org/wiki/Arrested_Development_(group) ,winner,,,,d8b15d32-609e-44a6-bff1-65c4df53a9f1
+1993.0,Sophie B. Hawkins,,https://en.wikipedia.org/wiki/Sophie_B._Hawkins ,nominee,,,,fd7a8bc1-1b25-4b4c-b899-8f7b3343a229
+1993.0,Kris Kross,,https://en.wikipedia.org/wiki/Kris_Kross ,nominee,,,,bf61e8ff-7621-4655-8ebd-68210645c5e9
+1993.0,Jon Secada,,https://en.wikipedia.org/wiki/Jon_Secada ,nominee,,,,01d76a27-ee74-4e50-9383-b2f0683bae76
+1994.0,Toni Braxton,,https://en.wikipedia.org/wiki/Toni_Braxton ,winner,,,,3c8a8696-e176-4c46-a2d3-48b6b1525c7f
+1994.0,Belly,,https://en.wikipedia.org/wiki/Belly_(band) ,nominee,,,,ddcfbdcf-cf8d-4776-8a69-10f39376b5a2
+1994.0,Blind Melon,,https://en.wikipedia.org/wiki/Blind_Melon ,nominee,,,,38c5cdab-5d6d-43d1-85b0-dac41bde186e
+1994.0,Digable Planets,,https://en.wikipedia.org/wiki/Digable_Planets ,nominee,,,,ff44f779-74ab-48f8-aac3-39ebe8f7c18e
+1994.0,SWV,,https://en.wikipedia.org/wiki/SWV ,nominee,,,,fffc6a35-ae65-48be-bcc0-9d604e05665e
+1995.0,Ace of Base,,https://en.wikipedia.org/wiki/Ace_of_Base ,nominee,,,,d4a1404d-e00c-4bac-b3ba-e3557f6468d6
+1995.0,Counting Crows,,https://en.wikipedia.org/wiki/Counting_Crows ,nominee,,,,a0327dc2-dc76-44d5-aec6-47cd2dff1469
+1995.0,Crash Test Dummies,,https://en.wikipedia.org/wiki/Crash_Test_Dummies ,nominee,,,,afb8f901-d846-4c70-a898-59bc183d1da7
+1995.0,Green Day,,https://en.wikipedia.org/wiki/Green_Day ,nominee,,,,084308bd-1654-436f-ba03-df6697104e19
+1996.0,Hootie & the Blowfish,,https://en.wikipedia.org/wiki/Hootie_%26_the_Blowfish ,winner,,,,b3120863-d98d-4bad-a637-8abd8cde6685
+1996.0,Brandy,,https://en.wikipedia.org/wiki/Brandy_Norwood ,nominee,,,,01e60eba-52df-4694-8f09-39f43abe54e9
+1997.0,Garbage,,https://en.wikipedia.org/wiki/Garbage_(band) ,nominee,,,,f9ef7a22-4262-4596-a2a8-1d19345b8e50
+1997.0,Jewel,,https://en.wikipedia.org/wiki/Jewel_(singer) ,nominee,,,,abae8575-ec8a-4736-abc3-1ad5093a68aa
+1997.0,The Tony Rich Project,,https://en.wikipedia.org/wiki/The_Tony_Rich_Project ,nominee,,,,
+1998.0,Fiona Apple,,https://en.wikipedia.org/wiki/Fiona_Apple ,nominee,,,,a9ee533f-8871-4f62-a6bb-91eb264abc90
+1998.0,Erykah Badu,,https://en.wikipedia.org/wiki/Erykah_Badu ,nominee,,,,321531fc-db73-4ffa-a959-61a61a2908c1
+1998.0,Hanson,,https://en.wikipedia.org/wiki/Hanson_(band) ,nominee,,,,3c0a0074-4f26-4d3b-b723-a66bf6cc3753
+1998.0,Puff Daddy,,https://en.wikipedia.org/wiki/Sean_Combs ,nominee,,,,2072f699-049a-4b78-b039-317a1c7cff94
+1999.0,Lauryn Hill,,https://en.wikipedia.org/wiki/Lauryn_Hill ,winner,,,,e8414012-4a1c-4ad4-be5e-fc55294e28cc
+1999.0,Andrea Bocelli,,https://en.wikipedia.org/wiki/Andrea_Bocelli ,nominee,,,,c5a0a216-c33c-42dc-92b8-4b60236f8dad
+1999.0,Natalie Imbruglia,,https://en.wikipedia.org/wiki/Natalie_Imbruglia ,nominee,,,,60530915-9371-4b16-bc31-5c4456317ae0
+2000.0,Kid Rock,,https://en.wikipedia.org/wiki/Kid_Rock ,nominee,,,,ad0ecd8b-805e-406e-82cb-5b00c3a3a29e
+2000.0,Britney Spears,,https://en.wikipedia.org/wiki/Britney_Spears ,nominee,,,,45a663b5-b1cb-4a91-bff6-2bef7bbfdd76
+2000.0,Susan Tedeschi,,https://en.wikipedia.org/wiki/Susan_Tedeschi ,nominee,,,,deabe097-2a03-49ce-9ae3-c9645bc778c7
+2001.0,Shelby Lynne,,https://en.wikipedia.org/wiki/Shelby_Lynne ,winner,,,,f4992dae-69f2-4c0d-95fa-0b65f47906f2
+2001.0,Brad Paisley,,https://en.wikipedia.org/wiki/Brad_Paisley ,nominee,,,,6cfd7ffc-824f-4219-8e27-4b9417700f44
+2001.0,Papa Roach,,https://en.wikipedia.org/wiki/Papa_Roach ,nominee,,,,c5eb9407-caeb-4303-b383-6929aa94021c
+2001.0,Jill Scott,,https://en.wikipedia.org/wiki/Jill_Scott_(singer) ,nominee,,,,b1fb6a18-1626-4011-80fb-eaf83dfebcb6
+2001.0,Sisqó,,https://en.wikipedia.org/wiki/Sisq%C3%B3 ,nominee,,,,25e0497c-faa4-4765-b232-baa20e5e35a7
+2002.0,India Arie,,https://en.wikipedia.org/wiki/India_Arie ,nominee,,,,
+2002.0,David Gray,,https://en.wikipedia.org/wiki/David_Gray_(British_musician) ,nominee,,,,3e8bd859-7d82-49e0-b267-84fc46e2bf68
+2002.0,Linkin Park,,https://en.wikipedia.org/wiki/Linkin_Park ,nominee,,,,f59c5520-5f46-4d2c-b2c4-822eabf53419
+2003.0,Ashanti,,https://en.wikipedia.org/wiki/Ashanti_(singer) ,nominee,,,,a47ed6d5-480e-428c-8ce9-d7a6a571e857
+2003.0,Michelle Branch,,https://en.wikipedia.org/wiki/Michelle_Branch ,nominee,,,,a10f94a9-2a3c-4166-b9fa-a7bed0bf7d96
+2004.0,Evanescence,,https://en.wikipedia.org/wiki/Evanescence ,winner,,,,f4a31f0a-51dd-4fa7-986d-3095c40c5ed9
+2004.0,50 Cent,,https://en.wikipedia.org/wiki/50_Cent ,nominee,,,,8e68819d-71be-4e7d-b41d-f1df81b01d3f
+2004.0,Fountains of Wayne,,https://en.wikipedia.org/wiki/Fountains_of_Wayne ,nominee,,,,0f82d6b5-12fb-4569-b047-a00194f572a7
+2004.0,Heather Headley,,https://en.wikipedia.org/wiki/Heather_Headley ,nominee,,,,a373933d-555c-446f-a7a2-b8b8a291659f
+2004.0,Sean Paul,,https://en.wikipedia.org/wiki/Sean_Paul ,nominee,,,,c3da3346-2643-48a7-93cd-011f6834b3d7
+2005.0,Maroon 5,,https://en.wikipedia.org/wiki/Maroon_5 ,winner,,,,0ab49580-c84f-44d4-875f-d83760ea2cfe
+2005.0,Los Lonely Boys,,https://en.wikipedia.org/wiki/Los_Lonely_Boys ,nominee,,,,98fe243c-3685-4491-8135-edc713963be4
+2005.0,Joss Stone,,https://en.wikipedia.org/wiki/Joss_Stone ,nominee,,,,dbbc47a5-1338-4830-9298-a8d0b11c0a46
+2005.0,Gretchen Wilson,,https://en.wikipedia.org/wiki/Gretchen_Wilson ,nominee,,,,11d9fc14-e6ac-4c50-81e7-062dd82566ce
+2006.0,Ciara,,https://en.wikipedia.org/wiki/Ciara ,nominee,,,,03172286-f7ed-4864-a4db-459cd5ca9790
+2006.0,Fall Out Boy,,https://en.wikipedia.org/wiki/Fall_Out_Boy ,nominee,,,,516cef4d-0718-4007-9939-f9b38af3f784
+2006.0,Keane,,https://en.wikipedia.org/wiki/Keane_(band) ,nominee,,,,c7020c6d-cae9-4db3-92a7-e5c561cbad50
+2006.0,Sugarland,,https://en.wikipedia.org/wiki/Sugarland ,nominee,,,,f87b740a-c22b-4fae-9987-1f3e16f840c4
+2007.0,Chris Brown,,https://en.wikipedia.org/wiki/Chris_Brown ,nominee,,,,c234fa42-e6a6-443e-937e-2f4b073538a3
+2007.0,Imogen Heap,,https://en.wikipedia.org/wiki/Imogen_Heap ,nominee,,,,328d146c-79f1-4eb6-9e40-8ee5710c14e5
+2008.0,Feist,,https://en.wikipedia.org/wiki/Feist_(singer) ,nominee,,,,a670e05a-cea8-4b37-bce9-d82daf1a0fa4
+2008.0,Ledisi,,https://en.wikipedia.org/wiki/Ledisi ,nominee,,,,617a2fbd-fef9-420f-981c-bda2ca103d38
+2008.0,Paramore,,https://en.wikipedia.org/wiki/Paramore ,nominee,,,,44cf61b8-5197-448a-b82b-cef6ee89fac5
+2009.0,Duffy,,https://en.wikipedia.org/wiki/Duffy_(singer) ,nominee,,,,2c4dae8c-e591-49e0-9c5a-62b310a15788
+2009.0,Jonas Brothers,,https://en.wikipedia.org/wiki/Jonas_Brothers ,nominee,,,,6e019bc6-5c23-4935-94f0-4a896631d846
+2009.0,Jazmine Sullivan,,https://en.wikipedia.org/wiki/Jazmine_Sullivan ,nominee,,,,6f92929a-6381-48ac-b348-83b43b9cf646
+2010.0,Zac Brown Band,,https://en.wikipedia.org/wiki/Zac_Brown_Band ,winner,,,,507226f4-0842-4f43-950e-81a7017230ec
+2010.0,Keri Hilson,,https://en.wikipedia.org/wiki/Keri_Hilson ,nominee,,,,b76c616a-ec0d-4f0c-b986-f249c4a04d77
+2010.0,MGMT,,https://en.wikipedia.org/wiki/MGMT ,nominee,,,,c485632c-b784-4ee9-8ea1-c5fb365681fc
+2010.0,Silversun Pickups,,https://en.wikipedia.org/wiki/Silversun_Pickups ,nominee,,,,b5bd9f88-962e-4730-84a7-795592ba42e8
+2010.0,The Ting Tings,,https://en.wikipedia.org/wiki/The_Ting_Tings ,nominee,,,,e618770f-e994-41c3-856f-1eedf56b6d74
+2011.0,Esperanza Spalding,,https://en.wikipedia.org/wiki/Esperanza_Spalding ,winner,,,,5c12b265-5e59-44e0-b657-5cf4169f7316
+2011.0,Florence and the Machine,,https://en.wikipedia.org/wiki/Florence_and_the_Machine ,nominee,,,,
+2011.0,Mumford & Sons,,https://en.wikipedia.org/wiki/Mumford_%26_Sons ,nominee,,,,c44e9c22-ef82-4a77-9bcd-af6c958446d6
+2012.0,The Band Perry,,https://en.wikipedia.org/wiki/The_Band_Perry ,nominee,,,,28955336-2348-488a-9381-e3a7b0107343
+2012.0,J. Cole,,https://en.wikipedia.org/wiki/J._Cole ,nominee,,,,875203e1-8e58-4b86-8dcb-7190faf411c5
+2012.0,Nicki Minaj,,https://en.wikipedia.org/wiki/Nicki_Minaj ,nominee,,,,1036b808-f58c-4a3e-b461-a2c4492ecf1b
+2012.0,Skrillex,,https://en.wikipedia.org/wiki/Skrillex ,nominee,,,,ae002c5d-aac6-490b-a39a-30aa9e2edf2b
+2013.0,Alabama Shakes,,https://en.wikipedia.org/wiki/Alabama_Shakes ,nominee,,,,40419b33-18e9-4d5a-a674-30b4bb14bac2
+2013.0,Hunter Hayes,,https://en.wikipedia.org/wiki/Hunter_Hayes ,nominee,,,,0c75ddc6-2b5d-4b01-8c99-3d9479a14683
+2013.0,The Lumineers,,https://en.wikipedia.org/wiki/The_Lumineers ,nominee,,,,bfcb6630-9b31-4e63-b11f-7b0363be72b5
+2013.0,Frank Ocean,,https://en.wikipedia.org/wiki/Frank_Ocean ,nominee,,,,e520459c-dff4-491d-a6e4-c97be35e0044
+2014.0,Macklemore & Ryan Lewis,,https://en.wikipedia.org/wiki/Macklemore_%26_Ryan_Lewis ,winner,,,,97b226c8-7140-4da3-91ac-15e62e131a81
+2014.0,James Blake,,https://en.wikipedia.org/wiki/James_Blake_(musician) ,nominee,,,,8dc08b1f-e393-4f85-a5dd-300f7693a8b8
+2014.0,Kacey Musgraves,,https://en.wikipedia.org/wiki/Kacey_Musgraves ,nominee,,,,d1393ecb-431b-4fde-a6ea-d769f2f040cb
+2015.0,Iggy Azalea,,https://en.wikipedia.org/wiki/Iggy_Azalea ,nominee,,,,3a052c99-8c18-484a-8beb-9873b4fb3106
+2015.0,Bastille,,https://en.wikipedia.org/wiki/Bastille_(band) ,nominee,,,,7808accb-6395-4b25-858c-678bbb73896b
+2015.0,Brandy Clark,,https://en.wikipedia.org/wiki/Brandy_Clark ,nominee,,,,d264a026-7485-4d3a-b4f1-f13fea5c76e2
+2015.0,Haim,,https://en.wikipedia.org/wiki/Haim_(band) ,nominee,,,,aef06569-098f-4218-a577-b413944d9493
+2016.0,Courtney Barnett,,https://en.wikipedia.org/wiki/Courtney_Barnett ,nominee,,,,55111838-f001-494a-a1b5-9d818db85810
+2016.0,James Bay,,https://en.wikipedia.org/wiki/James_Bay_(singer) ,nominee,,,,6a997121-0919-482b-a91b-c6fe1b55a4b9
+2016.0,Sam Hunt,,https://en.wikipedia.org/wiki/Sam_Hunt_(musician) ,nominee,,,,b27229bb-5669-4e98-b4ce-0158b2451fe8
+2016.0,Tori Kelly,,https://en.wikipedia.org/wiki/Tori_Kelly ,nominee,,,,e4b87494-a5eb-439d-b3bf-5f1b46d4dc6b
+2017.0,Chance the Rapper,,https://en.wikipedia.org/wiki/Chance_the_Rapper ,winner,,,,373a4c98-a46b-48e4-86ec-f6ca65b4f438
+2017.0,Kelsea Ballerini,,https://en.wikipedia.org/wiki/Kelsea_Ballerini ,nominee,,,,779d1126-e48c-43f2-8b51-005f3b116d7e
+2017.0,The Chainsmokers,,https://en.wikipedia.org/wiki/The_Chainsmokers ,nominee,,,,91a81925-92f9-4fc9-b897-93cf01226282
+2017.0,Anderson .Paak,,https://en.wikipedia.org/wiki/Anderson_.Paak ,nominee,,,,d02dd67e-f655-4600-bc47-f789f59e7367
+2018.0,Lil Uzi Vert,,https://en.wikipedia.org/wiki/Lil_Uzi_Vert ,nominee,,,,8837b875-3689-4646-b3fd-d8b53815c7a8
+2019.0,Chloe x Halle,,https://en.wikipedia.org/wiki/Chloe_x_Halle ,nominee,,,,
+2019.0,Luke Combs,,https://en.wikipedia.org/wiki/Luke_Combs ,nominee,,,,c20ee61f-071f-4e65-9c81-45ee931a54ce
+2019.0,Greta Van Fleet,,https://en.wikipedia.org/wiki/Greta_Van_Fleet ,nominee,,,,0be22557-d8c7-4706-a531-625c4c570162
+2019.0,Margo Price,,https://en.wikipedia.org/wiki/Margo_Price ,nominee,,,,b53b9322-7d65-4b17-ae4c-9190d347fcea
+2019.0,Bebe Rexha,,https://en.wikipedia.org/wiki/Bebe_Rexha ,nominee,,,,db8fad3a-e131-47a1-8782-c2ee93708cdd
+2019.0,Jorja Smith,,https://en.wikipedia.org/wiki/Jorja_Smith ,nominee,,,,d62614aa-ef2c-44cd-8a7b-91292755a1d0
+2020.0,Black Pumas,,https://en.wikipedia.org/wiki/Black_Pumas ,nominee,,,,dd569857-d15e-4dbe-baad-b46a5ffe34a0
+2020.0,Maggie Rogers,,https://en.wikipedia.org/wiki/Maggie_Rogers ,nominee,,,,dde26295-8cd4-474c-8740-3edb801b2776
+2020.0,Rosalía,,https://en.wikipedia.org/wiki/Rosal%C3%ADa_(singer) ,nominee,,,,25f3abd9-63b5-471a-bd25-feb9672dfa11
+2020.0,Tank and the Bangas,,https://en.wikipedia.org/wiki/Tank_and_the_Bangas ,nominee,,,,8fc9137a-742f-42bd-988f-1794673c28ea
+2020.0,Yola,,https://en.wikipedia.org/wiki/Yola_(singer) ,nominee,,,,a690d479-091c-4c4c-aa5c-7d1d512316c6
+2021.0,Megan Thee Stallion,,https://en.wikipedia.org/wiki/Megan_Thee_Stallion ,winner,,,,ee27b2d8-648c-4a9d-a68c-e55066959975
+2021.0,Ingrid Andress,,https://en.wikipedia.org/wiki/Ingrid_Andress ,nominee,,,,3ae306a3-b2a6-4969-b59f-89f0370549e5
+2021.0,Phoebe Bridgers,,https://en.wikipedia.org/wiki/Phoebe_Bridgers ,nominee,,,,96855c21-b832-4366-ba12-0d2330c36a86
+2021.0,Chika,,https://en.wikipedia.org/wiki/Chika_(rapper) ,nominee,,,,e2203e1f-8091-4d19-8ff8-a5870b6dc5d9
+2021.0,Noah Cyrus,,https://en.wikipedia.org/wiki/Noah_Cyrus ,nominee,,,,5df148ae-78eb-495a-8a0b-d16f3105992d
+2021.0,D Smoke,,https://en.wikipedia.org/wiki/D_Smoke ,nominee,,,,9b32eab4-d025-4132-b764-b4ef33bf1138
+2021.0,Kaytranada,,https://en.wikipedia.org/wiki/Kaytranada ,nominee,,,,e56aee57-d90e-40cf-a70d-beb70f6f3c69
+2022.0,Arooj Aftab,,https://en.wikipedia.org/wiki/Arooj_Aftab ,nominee,,,,12d0b276-b102-4779-ac35-6939c584d9da
+2022.0,Jimmie Allen,,https://en.wikipedia.org/wiki/Jimmie_Allen ,nominee,,,,33f3276d-4d1a-46b1-9949-bbacfee41651
+2022.0,Baby Keem,,https://en.wikipedia.org/wiki/Baby_Keem ,nominee,,,,81d12ca7-5b89-4d21-8736-860b7400b4eb
+2022.0,Finneas,,https://en.wikipedia.org/wiki/Finneas_O%27Connell ,nominee,,,,151cd917-1ee2-4702-859f-90899ad897f8
+2022.0,Glass Animals,,https://en.wikipedia.org/wiki/Glass_Animals ,nominee,,,,20395131-fbde-43ce-b141-b700cfdae99c
+2022.0,Japanese Breakfast,,https://en.wikipedia.org/wiki/Japanese_Breakfast ,nominee,,,,8c529495-91f5-4e2f-b71b-adcb66878d04
+2022.0,The Kid Laroi,,https://en.wikipedia.org/wiki/The_Kid_Laroi ,nominee,,,,80609a00-b394-4a49-975b-2db6b543fa97
+2022.0,Arlo Parks,,https://en.wikipedia.org/wiki/Arlo_Parks ,nominee,,,,6e8e3717-a62d-4a3f-886d-6a4e82507930
+2022.0,Saweetie,,https://en.wikipedia.org/wiki/Saweetie ,nominee,,,,72d424d0-c349-4164-ae3e-8e5274f97b98
+2023.0,Samara Joy,,https://en.wikipedia.org/wiki/Samara_Joy ,winner,,,,bf9bd7ab-57f1-426e-bf4f-2da6103b9c17
+2023.0,Anitta,,https://en.wikipedia.org/wiki/Anitta_(singer) ,nominee,,,,d606b860-cc03-4959-a3fd-3a24bccf2560
+2023.0,Omar Apollo,,https://en.wikipedia.org/wiki/Omar_Apollo ,nominee,,,,0b966a38-5ad9-43c1-b86b-c07079523165
+2023.0,Domi & JD Beck,,https://en.wikipedia.org/wiki/Domi_%26_JD_Beck ,nominee,,,,bbe3ca80-7fb3-4a7f-acef-071606af0d3d
+2023.0,Latto,,https://en.wikipedia.org/wiki/Latto ,nominee,,,,355cc194-b8db-4af2-8678-c7ad54213f4b
+2023.0,Måneskin,,https://en.wikipedia.org/wiki/M%C3%A5neskin ,nominee,,,,3862342a-43c4-4cdb-8250-bfdbfb5e1419
+2023.0,Muni Long,,https://en.wikipedia.org/wiki/Muni_Long ,nominee,,,,66acfbaf-a28e-49c1-aeff-ef92e4358d90
+2023.0,Tobe Nwigwe,,https://en.wikipedia.org/wiki/Tobe_Nwigwe ,nominee,,,,7de9971f-3e29-48b9-9647-f47841eb99db
+2023.0,Molly Tuttle,,https://en.wikipedia.org/wiki/Molly_Tuttle ,nominee,,,,968fb129-2c95-4fd5-b195-86552ba45c94
+2023.0,Wet Leg,,https://en.wikipedia.org/wiki/Wet_Leg ,nominee,,,,90744b3e-363a-458e-8da1-e3e392a489c4
+2024.0,Victoria Monét,,https://en.wikipedia.org/wiki/Victoria_Mon%C3%A9t ,winner,,,,28d83274-26ab-4a6a-b9ff-340f4784e7dd
+2024.0,Gracie Abrams,,https://en.wikipedia.org/wiki/Gracie_Abrams ,nominee,,,,f7441bc7-d7de-4813-a2fc-31a4033d396d
+2024.0,Fred Again,,https://en.wikipedia.org/wiki/Fred_Again ,nominee,,,,bca46a0c-25c9-42ca-98c2-e64c8a5e337e
+2024.0,Ice Spice,,https://en.wikipedia.org/wiki/Ice_Spice ,nominee,,,,6f2c949d-9540-4421-bf02-27ae27e00e33
+2024.0,Jelly Roll,,https://en.wikipedia.org/wiki/Jelly_Roll_(singer) ,nominee,,,,3d094919-071f-4070-95dc-e1f350e4a5f3
+2024.0,Coco Jones,,https://en.wikipedia.org/wiki/Coco_Jones ,nominee,,,,bc089d56-5551-482f-babd-36365f9d9f0f
+2024.0,Noah Kahan,,https://en.wikipedia.org/wiki/Noah_Kahan ,nominee,,,,a2a3f910-b188-43e7-81d0-f1ac2a2f3e12
+2024.0,The War and Treaty,,https://en.wikipedia.org/wiki/The_War_and_Treaty ,nominee,,,,db15e7aa-7b0b-400a-b8e3-dcb17e646e4a
+2025.0,Benson Boone,,https://en.wikipedia.org/wiki/Benson_Boone ,nominee,,,,62b914a7-d775-4bb4-bb5e-d46e7df115b5
+2025.0,Doechii,,https://en.wikipedia.org/wiki/Doechii ,nominee,,,,9f75277c-b283-4846-ac8c-f932255cd0ac
+2025.0,Khruangbin,,https://en.wikipedia.org/wiki/Khruangbin ,nominee,,,,aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634
+2025.0,Raye,,https://en.wikipedia.org/wiki/Raye ,nominee,,,,8be564c3-dfba-440b-af8c-4ffbceeef45e
+2025.0,Teddy Swims,,https://en.wikipedia.org/wiki/Teddy_Swims ,nominee,,,,35feae82-8b2c-4f8f-ae7a-af5662848947
+,,,,,1959,Henry Mancini,https://en.wikipedia.org/wiki/Henry_Mancini,

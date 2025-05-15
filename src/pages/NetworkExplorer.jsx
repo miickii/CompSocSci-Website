@@ -70,7 +70,16 @@ export default function NetworkExplorer() {
     const m = graphData.links.length;
     const avgConn = n ? ((2*m)/n).toFixed(2) : '0.00';
     const density = n>1 ? ((2*m)/(n*(n-1))).toFixed(4) : '0.0000';
-    return { n, m, avgConn, density };
+    const numComms = allComms.length;
+    const commSizes = allComms.map(c =>
+      graphData.nodes.filter(n => n.community === c).length
+    );
+    const largestComm = Math.max(...commSizes);
+    const topNodes = [...graphData.nodes]
+      .sort((a, b) => (b.value || 0) - (a.value || 0))
+      .slice(0, 5);
+
+    return { n, m, avgConn, density, numComms, largestComm, topNodes };
   }, [graphData]);
 
   return (
@@ -220,11 +229,30 @@ export default function NetworkExplorer() {
           <h3 className="text-lg font-semibold mb-3 text-grammy-gold">
             Key Insights
           </h3>
-          <ul className="space-y-2 text-gray-300">
-            <li>• Most connected {networkType==='writers'?'writer':'artist'}: --</li>
-            <li>• Emerging collaboration patterns: --</li>
-            <li>• Cross-decade bridges: --</li>
-            <li>• Notable clusters: --</li>
+          <ul className="space-y-4 text-gray-300">
+            <li className="flex justify-between">
+              <span>Communities detected:</span>
+              <strong>{stats.numComms}</strong>
+            </li>
+            <li className="flex justify-between">
+              <span>Largest community:</span>
+              <strong>{stats.largestComm} nodes</strong>
+            </li>
+            <li>
+              <span>Top {networkType === 'writers' ? 'writers' : 'artists'}:</span>
+              <div className="mt-2 flex flex-wrap gap-2">
+                {stats.topNodes.map((node, i) => (
+                  <span
+                    key={node.id}
+                    className="inline-flex items-center space-x-1 bg-grammy-gold text-black px-3 py-1 rounded-full text-sm font-medium"
+                  >
+                    <span>{i + 1}.</span>
+                    <span>{node.name}</span>
+                    <span className="text-xs text-gray-700">({node.value})</span>
+                  </span>
+                ))}
+              </div>
+            </li>
           </ul>
         </div>
       </div>

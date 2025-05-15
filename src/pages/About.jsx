@@ -61,24 +61,24 @@ function About() {
         <h2 className="text-2xl font-bold mb-6">Key Findings</h2>
         <div className="space-y-4">
           <div className="bg-gray-800 p-6 rounded-lg">
-            <h3 className="text-lg font-semibold text-grammy-gold mb-2">Increasing Connectivity</h3>
+            <h3 className="text-lg font-semibold text-grammy-gold mb-2">1. Collaboration Intensified Since the 1990s</h3>
             <p className="text-gray-300">
-              The networks have become increasingly dense over time, with modern music showing 
-              more collaborative patterns than previous decades.
+              Artist–artist networks have grown dramatically: the 2000s “mode-decade” graph has <strong>200+ artists</strong>
+              and <strong>5,900+ edges</strong> versus just 78 artists and 1,100 edges in the 1990s.
             </p>
           </div>
           <div className="bg-gray-800 p-6 rounded-lg">
-            <h3 className="text-lg font-semibold text-grammy-gold mb-2">Hub Writers</h3>
+            <h3 className="text-lg font-semibold text-grammy-gold mb-2">2. Songwriters in Tight-Knitted Teams</h3>
             <p className="text-gray-300">
-              Certain songwriters emerge as super-connectors, working with a disproportionate 
-              number of Grammy-nominated artists across different genres.
+              Writer–writer networks remain highly modular — in the 2000s they split into nearly <strong>600 communities</strong>,
+              revealing small, stable writing teams.
             </p>
           </div>
           <div className="bg-gray-800 p-6 rounded-lg">
-            <h3 className="text-lg font-semibold text-grammy-gold mb-2">Cross-Genre Collaboration</h3>
+            <h3 className="text-lg font-semibold text-grammy-gold mb-2">3. From Elite Cliques to Broad Collaboration</h3>
             <p className="text-gray-300">
-              Modern Grammy nominees show increasing cross-genre collaborations, 
-              breaking down traditional musical boundaries.
+              Assortativity in writer networks dropped sharply in the 2000s, indicating top writers increasingly co-write
+              with newcomers rather than sticking to elite circles.
             </p>
           </div>
         </div>
