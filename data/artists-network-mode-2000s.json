@@ -5,7 +5,7 @@
       "name": "Diana Ross",
       "group": "2000s",
       "value": 1233,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "disco",
@@ -21,7 +21,7 @@
       "name": "50 Cent",
       "group": "2000s",
       "value": 417,
-      "community": 1,
+      "community": 3,
       "genre": [
         "east coast hip hop",
         "gangsta rap",
@@ -35,7 +35,7 @@
       "name": "Beyonc\u00e9",
       "group": "2000s",
       "value": 482,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -56,7 +56,7 @@
       "name": "JAY\u2010Z",
       "group": "2000s",
       "value": 737,
-      "community": 1,
+      "community": 3,
       "genre": [
         "boom bap",
         "chipmunk soul",
@@ -72,7 +72,7 @@
       "name": "Frank Sinatra",
       "group": "2000s",
       "value": 2260,
-      "community": 2,
+      "community": 0,
       "genre": [
         "big band",
         "christmas music",
@@ -88,7 +88,7 @@
       "name": "Percy Faith",
       "group": "2000s",
       "value": 395,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -96,7 +96,7 @@
       "name": "Sammy Davis Jr.",
       "group": "2000s",
       "value": 1372,
-      "community": 2,
+      "community": 0,
       "genre": [
         "jazz"
       ]
@@ -106,7 +106,7 @@
       "name": "Mark Murphy",
       "group": "2000s",
       "value": 1000,
-      "community": 2,
+      "community": 0,
       "genre": [
         "blues",
         "jazz",
@@ -118,7 +118,7 @@
       "name": "Barry Manilow",
       "group": "2000s",
       "value": 1385,
-      "community": 2,
+      "community": 0,
       "genre": [
         "easy listening",
         "jazz",
@@ -131,7 +131,7 @@
       "name": "The Beatles",
       "group": "2000s",
       "value": 539,
-      "community": 0,
+      "community": 2,
       "genre": [
         "classic rock",
         "mainstream rock",
@@ -173,7 +173,7 @@
       "name": "Rascal Flatts",
       "group": "2000s",
       "value": 199,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary country",
         "country",
@@ -185,7 +185,7 @@
       "name": "Anita Baker",
       "group": "2000s",
       "value": 92,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary r&b",
         "electronic",
@@ -202,7 +202,7 @@
       "name": "Mariah Carey",
       "group": "2000s",
       "value": 553,
-      "community": 1,
+      "community": 3,
       "genre": [
         "christmas music",
         "contemporary r&b",
@@ -221,7 +221,7 @@
       "name": "Dolly Parton",
       "group": "2000s",
       "value": 628,
-      "community": 0,
+      "community": 2,
       "genre": [
         "bluegrass",
         "country",
@@ -235,7 +235,7 @@
       "name": "Tom Jones",
       "group": "2000s",
       "value": 1238,
-      "community": 0,
+      "community": 2,
       "genre": [
         "ballad",
         "pop",
@@ -248,7 +248,7 @@
       "name": "Feist",
       "group": "2000s",
       "value": 88,
-      "community": 0,
+      "community": 2,
       "genre": [
         "art pop",
         "chamber pop",
@@ -262,7 +262,7 @@
       "name": "Bee Gees",
       "group": "2000s",
       "value": 186,
-      "community": 0,
+      "community": 2,
       "genre": [
         "baroque pop",
         "blue-eyed soul",
@@ -280,7 +280,7 @@
       "name": "Michael Jackson",
       "group": "2000s",
       "value": 548,
-      "community": 1,
+      "community": 3,
       "genre": [
         "boogie",
         "contemporary r&b",
@@ -301,7 +301,7 @@
       "name": "Willie Nelson",
       "group": "2000s",
       "value": 1356,
-      "community": 2,
+      "community": 0,
       "genre": [
         "blues",
         "country",
@@ -315,7 +315,7 @@
       "name": "Alicia Keys",
       "group": "2000s",
       "value": 341,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "jazz",
@@ -330,7 +330,7 @@
       "name": "Avril Lavigne",
       "group": "2000s",
       "value": 138,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acoustic rock",
         "alternative rock",
@@ -346,7 +346,7 @@
       "name": "Alanis Morissette",
       "group": "2000s",
       "value": 55,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "dance-pop",
@@ -363,7 +363,7 @@
       "name": "Astrud Gilberto",
       "group": "2000s",
       "value": 378,
-      "community": 2,
+      "community": 0,
       "genre": [
         "bossa nova",
         "jazz",
@@ -378,7 +378,7 @@
       "name": "Christina Aguilera",
       "group": "2000s",
       "value": 466,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -393,7 +393,7 @@
       "name": "Backstreet Boys",
       "group": "2000s",
       "value": 59,
-      "community": 1,
+      "community": 3,
       "genre": [
         "dance-pop",
         "electropop",
@@ -407,7 +407,7 @@
       "name": "Britney Spears",
       "group": "2000s",
       "value": 251,
-      "community": 1,
+      "community": 3,
       "genre": [
         "dance-pop",
         "electro house",
@@ -421,7 +421,7 @@
       "name": "Vikki Carr",
       "group": "2000s",
       "value": 395,
-      "community": 0,
+      "community": 2,
       "genre": [
         "latin pop",
         "mariachi",
@@ -434,7 +434,7 @@
       "name": "Norah Jones",
       "group": "2000s",
       "value": 192,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "christmas music",
@@ -455,7 +455,7 @@
       "name": "Maria Muldaur",
       "group": "2000s",
       "value": 468,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary folk",
         "folk"
@@ -466,7 +466,7 @@
       "name": "Eric Clapton",
       "group": "2000s",
       "value": 879,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "blues rock",
@@ -481,7 +481,7 @@
       "name": "Led Zeppelin",
       "group": "2000s",
       "value": 316,
-      "community": 0,
+      "community": 2,
       "genre": [
         "arena rock",
         "blues rock",
@@ -498,7 +498,7 @@
       "name": "Santana",
       "group": "2000s",
       "value": 392,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues rock",
         "classic rock",
@@ -518,7 +518,7 @@
       "name": "Joan Osborne",
       "group": "2000s",
       "value": 266,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues rock",
         "country rock",
@@ -532,7 +532,7 @@
       "name": "Peter Gabriel",
       "group": "2000s",
       "value": 355,
-      "community": 0,
+      "community": 2,
       "genre": [
         "art pop",
         "art rock",
@@ -554,7 +554,7 @@
       "name": "Grover Washington, Jr.",
       "group": "2000s",
       "value": 301,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary jazz",
         "jazz",
@@ -571,7 +571,7 @@
       "name": "Mary J. Blige",
       "group": "2000s",
       "value": 535,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -587,7 +587,7 @@
       "name": "Freddie Jackson",
       "group": "2000s",
       "value": 17,
-      "community": 1,
+      "community": 3,
       "genre": [
         "quiet storm",
         "soul"
@@ -598,7 +598,7 @@
       "name": "Amy Winehouse",
       "group": "2000s",
       "value": 215,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary r&b",
         "crossover jazz",
@@ -616,7 +616,7 @@
       "name": "Ricky Martin",
       "group": "2000s",
       "value": 97,
-      "community": 1,
+      "community": 3,
       "genre": [
         "ballad",
         "dance-pop",
@@ -632,7 +632,7 @@
       "name": "Miguel Bos\u00e9",
       "group": "2000s",
       "value": 22,
-      "community": 1,
+      "community": 3,
       "genre": [
         "ballad",
         "latin",
@@ -646,7 +646,7 @@
       "name": "Phil Collins",
       "group": "2000s",
       "value": 225,
-      "community": 0,
+      "community": 2,
       "genre": [
         "aor",
         "art pop",
@@ -667,7 +667,7 @@
       "name": "Jason Mraz",
       "group": "2000s",
       "value": 162,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acoustic rock",
         "pop",
@@ -679,7 +679,7 @@
       "name": "Elton John",
       "group": "2000s",
       "value": 505,
-      "community": 0,
+      "community": 2,
       "genre": [
         "classic rock",
         "piano rock",
@@ -696,7 +696,7 @@
       "name": "Keane",
       "group": "2000s",
       "value": 76,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative pop",
         "alternative rock",
@@ -712,7 +712,7 @@
       "name": "Joss Stone",
       "group": "2000s",
       "value": 310,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "blues",
@@ -727,7 +727,7 @@
       "name": "Helen Reddy",
       "group": "2000s",
       "value": 190,
-      "community": 2,
+      "community": 0,
       "genre": [
         "pop"
       ]
@@ -737,7 +737,7 @@
       "name": "Barbra Streisand",
       "group": "2000s",
       "value": 992,
-      "community": 2,
+      "community": 0,
       "genre": [
         "ballad",
         "disco",
@@ -752,7 +752,7 @@
       "name": "Heather Headley",
       "group": "2000s",
       "value": 17,
-      "community": 0,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -764,7 +764,7 @@
       "name": "Sin\u00e9ad O\u2019Connor",
       "group": "2000s",
       "value": 303,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "celtic rock",
@@ -780,7 +780,7 @@
       "name": "TLC",
       "group": "2000s",
       "value": 133,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "crunk",
@@ -794,7 +794,7 @@
       "name": "R. Kelly",
       "group": "2000s",
       "value": 141,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "gospel",
@@ -814,7 +814,7 @@
       "name": "Perry Como",
       "group": "2000s",
       "value": 1592,
-      "community": 2,
+      "community": 0,
       "genre": [
         "big band",
         "country",
@@ -832,7 +832,7 @@
       "name": "Cyndi Lauper",
       "group": "2000s",
       "value": 401,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "dance-pop",
@@ -847,7 +847,7 @@
       "name": "Louis Armstrong",
       "group": "2000s",
       "value": 1502,
-      "community": 2,
+      "community": 0,
       "genre": [
         "dixieland",
         "easy listening",
@@ -864,7 +864,7 @@
       "name": "Nat King Cole",
       "group": "2000s",
       "value": 1740,
-      "community": 2,
+      "community": 0,
       "genre": [
         "easy listening",
         "jazz",
@@ -880,7 +880,7 @@
       "name": "Andy Williams",
       "group": "2000s",
       "value": 1477,
-      "community": 2,
+      "community": 0,
       "genre": [
         "christmas music",
         "easy listening",
@@ -892,7 +892,7 @@
       "name": "Meat Loaf",
       "group": "2000s",
       "value": 172,
-      "community": 0,
+      "community": 2,
       "genre": [
         "aor",
         "classic rock",
@@ -906,7 +906,7 @@
       "name": "Papa Roach",
       "group": "2000s",
       "value": 10,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative metal",
         "alternative rock",
@@ -921,7 +921,7 @@
       "name": "James Taylor",
       "group": "2000s",
       "value": 653,
-      "community": 0,
+      "community": 2,
       "genre": [
         "country",
         "folk",
@@ -938,7 +938,7 @@
       "name": "Tracy Chapman",
       "group": "2000s",
       "value": 63,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues rock",
         "contemporary folk",
@@ -955,7 +955,7 @@
       "name": "Aaron Neville",
       "group": "2000s",
       "value": 867,
-      "community": 0,
+      "community": 2,
       "genre": [
         "country",
         "deep soul",
@@ -989,7 +989,7 @@
       "name": "Donald Fagen",
       "group": "2000s",
       "value": 43,
-      "community": 0,
+      "community": 2,
       "genre": [
         "jazz",
         "jazz pop",
@@ -1002,7 +1002,7 @@
       "name": "Luther Vandross",
       "group": "2000s",
       "value": 423,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "quiet storm",
@@ -1015,7 +1015,7 @@
       "name": "Seal",
       "group": "2000s",
       "value": 262,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "pop rock",
@@ -1029,7 +1029,7 @@
       "name": "Don McLean",
       "group": "2000s",
       "value": 540,
-      "community": 0,
+      "community": 2,
       "genre": [
         "contemporary folk",
         "folk",
@@ -1045,7 +1045,7 @@
       "name": "Ray Conniff",
       "group": "2000s",
       "value": 971,
-      "community": 2,
+      "community": 0,
       "genre": [
         "easy listening",
         "jazz"
@@ -1056,7 +1056,7 @@
       "name": "Ciara",
       "group": "2000s",
       "value": 149,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -1072,7 +1072,7 @@
       "name": "Olivia Newton\u2010John",
       "group": "2000s",
       "value": 386,
-      "community": 0,
+      "community": 2,
       "genre": [
         "ballad",
         "country",
@@ -1086,7 +1086,7 @@
       "name": "Nelly Furtado",
       "group": "2000s",
       "value": 98,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "eurodance",
@@ -1102,7 +1102,7 @@
       "name": "k.d. lang",
       "group": "2000s",
       "value": 334,
-      "community": 2,
+      "community": 0,
       "genre": [
         "country",
         "folk"
@@ -1113,7 +1113,7 @@
       "name": "Michelle Branch",
       "group": "2000s",
       "value": 45,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "country",
@@ -1145,7 +1145,7 @@
       "name": "Survivor",
       "group": "2000s",
       "value": 3,
-      "community": 0,
+      "community": 2,
       "genre": [
         "aor",
         "hard rock",
@@ -1158,7 +1158,7 @@
       "name": "Gloria Gaynor",
       "group": "2000s",
       "value": 170,
-      "community": 0,
+      "community": 2,
       "genre": [
         "dance-pop",
         "disco",
@@ -1172,7 +1172,7 @@
       "name": "Lionel Richie",
       "group": "2000s",
       "value": 402,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "country pop",
@@ -1190,7 +1190,7 @@
       "name": "Lauryn Hill",
       "group": "2000s",
       "value": 121,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative hip hop",
         "contemporary r&b",
@@ -1203,7 +1203,7 @@
       "name": "Shania Twain",
       "group": "2000s",
       "value": 39,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary country",
         "country",
@@ -1221,7 +1221,7 @@
       "name": "Whitney Houston",
       "group": "2000s",
       "value": 517,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -1239,7 +1239,7 @@
       "name": "John Mayer",
       "group": "2000s",
       "value": 94,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acoustic rock",
         "americana",
@@ -1255,7 +1255,7 @@
       "name": "Destiny\u2019s Child",
       "group": "2000s",
       "value": 340,
-      "community": 1,
+      "community": 3,
       "genre": [
         "christmas music",
         "contemporary r&b",
@@ -1269,7 +1269,7 @@
       "name": "Rickie Lee Jones",
       "group": "2000s",
       "value": 344,
-      "community": 2,
+      "community": 0,
       "genre": [
         "folk"
       ]
@@ -1279,7 +1279,7 @@
       "name": "Indigo Girls",
       "group": "2000s",
       "value": 113,
-      "community": 0,
+      "community": 2,
       "genre": [
         "contemporary folk",
         "folk",
@@ -1292,7 +1292,7 @@
       "name": "Kanye West Tribute Band",
       "group": "2000s",
       "value": 50,
-      "community": 1,
+      "community": 3,
       "genre": []
     },
     {
@@ -1300,7 +1300,7 @@
       "name": "Earth, Wind & Fire",
       "group": "2000s",
       "value": 213,
-      "community": 0,
+      "community": 2,
       "genre": [
         "big band",
         "dance",
@@ -1317,7 +1317,7 @@
       "name": "Natalie Cole",
       "group": "2000s",
       "value": 1188,
-      "community": 2,
+      "community": 0,
       "genre": [
         "pop",
         "pop soul",
@@ -1331,7 +1331,7 @@
       "name": "Eminem",
       "group": "2000s",
       "value": 224,
-      "community": 1,
+      "community": 3,
       "genre": [
         "boom bap",
         "conscious hip hop",
@@ -1347,7 +1347,7 @@
       "name": "Fall Out Boy",
       "group": "2000s",
       "value": 68,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "electropop",
@@ -1363,7 +1363,7 @@
       "name": "Sugarland",
       "group": "2000s",
       "value": 90,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary country",
         "country",
@@ -1376,7 +1376,7 @@
       "name": "America",
       "group": "2000s",
       "value": 63,
-      "community": 0,
+      "community": 1,
       "genre": [
         "folk",
         "folk pop",
@@ -1392,7 +1392,7 @@
       "name": "Amy Grant",
       "group": "2000s",
       "value": 174,
-      "community": 0,
+      "community": 1,
       "genre": [
         "contemporary christian",
         "pop"
@@ -1403,7 +1403,7 @@
       "name": "The 5th Dimension",
       "group": "2000s",
       "value": 284,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "pop soul",
@@ -1417,7 +1417,7 @@
       "name": "The Lettermen",
       "group": "2000s",
       "value": 23,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "rock"
@@ -1428,7 +1428,7 @@
       "name": "Carly Simon",
       "group": "2000s",
       "value": 675,
-      "community": 2,
+      "community": 0,
       "genre": [
         "blues rock",
         "electronic",
@@ -1444,7 +1444,7 @@
       "name": "The Black Crowes",
       "group": "2000s",
       "value": 348,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues rock",
         "boogie rock",
@@ -1472,7 +1472,7 @@
       "name": "Toni Braxton",
       "group": "2000s",
       "value": 176,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -1487,7 +1487,7 @@
       "name": "Macy Gray",
       "group": "2000s",
       "value": 112,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -1500,7 +1500,7 @@
       "name": "Fergie",
       "group": "2000s",
       "value": 107,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -1517,7 +1517,7 @@
       "name": "Ashanti",
       "group": "2000s",
       "value": 146,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "pop soul",
@@ -1529,7 +1529,7 @@
       "name": "Marilyn Maye",
       "group": "2000s",
       "value": 10,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -1547,7 +1547,7 @@
       "name": "Sheryl Crow",
       "group": "2000s",
       "value": 582,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "americana",
@@ -1561,7 +1561,7 @@
       "name": "The Knack",
       "group": "2000s",
       "value": 14,
-      "community": 0,
+      "community": 2,
       "genre": [
         "classic rock",
         "new wave",
@@ -1575,7 +1575,7 @@
       "name": "Sons of the Pioneers",
       "group": "2000s",
       "value": 98,
-      "community": 2,
+      "community": 0,
       "genre": [
         "classic country",
         "country",
@@ -1587,7 +1587,7 @@
       "name": "Steve Winwood",
       "group": "2000s",
       "value": 130,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "blues",
@@ -1603,7 +1603,7 @@
       "name": "Barry White",
       "group": "2000s",
       "value": 143,
-      "community": 1,
+      "community": 3,
       "genre": [
         "disco",
         "easy listening",
@@ -1620,7 +1620,7 @@
       "name": "Eumir Deodato",
       "group": "2000s",
       "value": 107,
-      "community": 2,
+      "community": 0,
       "genre": [
         "jazz"
       ]
@@ -1630,7 +1630,7 @@
       "name": "Jack Jones",
       "group": "2000s",
       "value": 692,
-      "community": 2,
+      "community": 0,
       "genre": [
         "ballad",
         "big band",
@@ -1644,7 +1644,7 @@
       "name": "Peaches",
       "group": "2000s",
       "value": 29,
-      "community": 0,
+      "community": 2,
       "genre": [
         "dance-punk",
         "electroclash"
@@ -1655,7 +1655,7 @@
       "name": "Warren Zevon",
       "group": "2000s",
       "value": 48,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "blues",
@@ -1680,7 +1680,7 @@
       "name": "Sheila E.",
       "group": "2000s",
       "value": 30,
-      "community": 1,
+      "community": 3,
       "genre": [
         "funk",
         "pop"
@@ -1691,7 +1691,7 @@
       "name": "The Neon Philharmonic",
       "group": "2000s",
       "value": 1,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -1699,7 +1699,7 @@
       "name": "Lil Wayne",
       "group": "2000s",
       "value": 212,
-      "community": 1,
+      "community": 3,
       "genre": [
         "gangsta rap",
         "hip hop",
@@ -1717,7 +1717,7 @@
       "name": "Sisq\u00f3",
       "group": "2000s",
       "value": 41,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "hip hop",
@@ -1730,7 +1730,7 @@
       "name": "Brandy",
       "group": "2000s",
       "value": 242,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "pop",
@@ -1743,7 +1743,7 @@
       "name": "Alan Jackson",
       "group": "2000s",
       "value": 329,
-      "community": 2,
+      "community": 1,
       "genre": [
         "bluegrass",
         "christmas music",
@@ -1758,7 +1758,7 @@
       "name": "Brad Paisley",
       "group": "2000s",
       "value": 174,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary country",
         "country",
@@ -1771,7 +1771,7 @@
       "name": "Eurythmics",
       "group": "2000s",
       "value": 181,
-      "community": 0,
+      "community": 2,
       "genre": [
         "art pop",
         "electronic",
@@ -1786,7 +1786,7 @@
       "name": "Fiona Apple",
       "group": "2000s",
       "value": 190,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative pop",
         "art pop",
@@ -1803,7 +1803,7 @@
       "name": "Ledisi",
       "group": "2000s",
       "value": 184,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -1811,7 +1811,7 @@
       "name": "James Ingram",
       "group": "2000s",
       "value": 70,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "pop soul",
@@ -1824,7 +1824,7 @@
       "name": "Jos\u00e9 Feliciano",
       "group": "2000s",
       "value": 366,
-      "community": 0,
+      "community": 2,
       "genre": [
         "bolero",
         "christmas music",
@@ -1840,7 +1840,7 @@
       "name": "Stephen Bishop",
       "group": "2000s",
       "value": 37,
-      "community": 2,
+      "community": 0,
       "genre": [
         "rock"
       ]
@@ -1850,7 +1850,7 @@
       "name": "Swing Out Sister",
       "group": "2000s",
       "value": 76,
-      "community": 1,
+      "community": 3,
       "genre": [
         "acid jazz",
         "sophisti-pop"
@@ -1861,7 +1861,7 @@
       "name": "Los Lobos",
       "group": "2000s",
       "value": 180,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "bolero",
@@ -1880,7 +1880,7 @@
       "name": "Hanson",
       "group": "2000s",
       "value": 48,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "pop rock",
@@ -1894,7 +1894,7 @@
       "name": "Wild Cherry",
       "group": "2000s",
       "value": 8,
-      "community": 0,
+      "community": 2,
       "genre": [
         "disco",
         "funk",
@@ -1906,7 +1906,7 @@
       "name": "James Blunt",
       "group": "2000s",
       "value": 15,
-      "community": 1,
+      "community": 3,
       "genre": [
         "acoustic rock",
         "folk rock",
@@ -1923,7 +1923,7 @@
       "name": "Paramore",
       "group": "2000s",
       "value": 18,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acoustic rock",
         "alternative rock",
@@ -1943,7 +1943,7 @@
       "name": "Vanessa Carlton",
       "group": "2000s",
       "value": 108,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop",
         "pop rock",
@@ -1956,7 +1956,7 @@
       "name": "Evanescence",
       "group": "2000s",
       "value": 3,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative metal",
         "alternative rock",
@@ -1972,7 +1972,7 @@
       "name": "David Gray",
       "group": "2000s",
       "value": 106,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "contemporary folk",
@@ -1988,7 +1988,7 @@
       "name": "Jill Scott",
       "group": "2000s",
       "value": 86,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -2001,7 +2001,7 @@
       "name": "Erykah Badu",
       "group": "2000s",
       "value": 106,
-      "community": 1,
+      "community": 3,
       "genre": [
         "acid jazz",
         "contemporary r&b",
@@ -2017,7 +2017,7 @@
       "name": "Bryan Adams",
       "group": "2000s",
       "value": 201,
-      "community": 0,
+      "community": 2,
       "genre": [
         "aor",
         "classic rock",
@@ -2035,7 +2035,7 @@
       "name": "Linkin Park",
       "group": "2000s",
       "value": 44,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative metal",
         "alternative rock",
@@ -2052,7 +2052,7 @@
       "name": "John Gary",
       "group": "2000s",
       "value": 254,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -2060,7 +2060,7 @@
       "name": "Cream",
       "group": "2000s",
       "value": 102,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acid rock",
         "blues rock",
@@ -2079,7 +2079,7 @@
       "name": "Corinne Bailey Rae",
       "group": "2000s",
       "value": 129,
-      "community": 0,
+      "community": 2,
       "genre": [
         "neo soul",
         "soul"
@@ -2090,7 +2090,7 @@
       "name": "Irene Cara",
       "group": "2000s",
       "value": 11,
-      "community": 1,
+      "community": 3,
       "genre": [
         "dance-pop",
         "disco",
@@ -2102,7 +2102,7 @@
       "name": "Counting Crows",
       "group": "2000s",
       "value": 53,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "americana",
@@ -2119,7 +2119,7 @@
       "name": "Ant\u00f4nio Carlos Jobim",
       "group": "2000s",
       "value": 123,
-      "community": 2,
+      "community": 0,
       "genre": [
         "bossa nova",
         "jazz",
@@ -2133,7 +2133,7 @@
       "name": "Coldplay",
       "group": "2000s",
       "value": 160,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "art pop",
@@ -2151,7 +2151,7 @@
       "name": "Estelle",
       "group": "2000s",
       "value": 89,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -2164,7 +2164,7 @@
       "name": "Keri Hilson",
       "group": "2000s",
       "value": 87,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "electro",
@@ -2178,7 +2178,7 @@
       "name": "The Swingle Singers",
       "group": "2000s",
       "value": 294,
-      "community": 0,
+      "community": 2,
       "genre": []
     },
     {
@@ -2186,7 +2186,7 @@
       "name": "Natalie Imbruglia",
       "group": "2000s",
       "value": 31,
-      "community": 1,
+      "community": 3,
       "genre": [
         "downtempo",
         "electropop",
@@ -2199,7 +2199,7 @@
       "name": "Phoebe Snow",
       "group": "2000s",
       "value": 163,
-      "community": 0,
+      "community": 2,
       "genre": [
         "folk",
         "folk pop",
@@ -2211,7 +2211,7 @@
       "name": "The Eagles",
       "group": "2000s",
       "value": 20,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -2219,7 +2219,7 @@
       "name": "Robert Goulet",
       "group": "2000s",
       "value": 144,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -2227,7 +2227,7 @@
       "name": "Hamilton, Joe Frank & Reynolds",
       "group": "2000s",
       "value": 5,
-      "community": 1,
+      "community": 3,
       "genre": [
         "soft rock"
       ]
@@ -2237,7 +2237,7 @@
       "name": "Marie Osmond",
       "group": "2000s",
       "value": 70,
-      "community": 0,
+      "community": 2,
       "genre": []
     },
     {
@@ -2245,7 +2245,7 @@
       "name": "Tone\u2010L\u014dc",
       "group": "2000s",
       "value": 19,
-      "community": 0,
+      "community": 2,
       "genre": [
         "hip hop",
         "pop rap",
@@ -2257,7 +2257,7 @@
       "name": "Susan Tedeschi",
       "group": "2000s",
       "value": 85,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues"
       ]
@@ -2267,7 +2267,7 @@
       "name": "Sean Paul",
       "group": "2000s",
       "value": 109,
-      "community": 1,
+      "community": 3,
       "genre": [
         "dance-pop",
         "dancehall",
@@ -2283,7 +2283,7 @@
       "name": "Tony Orlando",
       "group": "2000s",
       "value": 84,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop"
       ]
@@ -2293,7 +2293,7 @@
       "name": "Edd Byrnes",
       "group": "2000s",
       "value": 10,
-      "community": 2,
+      "community": 0,
       "genre": [
         "ballad",
         "pop"
@@ -2304,7 +2304,7 @@
       "name": "Rob Thomas",
       "group": "2000s",
       "value": 8,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "pop",
@@ -2318,7 +2318,7 @@
       "name": "Asia",
       "group": "2000s",
       "value": 14,
-      "community": 0,
+      "community": 2,
       "genre": [
         "hard rock",
         "progressive rock",
@@ -2330,7 +2330,7 @@
       "name": "Kirk Franklin",
       "group": "2000s",
       "value": 15,
-      "community": 0,
+      "community": 2,
       "genre": [
         "contemporary gospel",
         "gospel"
@@ -2341,7 +2341,7 @@
       "name": "Simply Red",
       "group": "2000s",
       "value": 151,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "dance-pop",
@@ -2358,7 +2358,7 @@
       "name": "Sade",
       "group": "2000s",
       "value": 3,
-      "community": 0,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "downtempo",
@@ -2379,7 +2379,7 @@
       "name": "A Taste of Honey",
       "group": "2000s",
       "value": 4,
-      "community": 1,
+      "community": 3,
       "genre": [
         "boogie",
         "dance-pop",
@@ -2396,7 +2396,7 @@
       "name": "Culture Club",
       "group": "2000s",
       "value": 14,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "dance-pop",
@@ -2411,7 +2411,7 @@
       "name": "Fountains of Wayne",
       "group": "2000s",
       "value": 68,
-      "community": 0,
+      "community": 2,
       "genre": [
         "indie rock"
       ]
@@ -2421,7 +2421,7 @@
       "name": "Duffy",
       "group": "2000s",
       "value": 90,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "pop",
@@ -2434,7 +2434,7 @@
       "name": "Peabo Bryson",
       "group": "2000s",
       "value": 102,
-      "community": 1,
+      "community": 3,
       "genre": [
         "ballad",
         "contemporary r&b",
@@ -2450,7 +2450,7 @@
       "name": "India.Arie",
       "group": "2000s",
       "value": 15,
-      "community": 1,
+      "community": 3,
       "genre": [
         "blues",
         "folk",
@@ -2463,7 +2463,7 @@
       "name": "Adam and the Ants",
       "group": "2000s",
       "value": 9,
-      "community": 2,
+      "community": 0,
       "genre": [
         "glam",
         "new romantic",
@@ -2481,7 +2481,7 @@
       "name": "Big Country",
       "group": "2000s",
       "value": 160,
-      "community": 0,
+      "community": 2,
       "genre": [
         "alternative rock",
         "celtic rock",
@@ -2497,7 +2497,7 @@
       "name": "Men Without Hats",
       "group": "2000s",
       "value": 5,
-      "community": 0,
+      "community": 2,
       "genre": [
         "electronic",
         "new wave",
@@ -2509,7 +2509,7 @@
       "name": "Brenda Russell",
       "group": "2000s",
       "value": 74,
-      "community": 0,
+      "community": 2,
       "genre": [
         "funk",
         "pop",
@@ -2532,7 +2532,7 @@
       "name": "Joe South",
       "group": "2000s",
       "value": 2,
-      "community": 0,
+      "community": 2,
       "genre": [
         "country",
         "country soul",
@@ -2545,7 +2545,7 @@
       "name": "Plain White T\u2019s",
       "group": "2000s",
       "value": 112,
-      "community": 0,
+      "community": 2,
       "genre": [
         "acoustic rock",
         "alternative rock",
@@ -2558,7 +2558,7 @@
       "name": "Los Lonely Boys",
       "group": "2000s",
       "value": 166,
-      "community": 0,
+      "community": 2,
       "genre": [
         "rock",
         "tex-mex"
@@ -2569,7 +2569,7 @@
       "name": "Stray Cats",
       "group": "2000s",
       "value": 62,
-      "community": 0,
+      "community": 2,
       "genre": [
         "rock",
         "rockabilly"
@@ -2580,7 +2580,7 @@
       "name": "Neil Sedaka",
       "group": "2000s",
       "value": 23,
-      "community": 2,
+      "community": 0,
       "genre": []
     },
     {
@@ -2588,7 +2588,7 @@
       "name": "Johnny Bristol",
       "group": "2000s",
       "value": 5,
-      "community": 0,
+      "community": 1,
       "genre": [
         "soul"
       ]
@@ -2598,7 +2598,7 @@
       "name": "Maxwell",
       "group": "2000s",
       "value": 24,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "neo soul",
@@ -2611,7 +2611,7 @@
       "name": "The Police",
       "group": "2000s",
       "value": 23,
-      "community": 2,
+      "community": 0,
       "genre": [
         "indie rock",
         "new wave",
@@ -2627,7 +2627,7 @@
       "name": "Jonas Brothers",
       "group": "2000s",
       "value": 102,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop rock",
         "teen pop"
@@ -2638,7 +2638,7 @@
       "name": "Gary Puckett & the Union Gap",
       "group": "2000s",
       "value": 91,
-      "community": 0,
+      "community": 2,
       "genre": [
         "pop rock"
       ]
@@ -2648,7 +2648,7 @@
       "name": "Bruce Hornsby",
       "group": "2000s",
       "value": 78,
-      "community": 0,
+      "community": 2,
       "genre": [
         "bluegrass",
         "blues rock",
@@ -2664,7 +2664,7 @@
       "name": "The Brothers Johnson",
       "group": "2000s",
       "value": 14,
-      "community": 1,
+      "community": 3,
       "genre": [
         "funk",
         "r&b"
@@ -2675,7 +2675,7 @@
       "name": "Arrested Development",
       "group": "2000s",
       "value": 3,
-      "community": 1,
+      "community": 3,
       "genre": [
         "boom bap",
         "conscious hip hop",
@@ -2690,7 +2690,7 @@
       "name": "Tears for Fears",
       "group": "2000s",
       "value": 67,
-      "community": 0,
+      "community": 2,
       "genre": [
         "art pop",
         "new wave",
@@ -2705,7 +2705,7 @@
       "name": "Chris Rea",
       "group": "2000s",
       "value": 46,
-      "community": 0,
+      "community": 2,
       "genre": [
         "blues",
         "blues rock",
@@ -2722,7 +2722,7 @@
       "name": "Daddy Yankee",
       "group": "2000s",
       "value": 3,
-      "community": 1,
+      "community": 3,
       "genre": [
         "hip hop",
         "latin",
@@ -2736,7 +2736,7 @@
       "name": "Jazmine Sullivan",
       "group": "2000s",
       "value": 14,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "soul"
@@ -2747,7 +2747,7 @@
       "name": "The Ting Tings",
       "group": "2000s",
       "value": 20,
-      "community": 1,
+      "community": 3,
       "genre": [
         "alternative rock",
         "dance-punk",

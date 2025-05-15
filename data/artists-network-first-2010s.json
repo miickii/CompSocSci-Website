@@ -5,7 +5,7 @@
       "name": "Post Malone",
       "group": "2010s",
       "value": 59,
-      "community": 4,
+      "community": 0,
       "genre": [
         "contemporary r&b",
         "country",
@@ -58,7 +58,7 @@
       "name": "KAYTRANADA",
       "group": "2010s",
       "value": 9,
-      "community": 4,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "hip hop",
@@ -104,7 +104,7 @@
       "name": "Phoebe Bridgers",
       "group": "2010s",
       "value": 4,
-      "community": 1,
+      "community": 4,
       "genre": [
         "alternative folk",
         "chamber pop",
@@ -121,7 +121,7 @@
       "name": "Frank Ocean",
       "group": "2010s",
       "value": 37,
-      "community": 1,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "contemporary r&b",
@@ -134,7 +134,7 @@
       "name": "Bastille",
       "group": "2010s",
       "value": 32,
-      "community": 1,
+      "community": 4,
       "genre": [
         "indie pop",
         "pop rock",
@@ -146,7 +146,7 @@
       "name": "Maggie Rogers",
       "group": "2010s",
       "value": 11,
-      "community": 1,
+      "community": 4,
       "genre": [
         "folk pop",
         "singer-songwriter"
@@ -220,7 +220,7 @@
       "name": "Saweetie",
       "group": "2010s",
       "value": 8,
-      "community": 4,
+      "community": 0,
       "genre": [
         "hip hop",
         "pop rap",
@@ -277,7 +277,7 @@
       "name": "Lil Nas X",
       "group": "2010s",
       "value": 13,
-      "community": 4,
+      "community": 0,
       "genre": [
         "hip hop",
         "pop rap",
@@ -301,7 +301,7 @@
       "name": "ROSAL\u00cdA",
       "group": "2010s",
       "value": 17,
-      "community": 4,
+      "community": 0,
       "genre": [
         "flamenco",
         "flamenco pop",
@@ -318,7 +318,7 @@
       "name": "Roddy Ricch",
       "group": "2010s",
       "value": 15,
-      "community": 4,
+      "community": 0,
       "genre": [
         "hip hop",
         "trap"
@@ -329,7 +329,7 @@
       "name": "Ella Mai",
       "group": "2010s",
       "value": 12,
-      "community": 4,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "dance-pop",
@@ -343,7 +343,7 @@
       "name": "Lil Uzi Vert",
       "group": "2010s",
       "value": 19,
-      "community": 4,
+      "community": 0,
       "genre": [
         "cloud rap",
         "east coast hip hop",
@@ -359,7 +359,7 @@
       "name": "Lorde",
       "group": "2010s",
       "value": 17,
-      "community": 1,
+      "community": 4,
       "genre": [
         "alternative pop",
         "art pop",
@@ -376,7 +376,7 @@
       "name": "Nate Ruess",
       "group": "2010s",
       "value": 13,
-      "community": 1,
+      "community": 4,
       "genre": [
         "indie pop"
       ]
@@ -386,7 +386,7 @@
       "name": "Doja Cat",
       "group": "2010s",
       "value": 11,
-      "community": 1,
+      "community": 0,
       "genre": [
         "hip hop",
         "pop",
@@ -434,7 +434,7 @@
       "name": "Glass Animals",
       "group": "2010s",
       "value": 9,
-      "community": 1,
+      "community": 0,
       "genre": [
         "electronic",
         "indie pop",
@@ -449,7 +449,7 @@
       "name": "Courtney Barnett",
       "group": "2010s",
       "value": 11,
-      "community": 1,
+      "community": 0,
       "genre": [
         "alternative rock",
         "indie rock",
@@ -461,7 +461,7 @@
       "name": "Margo Price",
       "group": "2010s",
       "value": 2,
-      "community": 1,
+      "community": 0,
       "genre": [
         "alternative country",
         "alternative rock",
@@ -477,7 +477,7 @@
       "name": "Harry Styles",
       "group": "2010s",
       "value": 21,
-      "community": 1,
+      "community": 4,
       "genre": [
         "funk",
         "new wave",
@@ -493,7 +493,7 @@
       "name": "HAIM",
       "group": "2010s",
       "value": 17,
-      "community": 1,
+      "community": 4,
       "genre": [
         "indie pop",
         "indie rock",
@@ -506,7 +506,7 @@
       "name": "Chance the Rapper",
       "group": "2010s",
       "value": 21,
-      "community": 4,
+      "community": 0,
       "genre": [
         "abstract hip hop",
         "alternative hip hop",
@@ -537,7 +537,7 @@
       "name": "SZA",
       "group": "2010s",
       "value": 30,
-      "community": 4,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "contemporary r&b",
@@ -568,7 +568,7 @@
       "name": "Baby Keem",
       "group": "2010s",
       "value": 8,
-      "community": 4,
+      "community": 0,
       "genre": [
         "hip hop",
         "trap",
@@ -580,7 +580,7 @@
       "name": "Jorja Smith",
       "group": "2010s",
       "value": 14,
-      "community": 4,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "neo soul",
@@ -602,7 +602,7 @@
       "name": "James Bay",
       "group": "2010s",
       "value": 21,
-      "community": 1,
+      "community": 4,
       "genre": [
         "alternative rock",
         "indie pop",
@@ -615,7 +615,7 @@
       "name": "Black Pumas",
       "group": "2010s",
       "value": 8,
-      "community": 1,
+      "community": 4,
       "genre": [
         "psychedelic",
         "psychedelic soul",
@@ -628,7 +628,7 @@
       "name": "Tori Kelly",
       "group": "2010s",
       "value": 20,
-      "community": 1,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "pop",
@@ -640,7 +640,7 @@
       "name": "Greta Van Fleet",
       "group": "2010s",
       "value": 3,
-      "community": 1,
+      "community": 0,
       "genre": [
         "blues rock",
         "hard rock"
@@ -706,7 +706,7 @@
       "name": "Sam Hunt",
       "group": "2010s",
       "value": 3,
-      "community": 0,
+      "community": 1,
       "genre": [
         "bro-country",
         "contemporary country",
@@ -721,7 +721,7 @@
       "name": "Brandy Clark",
       "group": "2010s",
       "value": 4,
-      "community": 0,
+      "community": 1,
       "genre": [
         "country"
       ]
@@ -741,7 +741,7 @@
       "name": "Lukas Graham",
       "group": "2010s",
       "value": 3,
-      "community": 1,
+      "community": 3,
       "genre": [
         "pop",
         "pop soul",
@@ -753,7 +753,7 @@
       "name": "Alabama Shakes",
       "group": "2010s",
       "value": 2,
-      "community": 1,
+      "community": 4,
       "genre": [
         "blues rock",
         "rock",
@@ -766,7 +766,7 @@
       "name": "Megan Thee Stallion",
       "group": "2010s",
       "value": 1,
-      "community": 4,
+      "community": 0,
       "genre": [
         "hip hop",
         "pop rap",
@@ -779,7 +779,7 @@
       "name": "Daniel Caesar",
       "group": "2010s",
       "value": 3,
-      "community": 4,
+      "community": 0,
       "genre": [
         "alternative r&b",
         "contemporary r&b",
@@ -801,7 +801,7 @@
       "name": "Noah Kahan",
       "group": "2010s",
       "value": 4,
-      "community": 1,
+      "community": 4,
       "genre": [
         "folk pop",
         "pop"

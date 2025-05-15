@@ -60,7 +60,7 @@
       "name": "James Ingram",
       "group": "1980s",
       "value": 9,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "pop soul",
@@ -73,7 +73,7 @@
       "name": "Lionel Richie",
       "group": "1980s",
       "value": 9,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "country pop",
@@ -91,7 +91,7 @@
       "name": "C\u00e9line Dion",
       "group": "1980s",
       "value": 15,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "pop",
@@ -115,7 +115,7 @@
       "name": "Sheena Easton",
       "group": "1980s",
       "value": 19,
-      "community": 3,
+      "community": 2,
       "genre": [
         "ballad",
         "contemporary r&b",
@@ -167,7 +167,7 @@
       "name": "Corey Hart",
       "group": "1980s",
       "value": 1,
-      "community": 3,
+      "community": 2,
       "genre": [
         "new wave",
         "pop",
@@ -219,7 +219,7 @@
       "name": "Fergie",
       "group": "1980s",
       "value": 3,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -236,7 +236,7 @@
       "name": "Tone\u2010L\u014dc",
       "group": "1980s",
       "value": 1,
-      "community": 3,
+      "community": 2,
       "genre": [
         "hip hop",
         "pop rap",
@@ -248,7 +248,7 @@
       "name": "Amy Holland",
       "group": "1980s",
       "value": 16,
-      "community": 3,
+      "community": 2,
       "genre": []
     },
     {
@@ -278,7 +278,7 @@
       "name": "Phil Collins",
       "group": "1980s",
       "value": 20,
-      "community": 3,
+      "community": 2,
       "genre": [
         "aor",
         "art pop",
@@ -309,7 +309,7 @@
       "name": "Asia",
       "group": "1980s",
       "value": 2,
-      "community": 3,
+      "community": 2,
       "genre": [
         "hard rock",
         "progressive rock",
@@ -333,7 +333,7 @@
       "name": "Mike + the Mechanics",
       "group": "1980s",
       "value": 4,
-      "community": 3,
+      "community": 2,
       "genre": [
         "aor",
         "new wave",
@@ -378,7 +378,7 @@
       "name": "Simply Red",
       "group": "1980s",
       "value": 7,
-      "community": 3,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "dance-pop",
@@ -441,7 +441,7 @@
       "name": "Lisa Stansfield",
       "group": "1980s",
       "value": 10,
-      "community": 3,
+      "community": 2,
       "genre": [
         "blue-eyed soul",
         "contemporary r&b",
@@ -513,7 +513,7 @@
       "name": "Don Henley",
       "group": "1980s",
       "value": 1,
-      "community": 2,
+      "community": 3,
       "genre": [
         "folk",
         "pop rock",
@@ -525,7 +525,7 @@
       "name": "Bruce Hornsby",
       "group": "1980s",
       "value": 1,
-      "community": 2,
+      "community": 3,
       "genre": [
         "bluegrass",
         "blues rock",
@@ -541,7 +541,7 @@
       "name": "Michael Sembello",
       "group": "1980s",
       "value": 1,
-      "community": 3,
+      "community": 2,
       "genre": [
         "pop",
         "pop rock",

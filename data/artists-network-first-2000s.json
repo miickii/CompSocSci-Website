@@ -5,7 +5,7 @@
       "name": "Taylor Swift",
       "group": "2000s",
       "value": 24,
-      "community": 2,
+      "community": 0,
       "genre": [
         "alternative pop",
         "contemporary country",
@@ -24,7 +24,7 @@
       "name": "Rascal Flatts",
       "group": "2000s",
       "value": 36,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary country",
         "country",
@@ -36,7 +36,7 @@
       "name": "Carrie Underwood",
       "group": "2000s",
       "value": 33,
-      "community": 2,
+      "community": 0,
       "genre": [
         "contemporary country",
         "country",
@@ -50,7 +50,7 @@
       "name": "Little Big Town",
       "group": "2000s",
       "value": 12,
-      "community": 2,
+      "community": 0,
       "genre": [
         "country"
       ]
@@ -91,7 +91,7 @@
       "name": "Miley Cyrus",
       "group": "2000s",
       "value": 34,
-      "community": 2,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -108,7 +108,7 @@
       "name": "Kelly Clarkson",
       "group": "2000s",
       "value": 39,
-      "community": 2,
+      "community": 3,
       "genre": [
         "pop",
         "pop rock"
@@ -119,7 +119,7 @@
       "name": "Kanye West Tribute Band",
       "group": "2000s",
       "value": 10,
-      "community": 3,
+      "community": 2,
       "genre": []
     },
     {
@@ -127,7 +127,7 @@
       "name": "Rick Ross",
       "group": "2000s",
       "value": 12,
-      "community": 3,
+      "community": 2,
       "genre": [
         "gangsta rap",
         "hardcore hip hop",
@@ -141,7 +141,7 @@
       "name": "Fall Out Boy",
       "group": "2000s",
       "value": 19,
-      "community": 3,
+      "community": 2,
       "genre": [
         "alternative rock",
         "electropop",
@@ -157,7 +157,7 @@
       "name": "Rihanna",
       "group": "2000s",
       "value": 50,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -190,7 +190,7 @@
       "name": "Katy Perry",
       "group": "2000s",
       "value": 20,
-      "community": 2,
+      "community": 3,
       "genre": [
         "bubblegum pop",
         "dance-pop",
@@ -205,7 +205,7 @@
       "name": "MGMT",
       "group": "2000s",
       "value": 2,
-      "community": 2,
+      "community": 3,
       "genre": [
         "hypnagogic pop",
         "indie pop",
@@ -223,7 +223,7 @@
       "name": "Michelle Branch",
       "group": "2000s",
       "value": 16,
-      "community": 2,
+      "community": 3,
       "genre": [
         "alternative rock",
         "country",
@@ -241,7 +241,7 @@
       "name": "Ashanti",
       "group": "2000s",
       "value": 9,
-      "community": 2,
+      "community": 1,
       "genre": [
         "contemporary r&b",
         "pop soul",
@@ -253,7 +253,7 @@
       "name": "Nicki Minaj",
       "group": "2000s",
       "value": 12,
-      "community": 3,
+      "community": 2,
       "genre": [
         "east coast hip hop",
         "electronic",
@@ -280,7 +280,7 @@
       "name": "Justin Bieber",
       "group": "2000s",
       "value": 7,
-      "community": 3,
+      "community": 2,
       "genre": [
         "pop",
         "teen pop"
@@ -311,7 +311,7 @@
       "name": "Ciara",
       "group": "2000s",
       "value": 25,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "dance",
@@ -327,7 +327,7 @@
       "name": "Kid Cudi",
       "group": "2000s",
       "value": 21,
-      "community": 3,
+      "community": 2,
       "genre": [
         "alternative hip hop",
         "hip hop",
@@ -340,7 +340,7 @@
       "name": "Estelle",
       "group": "2000s",
       "value": 19,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -353,7 +353,7 @@
       "name": "Mike Posner",
       "group": "2000s",
       "value": 6,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "dance-pop",
@@ -367,7 +367,7 @@
       "name": "Drake",
       "group": "2000s",
       "value": 26,
-      "community": 3,
+      "community": 2,
       "genre": [
         "alternative r&b",
         "contemporary r&b",
@@ -384,7 +384,7 @@
       "name": "Keri Hilson",
       "group": "2000s",
       "value": 28,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "electro",
@@ -398,7 +398,7 @@
       "name": "Duffy",
       "group": "2000s",
       "value": 7,
-      "community": 0,
+      "community": 3,
       "genre": [
         "blues",
         "pop",
@@ -411,7 +411,7 @@
       "name": "Janelle Mon\u00e1e",
       "group": "2000s",
       "value": 1,
-      "community": 3,
+      "community": 2,
       "genre": [
         "art pop",
         "contemporary r&b",
@@ -443,7 +443,7 @@
       "name": "Gretchen Wilson",
       "group": "2000s",
       "value": 4,
-      "community": 2,
+      "community": 0,
       "genre": [
         "country"
       ]
@@ -453,7 +453,7 @@
       "name": "Corinne Bailey Rae",
       "group": "2000s",
       "value": 17,
-      "community": 3,
+      "community": 2,
       "genre": [
         "neo soul",
         "soul"
@@ -464,7 +464,7 @@
       "name": "Lady Gaga",
       "group": "2000s",
       "value": 9,
-      "community": 3,
+      "community": 2,
       "genre": [
         "americana",
         "dance",
@@ -513,7 +513,7 @@
       "name": "Jonas Brothers",
       "group": "2000s",
       "value": 9,
-      "community": 2,
+      "community": 3,
       "genre": [
         "pop rock",
         "teen pop"
@@ -524,7 +524,7 @@
       "name": "Chase & Status",
       "group": "2000s",
       "value": 3,
-      "community": 3,
+      "community": 2,
       "genre": [
         "drum and bass",
         "dubstep",
@@ -559,7 +559,7 @@
       "name": "Brandi Carlile",
       "group": "2000s",
       "value": 8,
-      "community": 1,
+      "community": 0,
       "genre": [
         "alternative country",
         "americana",
@@ -573,7 +573,7 @@
       "name": "Silversun Pickups",
       "group": "2000s",
       "value": 3,
-      "community": 3,
+      "community": 2,
       "genre": [
         "alternative rock",
         "indie rock",
@@ -587,7 +587,7 @@
       "name": "James Blunt",
       "group": "2000s",
       "value": 6,
-      "community": 0,
+      "community": 3,
       "genre": [
         "acoustic rock",
         "folk rock",
@@ -604,7 +604,7 @@
       "name": "Amy Winehouse",
       "group": "2000s",
       "value": 7,
-      "community": 0,
+      "community": 3,
       "genre": [
         "contemporary r&b",
         "crossover jazz",
@@ -622,7 +622,7 @@
       "name": "India.Arie",
       "group": "2000s",
       "value": 1,
-      "community": 0,
+      "community": 3,
       "genre": [
         "blues",
         "folk",
@@ -635,7 +635,7 @@
       "name": "Jazmine Sullivan",
       "group": "2000s",
       "value": 4,
-      "community": 3,
+      "community": 2,
       "genre": [
         "contemporary r&b",
         "soul"
