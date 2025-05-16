@@ -2,33 +2,6 @@ import { useState, useEffect } from 'react';
 import { Download, ExternalLink, BookOpen } from 'lucide-react';
 
 function NotebookViewer() {
-  // State to track if the iframe has loaded
-  const [isLoading, setIsLoading] = useState(true);
-  const [notebookUrl, setNotebookUrl] = useState('');
-  const [error, setError] = useState(null);
-
-  useEffect(() => {
-    // Set the notebook URL - this should be your GitHub hosted notebook or nbviewer URL
-    // Example: "https://nbviewer.org/github/yourusername/repo/blob/main/Grammy_Collaboration_Analysis.ipynb"
-    setNotebookUrl("https://nbviewer.org/github/miickii/CompSocSci-Website/blob/main/explainer.ipynb");
-    
-    // You could also try to dynamically check if the URL is valid
-    const checkUrl = async () => {
-      try {
-        const response = await fetch(notebookUrl, { method: 'HEAD' });
-        if (!response.ok) {
-          setError("Notebook URL might not be accessible. Please check the direct link below.");
-        }
-      } catch (e) {
-        // This might fail due to CORS, which is expected when checking external URLs
-        console.log("Could not check URL, but this might be expected due to CORS");
-      }
-    };
-    
-    if (notebookUrl) {
-      checkUrl();
-    }
-  }, [notebookUrl]);
 
   return (
     <div className="max-w-6xl mx-auto">
