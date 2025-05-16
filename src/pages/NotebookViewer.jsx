@@ -69,23 +69,7 @@ function NotebookViewer() {
       
       {/* Notebook Viewer (iframe with nbviewer) */}
       <div className="w-full bg-gray-800 bg-opacity-50 rounded-lg overflow-hidden mb-8">
-        {isLoading && (
-          <div className="flex items-center justify-center h-96">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-grammy-gold"></div>
-          </div>
-        )}
-        
         <iframe src="explainer.html" className="w-full h-[800px] border-0" />
-
-        
-        {error && (
-          <div className="p-6 text-center">
-            <p className="text-yellow-400 mb-4">{error}</p>
-            <p className="text-gray-300">
-              Please use the "Open in nbviewer" button above to view the notebook directly.
-            </p>
-          </div>
-        )}
       </div>
     </div>
   );
