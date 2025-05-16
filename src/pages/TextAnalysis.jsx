@@ -216,19 +216,20 @@ export default function TextAnalysis() {
           <div>
             <h3 className="text-lg font-semibold text-grammy-gold mb-2">Data Processing</h3>
             <ul className="list-disc list-inside space-y-1">
-              <li>Collected lyrics from songs by Grammy nominees</li>
-              <li>Removed stop words and common musical terms</li>
-              <li>Applied stemming to group related words</li>
-              <li>Categorized lyrics by network communities</li>
+              <li>Lyrics collected using the <code>Lyrics.ovh</code> API, max 20 samples per artist community</li>
+              <li>Normalized text: lowercased, removed accents, stripped non-word characters</li>
+              <li>Filtered out section headers like "Verse 1" and musical fillers like "la", "oh", etc.</li>
+              <li>Excluded each artist’s name from their lyrics to avoid TF–IDF bias</li>
+              <li>Grouped lyrics by network communities (via Louvain clustering)</li>
             </ul>
           </div>
           <div>
-            <h3 className="text-lg font-semibold text-grammy-gold mb-2">Visualization</h3>
+            <h3 className="text-lg font-semibold text-grammy-gold mb-2">Analysis & Visualization</h3>
             <ul className="list-disc list-inside space-y-1">
-              <li>Generated word clouds where size represents frequency</li>
-              <li>Applied consistent color schemes across communities</li>
-              <li>Positioned words to highlight thematic relationships</li>
-              <li>Limited to top 100 most frequent terms for clarity</li>
+              <li>Generated TF–IDF word clouds using <code>scikit-learn</code> for each community</li>
+              <li>Used <code>VADER</code> sentiment analysis to calculate average mood per community and decade</li>
+              <li>Compared communities across two network groupings: by debut decade and by peak output</li>
+              <li>Traced lyrical shifts over time from poetic/emotional (1960s–80s) to informal/repetitive (2010s–20s)</li>
             </ul>
           </div>
         </div>

@@ -10,7 +10,7 @@ function Home() {
           Grammy Collaboration Networks
         </h1>
         <p className="text-xl text-gray-300 max-w-3xl mx-auto mb-8">
-          Explore the hidden connections between Grammy-nominated artists, songwriters, 
+          Explore the hidden connections between Grammy nominated artists, songwriters, 
           and producers across decades of music history.
         </p>
         <Link 
@@ -28,7 +28,7 @@ function Home() {
         <div className="max-w-4xl mx-auto">
           <p className="text-lg text-gray-300 mb-6">
             The music industry is shaped not only by the artists who perform but also by the vast 
-            networks of collaborators who contribute to their work—particularly songwriters and producers.
+            networks of collaborators who contribute to their work particularly songwriters and producers.
           </p>
           <p className="text-lg text-gray-300 mb-6">
             This project focuses on the top Grammy categories: Album of the Year, Record of the Year, 
@@ -76,7 +76,7 @@ function Home() {
         <h2 className="text-3xl font-bold mb-12 text-center">Quick Insights</h2>
         <div className="grid md:grid-cols-3 gap-8 text-center">
           <div>
-            <div className="text-4xl font-bold text-grammy-gold mb-2">65+</div>
+            <div className="text-4xl font-bold text-grammy-gold mb-2">60+</div>
             <p className="text-gray-300">Years of Grammy History</p>
           </div>
           <div>
@@ -84,7 +84,7 @@ function Home() {
             <p className="text-gray-300">Artists Analyzed</p>
           </div>
           <div>
-            <div className="text-4xl font-bold text-grammy-gold mb-2">5000+</div>
+            <div className="text-4xl font-bold text-grammy-gold mb-2">25000+</div>
             <p className="text-gray-300">Collaborations Mapped</p>
           </div>
         </div>

@@ -15,7 +15,7 @@ function About() {
         <div className="prose prose-invert max-w-none">
           <p className="text-gray-300">
             The music industry is shaped not only by the artists who perform but also by the vast 
-            networks of collaborators who contribute to their work—particularly songwriters and producers.
+            networks of collaborators who contribute to their work particularly songwriters and producers.
           </p>
           <p className="text-gray-300">
             In this project, we focus on the top Grammy categories: Album of the Year, Record of the Year, 
@@ -40,7 +40,7 @@ function About() {
               <h3 className="text-lg font-semibold">Data Collection</h3>
             </div>
             <p className="text-gray-300">
-              Grammy nominations were collected across 50+ years of history, focusing on the top four 
+              Grammy nominations were collected across 60+ years of history, focusing on the top four 
               categories. Songwriter and producer credits were gathered from official music databases.
             </p>
           </div>
