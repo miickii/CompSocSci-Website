@@ -130,35 +130,27 @@ export default function NetworkExplorer() {
           </div>
 
           {/* Method */}
-          <div className="flex bg-gray-700 rounded-lg p-1">
-            {[
-              ['first', 'First-release'],
-              ['mode',  'Mode-of-release']
-            ].map(([val,label])=>(
-              <button
-                key={val}
-                onClick={()=>setMethod(val)}
-                className={`px-4 py-2 rounded-md transition ${
-                  method===val
-                    ? 'bg-grammy-gold text-black'
-                    : 'text-gray-300 hover:text-white'
-                }`}
-              >
-                {label}
-              </button>
-            ))}
-          </div>
+          
 
           {/* Search & Filters */}
           <div className="flex items-center space-x-2">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400 w-4 h-4"/>
-              <input
-                value={searchQuery}
-                onChange={e=>setSearchQuery(e.target.value)}
-                placeholder="Search nodes..."
-                className="pl-10 pr-4 py-2 bg-gray-700 rounded-lg text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-grammy-gold"
-              />
+            <div className="flex bg-gray-700 rounded-lg p-1">
+              {[
+                ['first', 'First-release'],
+                ['mode',  'Mode-of-release']
+              ].map(([val,label])=>(
+                <button
+                  key={val}
+                  onClick={()=>setMethod(val)}
+                  className={`px-4 py-2 rounded-md transition ${
+                    method===val
+                      ? 'bg-grammy-gold text-black'
+                      : 'text-gray-300 hover:text-white'
+                  }`}
+                >
+                  {label}
+                </button>
+              ))}
             </div>
             <button
               onClick={()=>setShowFilters(f=>!f)}
@@ -239,7 +231,7 @@ export default function NetworkExplorer() {
               <strong>{stats.largestComm} nodes</strong>
             </li>
             <li>
-              <span>Top {networkType === 'writers' ? 'writers' : 'artists'}:</span>
+              <span>Top {networkType === 'writers' ? 'collaborated writers' : 'artists'}:</span>
               <div className="mt-2 flex flex-wrap gap-2">
                 {stats.topNodes.map((node, i) => (
                   <span
