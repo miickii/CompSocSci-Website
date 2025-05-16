@@ -35,7 +35,8 @@ function NotebookViewer() {
       <div className="text-center mb-8">
         <h1 className="text-4xl font-bold mb-4">Explainer Notebook</h1>
         <p className="text-xl text-gray-300">
-          Explore the detailed analysis and methodology behind the Grammy Collaboration Networks
+          Explore the full analysis pipeline behind our investigation of Grammy-nominated artists, 
+          their shared songwriters, and the evolving lyrical themes in popular music from the 1960s to 2020s.
         </p>
       </div>
       
@@ -44,25 +45,6 @@ function NotebookViewer() {
           <div className="flex items-center">
             <BookOpen className="w-6 h-6 text-grammy-gold mr-2" />
             <h2 className="text-2xl font-semibold">Jupyter Notebook</h2>
-          </div>
-          <div className="flex space-x-3">
-            <a 
-              href="/notebooks/Grammy_Collaboration_Analysis.ipynb" 
-              download
-              className="flex items-center space-x-1 px-4 py-2 bg-grammy-gold text-black rounded hover:bg-yellow-400 transition"
-            >
-              <Download className="w-4 h-4" />
-              <span>Download</span>
-            </a>
-            <a 
-              href={notebookUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="flex items-center space-x-1 px-4 py-2 bg-gray-700 text-white rounded hover:bg-gray-600 transition"
-            >
-              <ExternalLink className="w-4 h-4" />
-              <span>Open in nbviewer</span>
-            </a>
           </div>
         </div>
         
@@ -74,12 +56,13 @@ function NotebookViewer() {
         <div className="mb-4">
           <h3 className="text-xl font-semibold mb-2">Key Topics Covered:</h3>
           <ul className="list-disc pl-6 text-gray-300 space-y-1">
-            <li>Data acquisition and cleaning procedures</li>
-            <li>Network construction methodology</li>
-            <li>Centrality measures and community detection</li>
-            <li>Temporal analysis of collaboration patterns</li>
-            <li>Genre-based clustering and cross-genre collaboration</li>
-            <li>Statistical significance of network properties</li>
+            <li>Collection of Grammy nominee data from 1959–2023</li>
+            <li>Retrieval of discography and writer metadata from MusicBrainz</li>
+            <li>Construction of bipartite artist–writer graph and projected networks</li>
+            <li>Louvain community detection across multiple decade splits</li>
+            <li>Text preprocessing and TF–IDF analysis of lyrics per community</li>
+            <li>Sentiment scoring using VADER to track emotional trends in music</li>
+            <li>Decade-wise comparison of artist connectivity and lyrical content</li>
           </ul>
         </div>
       </div>
@@ -92,12 +75,8 @@ function NotebookViewer() {
           </div>
         )}
         
-        <iframe
-          title="Grammy Collaboration Networks Notebook"
-          src={notebookUrl}
-          className={`w-full ${isLoading ? 'h-0' : 'h-[800px]'} border-0`}
-          onLoad={() => setIsLoading(false)}
-        />
+        <iframe src="explainer.html" className="w-full h-[800px] border-0" />
+
         
         {error && (
           <div className="p-6 text-center">
@@ -107,21 +86,6 @@ function NotebookViewer() {
             </p>
           </div>
         )}
-      </div>
-      
-      <div className="p-6 bg-gray-800 bg-opacity-50 rounded-lg mb-8">
-        <h3 className="text-xl font-semibold mb-3">Running the Notebook Locally</h3>
-        <p className="text-gray-300 mb-4">
-          To run this notebook on your local machine:
-        </p>
-        <ol className="list-decimal pl-6 text-gray-300 space-y-2">
-          <li>Download the notebook using the download button above</li>
-          <li>Install Jupyter Notebook or JupyterLab: <code className="bg-gray-700 px-2 py-1 rounded">pip install jupyter</code></li>
-          <li>Install the required packages: <code className="bg-gray-700 px-2 py-1 rounded">pip install pandas networkx matplotlib seaborn scipy</code></li>
-          <li>Download our datasets from the Datasets page</li>
-          <li>Run Jupyter: <code className="bg-gray-700 px-2 py-1 rounded">jupyter notebook</code></li>
-          <li>Open the downloaded notebook file</li>
-        </ol>
       </div>
     </div>
   );
